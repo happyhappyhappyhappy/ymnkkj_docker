@@ -1,0 +1,24 @@
+{
+    // コンテナの名前
+    "name": "sakura-cpp1",
+
+    // Docker Composeの設定ファイルパス
+    "dockerComposeFile": [
+        "../docker-compose.yml"
+    ],
+
+    // コンテナのサービス名
+    "service": "cppdev-alpine-sakura2",
+
+    // コンテナ内でのユーザー
+    "remoteUser": "yamanaka",
+
+    // VSCodeで開くコンテナ内のパス
+    "workspaceFolder": "/cpplab",
+
+    // コンテナ内で使用する拡張機能
+    "extensions": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode"
+    ]
+}

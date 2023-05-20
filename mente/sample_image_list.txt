@@ -1,0 +1,13 @@
+REPOSITORY                                             TAG       IMAGE ID       CREATED       SIZE
+vsc-compcpp-c49f6f69d5a5b3a7616f37f45ba21e06-uid       latest    72637d98d290   7 days ago    12.9MB
+vsc-compcpp-c49f6f69d5a5b3a7616f37f45ba21e06           latest    bc2d4fd562a9   7 days ago    12.9MB
+vsc-sample3-31fe545356e9340621f6f03382ce2539-uid       latest    2d678db61070   7 days ago    110MB
+sample-i3                                              latest    df3b7cbd3c79   7 days ago    110MB
+vsc-sample2-bd606aa772a3b9d38d99751f296760d2-uid       latest    5ab8d584d4fb   7 days ago    110MB
+sample-i2                                              latest    e0eee05f8f9b   7 days ago    110MB
+vsc-sample-a678ceeea91a61770a848e9fb40f63c9-uid        latest    fa2798467b9e   9 days ago    110MB
+sample-i0                                              latest    d2c5d5dcada1   9 days ago    110MB
+vsc-sample-a678ceeea91a61770a848e9fb40f63c9            latest    d2c5d5dcada1   9 days ago    110MB
+sakuracpp1                                             latest    2f72117a52b7   5 weeks ago   2.61GB
+vsc-docker_cpp1-665929ab79496999f87b2032aba543dd-uid   latest    df9a937d8e92   6 weeks ago   105MB
+vsc-docker_cpp1-665929ab79496999f87b2032aba543dd       latest    e38e9f7ea5b4   6 weeks ago   105MB

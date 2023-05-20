@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  alma0:
+    container_name: 'alma0c'
+    build:
+      context: .
+      dockerfile: ./.devcontainer/DockerFile
+    tty: true

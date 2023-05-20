@@ -1,0 +1,17 @@
+version: "3.3"
+services:
+  cppdev-alpine-sakura1:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: cppdev-alpine-sakura1-i
+    init: true
+    container_name: cppdev-alpine-sakura1-c
+    hostname: cpp-sakura-prot1
+    volumes: 
+      - type: bind
+        source: .
+        target: /cpplab
+    stdin_open: true
+    tty: true
+    working_dir: /cpplab/src/build

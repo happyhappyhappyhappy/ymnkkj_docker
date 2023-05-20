@@ -1,0 +1,17 @@
+version: "3.8"
+services:
+# サービス名はdevcontainer.jsonのファイル内と一致させる
+  java-junko1:
+    build:
+      context: .
+      dockerfile: ./.devcontainer/Dockerfile
+    image: java-junko-i1
+    init: true
+    container_name: java-junko-c1
+    hostname: javajunko1
+    stdin_open: true
+    tty: true
+    volumes:
+      - /home/yamanaka/unit_labo/java:/wrk:cached
+    # user: yamanaka試しにテスト 2021/04/03 →中止
+

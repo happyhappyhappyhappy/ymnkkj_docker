@@ -1,0 +1,357 @@
+[
+  {
+    "HeroinName": "キュアスター",
+    "RealName": "星奈ひかる",
+    "Title": "スター☆トゥインクルプリキュア"
+  },
+  {
+    "HeroinName": "キュアミルキー",
+    "RealName": "羽衣ララ",
+    "Title": "スター☆トゥインクルプリキュア"
+  },
+  {
+    "HeroinName": "キュアソレイユ",
+    "RealName": "天宮えれな",
+    "Title": "スター☆トゥインクルプリキュア"
+  },
+  {
+    "HeroinName": "キュアセレーネ",
+    "RealName": "香久矢まどか",
+    "Title": "スター☆トゥインクルプリキュア"
+  },
+  {
+    "HeroinName": "キュアグレース",
+    "RealName": "花寺のどか",
+    "Title": "ヒーリングっどプリキュア"
+  },
+  {
+    "HeroinName": "キュアフォンテーヌ",
+    "RealName": "沢泉ちゆ",
+    "Title": "ヒーリングっどプリキュア"
+  },
+  {
+    "HeroinName": "キュアスパークル",
+    "RealName": "平光ひなた",
+    "Title": "ヒーリングっどプリキュア"
+  },
+  {
+    "HeroinName": "キュアサマー",
+    "RealName": "夏海まなつ",
+    "Title": "トロピカル～ジュ！プリキュア"
+  },
+  {
+    "HeroinName": "キュアコーラル",
+    "RealName": "涼村さんご",
+    "Title": "トロピカル～ジュ！プリキュア"
+  },
+  {
+    "HeroinName": "キュアパパイア",
+    "RealName": "一之瀬みのり",
+    "Title": "トロピカル～ジュ！プリキュア"
+  },
+  {
+    "HeroinName": "キュアフラミンゴ",
+    "RealName": "滝沢あすか",
+    "Title": "トロピカル～ジュ！プリキュア"
+  },
+  {
+    "HeroinName": "キュアプレシャス",
+    "RealName": "和実ゆい",
+    "Title": "デリシャスパーティ♡プリキュア"
+  },
+  {
+    "HeroinName": "キュアスパイシー",
+    "RealName": "芙羽ここね",
+    "Title": "デリシャスパーティ♡プリキュア"
+  },
+  {
+    "HeroinName": "キュアヤムヤム",
+    "RealName": "華満らん",
+    "Title": "デリシャスパーティ♡プリキュア"
+  },
+  {
+    "HeroinName": "キュアラブリー",
+    "RealName": "愛乃めぐみ",
+    "Title": "ハピネスチャージプリキュア！"
+  },
+  {
+    "HeroinName": "キュアプリンセス",
+    "RealName": "白雪ひめ",
+    "Title": "ハピネスチャージプリキュア！"
+  },
+  {
+    "HeroinName": "キュアハニー",
+    "RealName": "大森ゆうこ",
+    "Title": "ハピネスチャージプリキュア！"
+  },
+  {
+    "HeroinName": "キュアフォーチュン",
+    "RealName": "キュアフォーチュン",
+    "Title": "ハピネスチャージプリキュア！"
+  },
+  {
+    "HeroinName": "キュアフローラ",
+    "RealName": "春野はるか",
+    "Title": "Go！プリンセスプリキュア"
+  },
+  {
+    "HeroinName": "キュアマーメイド",
+    "RealName": "海藤みなみ",
+    "Title": "Go！プリンセスプリキュア"
+  },
+  {
+    "HeroinName": "キュアトゥインクル",
+    "RealName": "天ノ川きらら",
+    "Title": "Go！プリンセスプリキュア"
+  },
+  {
+    "HeroinName": "キュアミラクル",
+    "RealName": "朝日奈みらい",
+    "Title": "魔法つかいプリキュア!"
+  },
+  {
+    "HeroinName": "キュアマジカル",
+    "RealName": "十六夜リコ",
+    "Title": "魔法つかいプリキュア!"
+  },
+  {
+    "HeroinName": "キュアフェリーチェ",
+    "RealName": "花海ことは",
+    "Title": "魔法つかいプリキュア!"
+  },
+  {
+    "HeroinName": "キュアホイップ",
+    "RealName": "宇佐美いちか",
+    "Title": "キラキラ☆プリキュアアラモード"
+  },
+  {
+    "HeroinName": "キュアカスタード",
+    "RealName": "有栖川ひまり",
+    "Title": "キラキラ☆プリキュアアラモード"
+  },
+  {
+    "HeroinName": "キュアジェラート",
+    "RealName": "立神あおい",
+    "Title": "キラキラ☆プリキュアアラモード"
+  },
+  {
+    "HeroinName": "キュアマカロン",
+    "RealName": "琴爪ゆかり",
+    "Title": "キラキラ☆プリキュアアラモード"
+  },
+  {
+    "HeroinName": "キュアショコラ",
+    "RealName": "剣城あきら",
+    "Title": "キラキラ☆プリキュアアラモード"
+  },
+  {
+    "HeroinName": "キュアエール",
+    "RealName": "野乃はな",
+    "Title": "ＨＵＧっと！プリキュア"
+  },
+  {
+    "HeroinName": "キュアアンジュ",
+    "RealName": "薬師寺さあや",
+    "Title": "ＨＵＧっと！プリキュア"
+  },
+  {
+    "HeroinName": "キュアエトワール",
+    "RealName": "輝木ほまれ",
+    "Title": "ＨＵＧっと！プリキュア"
+  },
+  {
+    "HeroinName": "キュアピーチ",
+    "RealName": "桃園ラブ",
+    "Title": "フレッシュプリキュア!"
+  },
+  {
+    "HeroinName": "キュアベリー",
+    "RealName": "蒼乃美希",
+    "Title": "フレッシュプリキュア!"
+  },
+  {
+    "HeroinName": "キュアパイン",
+    "RealName": "山吹祈里",
+    "Title": "フレッシュプリキュア!"
+  },
+  {
+    "HeroinName": "キュアパッション",
+    "RealName": "東せつな",
+    "Title": "フレッシュプリキュア!"
+  },
+  {
+    "HeroinName": "キュアブロッサム",
+    "RealName": "花咲つぼみ",
+    "Title": "ハートキャッチプリキュア!"
+  },
+  {
+    "HeroinName": "キュアマリン",
+    "RealName": "来海えりか",
+    "Title": "ハートキャッチプリキュア!"
+  },
+  {
+    "HeroinName": "キュアサンシャイン",
+    "RealName": "明堂院いつき",
+    "Title": "ハートキャッチプリキュア!"
+  },
+  {
+    "HeroinName": "キュアムーンライト",
+    "RealName": "月影ゆり",
+    "Title": "ハートキャッチプリキュア!"
+  },
+  {
+    "HeroinName": "キュアメロディ",
+    "RealName": "北条響",
+    "Title": "スイートプリキュア♪"
+  },
+  {
+    "HeroinName": "キュアリズム",
+    "RealName": "南野奏",
+    "Title": "スイートプリキュア♪ "
+  },
+  {
+    "HeroinName": "キュアビート",
+    "RealName": "黒川エレン",
+    "Title": "スイートプリキュア♪ "
+  },
+  {
+    "HeroinName": "キュアミューズ",
+    "RealName": "調辺アコ",
+    "Title": "スイートプリキュア♪ "
+  },
+  {
+    "HeroinName": "キュアハート",
+    "RealName": "相田マナ",
+    "Title": "ドキドキ!プリキュア"
+  },
+  {
+    "HeroinName": "キュアダイヤモンド",
+    "RealName": "菱川六花",
+    "Title": "ドキドキ!プリキュア"
+  },
+  {
+    "HeroinName": "キュアロゼッタ",
+    "RealName": "四葉ありす",
+    "Title": "ドキドキ!プリキュア"
+  },
+  {
+    "HeroinName": "キュアソード",
+    "RealName": "剣崎真琴",
+    "Title": "ドキドキ!プリキュア"
+  },
+  {
+    "HeroinName": "キュアエース",
+    "RealName": "円亜久里",
+    "Title": "ドキドキ!プリキュア"
+  },
+  {
+    "HeroinName": "キュアブラック",
+    "RealName": "美墨なぎさ",
+    "Title": "ふたりはプリキュア"
+  },
+  {
+    "HeroinName": "キュアホワイト",
+    "RealName": "雪城ほのか",
+    "Title": "ふたりはプリキュア"
+  },
+  {
+    "HeroinName": "キュアブラック",
+    "RealName": "美墨なぎさ",
+    "Title": "ふたりはプリキュアMaxHeart"
+  },
+  {
+    "HeroinName": "キュアホワイト",
+    "RealName": "雪城ほのか",
+    "Title": "ふたりはプリキュアMaxHeart"
+  },
+  {
+    "HeroinName": "シャイニールミナス",
+    "RealName": "九条ひかり",
+    "Title": " ふたりはプリキュアMaxHeart"
+  },
+  {
+    "HeroinName": "キュアブルーム",
+    "RealName": "日向咲",
+    "Title": "ふたりはプリキュアSplashStar"
+  },
+  {
+    "HeroinName": "キュアイーグレット",
+    "RealName": "美翔舞",
+    "Title": "ふたりはプリキュアSplashStar"
+  },
+  {
+    "HeroinName": "キュアドリーム",
+    "RealName": "夢原のぞみ",
+    "Title": "Yes!プリキュア5"
+  },
+  {
+    "HeroinName": "キュアルージュ",
+    "RealName": "夏木りん",
+    "Title": "Yes!プリキュア5"
+  },
+  {
+    "HeroinName": "キュアアクア",
+    "RealName": "水無月かれん",
+    "Title": "Yes!プリキュア5"
+  },
+  {
+    "HeroinName": "キュアミント",
+    "RealName": "秋元こまち",
+    "Title": "Yes!プリキュア5"
+  },
+  {
+    "HeroinName": "キュアレモネード",
+    "RealName": "春日野うらら",
+    "Title": "Yes!プリキュア5"
+  },
+  {
+    "HeroinName": "キュアドリーム",
+    "RealName": "夢原のぞみ",
+    "Title": "Yes!プリキュア5GoGo!"
+  },
+  {
+    "HeroinName": "キュアルージュ",
+    "RealName": "夏木りん",
+    "Title": "Yes!プリキュア5GoGo!"
+  },
+  {
+    "HeroinName": "キュアレモネード",
+    "RealName": "春日野うらら",
+    "Title": "Yes!プリキュア5GoGo!"
+  },
+  {
+    "HeroinName": "キュアミント",
+    "RealName": "秋元こまち",
+    "Title": "Yes!プリキュア5GoGo!"
+  },
+  {
+    "HeroinName": "キュアアクア",
+    "RealName": "水無月かれん",
+    "Title": "Yes!プリキュア5GoGo!"
+  },
+  {
+    "HeroinName": "キュアハッピー",
+    "RealName": "星空みゆき",
+    "Title": "スマイルプリキュア!"
+  },
+  {
+    "HeroinName": "キュアサニー",
+    "RealName": "日野あかね",
+    "Title": "スマイルプリキュア!"
+  },
+  {
+    "HeroinName": "キュアピース",
+    "RealName": "黄瀬やよい",
+    "Title": "スマイルプリキュア!"
+  },
+  {
+    "HeroinName": "キュアマーチ",
+    "RealName": "緑川なお",
+    "Title": "スマイルプリキュア!"
+  },
+  {
+    "HeroinName": "キュアビューティ",
+    "RealName": "青木れいか",
+    "Title": "スマイルプリキュア!"
+  }
+]

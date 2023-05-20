@@ -1,0 +1,27 @@
+# 20230410 pypy3(python3)環境
+version: "3.8"
+services:
+# サービス名はdevcontainer.jsonのファイル内と一致させる
+  pypy3-pyotu2:
+    build:
+      context: .
+      dockerfile: ./.devcontainer/Dockerfile
+    image: pypy3-pyotu2i
+    init: true
+    container_name: pypy3-pyotu2c
+    hostname: py-otu
+    # https://zenn.dev/iidadaiti/articles/a0b5c540cb10d2
+    # あちこちフォルダ移動するとエラーが出てうっとうしい 2022/06/25
+    # ホームディレクトリに移動時エラー
+    # command: sleep infinity
+    stdin_open: true
+    tty: true
+    environment:
+      - DISPLAY=${DISPLAY}
+    volumes:
+    # Xを使う場合
+      - /tmp/.X11-unix:/tmp/.X11-unix
+    # wsl上のファイルをマウント:他のシステムとのやりとりも可能
+      - /home/sakura/unit_labo/python:/wrk:cached
+    # user: yamanaka試しにテスト 2021/04/03 →中止
+

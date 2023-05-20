@@ -1,0 +1,22 @@
+version: "3.8"
+services:
+# サービス名はdevcontainer.jsonのファイル内と一致させる
+  pypy3-pyotu1:
+    build:
+      context: .
+      dockerfile: ./.devcontainer/Dockerfile
+    command: ['zsh']
+    image: pypy3-pyotu1i
+    init: true
+    container_name: pypy3-pyotu1i
+    hostname: pyotu1
+    # https://zenn.dev/iidadaiti/articles/a0b5c540cb10d2
+    # あちこちフォルダ移動するとエラーが出てうっとうしい 2022/06/25
+    # ホームディレクトリに移動時エラー
+    # command: sleep infinity
+    stdin_open: true
+    tty: true
+    volumes:
+      - /home/yamanaka/unit_labo/pypy3:/wrk:cached
+    # user: yamanaka試しにテスト 2021/04/03 →中止
+

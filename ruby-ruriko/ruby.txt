@@ -1,0 +1,4796 @@
+ソート中...
+全文検索...
+acr/focal 1.7.2-1 all
+  autoconf like tool
+
+apophenia-bin/focal 1.0+ds-8 amd64
+  Apophenia Statistical C Library -- binary package
+
+apophenia-doc/focal 1.0+ds-8 all
+  Apophenia Statistical C Library -- reference manual
+
+asciidoctor/focal 2.0.10-2 all
+  AsciiDoc to HTML rendering for Ruby
+
+asciidoctor-doc/focal 2.0.10-2 all
+  AsciiDoc to HTML rendering for Ruby (documentation)
+
+autodep8/focal 0.22ubuntu1 all
+  DEP-8 test control file generator
+
+autopkgtest/focal-updates 5.11ubuntu1.1 all
+  automatic as-installed testing for Debian packages
+
+bundler/focal 2.1.4-1 all
+  Manage Ruby application dependencies
+
+cairo-dock-dbus-plug-in-interface-ruby/focal 3.4.1-6 all
+  library of D-Bus interface for ruby of Cairo-dock
+
+cakephp/focal 2.10.11-2 all
+  rapid application development framework for PHP
+
+cakephp-scripts/focal 2.10.11-2 all
+  rapid application development framework for PHP (scripts)
+
+camping/focal 2.1.580-1.1 all
+  small Ruby web framework for Model-View-Controller type applications
+
+capistrano/focal 3.12.0-1 all
+  複数のサーバー上で並列にコマンドを実行するツール
+
+cassiopee/focal 1.0.9-2build1 amd64
+  index and search tool in genomic sequences
+
+cewl/focal 5.4.8.1-1 all
+  custom word list generator
+
+chef/focal 15.8.25.3.gcf41df6a2-6 all
+  systems integration framework - clients
+
+chef-bin/focal 15.8.25.3.gcf41df6a2-6 all
+  Chef binaries
+
+chef-zero/focal 15.0.0-2 all
+  in-memory Chef server (for testing and solo purposes)
+
+cmigemo/focal 1:1.2+gh0.20150404-7 amd64
+  Japanese incremental search tool written in C - binary
+
+cmigemo-common/focal 1:1.2+gh0.20150404-7 all
+  Japanese incremental search tool written in C - common files
+
+codequery/focal 0.21.1+dfsg1-1.1build1 amd64
+  code-understanding, code-browsing or code-search tool
+
+coderay/focal 1.1.2-3 all
+  Helper programs for CodeRay Ruby lib for syntax highlighting
+
+composer/focal 1.10.1-1 all
+  dependency manager for PHP
+
+context-modules/focal 20190710-1 all
+  additional ConTeXt modules
+
+debdry/focal 0.2.2-1 all
+  Semi-assisted automatic Debian packaging
+
+diaspora-common/focal 0.7.6.1+debian1 all
+  distributed social networking service - common files
+
+diaspora-installer/focal 0.7.6.1+debian1 all
+  distributed social networking service - installer
+
+diaspora-installer-mysql/focal 0.7.6.1+debian1 all
+  distributed social networking service - installer (with MySQL)
+
+elpa-yasnippet/focal 0.14.0-1 all
+  template system for Emacs
+
+elpa-yasnippet-snippets/focal 0.20-1 all
+  Andrea Crotti's official YASnippet snippets
+
+eric/focal 20.2+ds1-1 all
+  フル機能を有する Python IDE
+
+erlang-cowboy/focal 2.0.0~pre.1+dfsg1-4 amd64
+  Cowboy is a small, fast and modular HTTP server written in Erlang
+
+erlang-cowboy-doc/focal 2.0.0~pre.1+dfsg1-4 all
+  Documentation files for erlang-cowboy
+
+erlang-cowboy-examples/focal 2.0.0~pre.1+dfsg1-4 all
+  Examples for erlang-cowboy
+
+erlang-neotoma/focal 1.7.4+dfsg-2 amd64
+  parser generator for Erlang
+
+exuberant-ctags/focal 1:5.9~svn20110310-12 amd64
+  ソースコード定義のタグファイルインデックスを作成
+
+facter/focal 3.11.0-4 amd64
+  collect and display facts about the system
+
+facter-dev/focal 3.11.0-4 amd64
+  collect and display facts about the system -- development files
+
+fonts-entypo/focal 3.0.0-1 all
+  icon fonts of dingbat style by Daniel Bruce
+
+gem2deb/focal 1.0.5ubuntu1 amd64
+  Debian Ruby パッケージングスイート
+
+gem2deb-test-runner/focal 1.0.5ubuntu1 amd64
+  Debian Ruby packaging suite - tool to run tests
+
+ghi/focal 1.2.0-1 all
+  GitHub issue tracker command line interface (CLI)
+
+gir1.2-isocodes-1.2/focal 1.2.2-2 amd64
+  access of iso-codes data and translations - GObject introspection
+
+gist/focal-updates 5.0.0-4ubuntu1 all
+  Upload gists to gist.github.com
+
+golang-bitbucket-pkg-inflect-dev/focal 0.0~hg20130829.20.8961c37-6 all
+  Go library to transform words from singular to plural
+
+golang-github-dchest-cssmin-dev/focal 0.0~git20151210.0.fb8d9b4-4 all
+  Go package to minify CSS
+
+golang-github-icrowley-fake-dev/focal 0.0~git20180203.4178557-2 all
+  fake data generator for Golang
+
+golang-github-jackc-fake-dev/focal 0.0~git20150926.812a484-2 all
+  fake data generator for Golang
+
+golang-github-joho-godotenv-dev/focal 1.2.0+git20180115.6bb0851-1 all
+  Go port of Ruby's dotenv library
+
+golang-github-knqyf263-go-dep-parser-dev/focal 0.0~git20190521.1ef8521-1 all
+  Golang library for dependency parser
+
+golang-github-markbates-inflect-dev/focal 1.0.0-1 all
+  Go library to transform words from singular to plural (Git fork)
+
+golang-github-rubyist-tracerx-dev/focal 0.0~git20170927.0.7879593-1 all
+  Output tracing information in your Go app based on environment variables
+
+groovy/focal 2.4.17-4ubuntu1 all
+  Agile dynamic language for the Java Virtual Machine
+
+groovy-doc/focal 2.4.17-4ubuntu1 all
+  Agile dynamic language for the Java Virtual Machine (documentation)
+
+haml-elisp/focal 1:3.1.0-3.1 all
+  Emacs Lisp mode for the Haml markup language
+
+hiera/focal 3.2.0-2 all
+  軽量階層データ格納庫
+
+hiki/focal 1.0.0-2 all
+  Ruby で書かれた Wiki エンジン
+
+inkscape/focal-updates 0.92.5-1ubuntu1.1 amd64
+  ベクターベースのドローイングプログラム
+
+irqtop/focal-updates 2.4-2ubuntu0.5 all
+  Observe IRQ and SoftIRQ in a top-like fashion
+
+jed-extra/focal 2.5.7-2 all
+  collection of useful Jed modes and utilities
+
+jedit/focal 5.5.0+dfsg-1 all
+  プラグインベースのプログラマ用エディタ
+
+jruby/focal 9.1.17.0-3build6 all
+  100% pure-Java implementation of Ruby
+
+jruby-maven-plugins/focal 1.1.5+ds1-2 all
+  Maven plugins to handle Ruby gems in a Maven compatible way
+
+jruby-openssl/focal 0.9.21-3 all
+  Ruby library that emulates the OpenSSL native library for JRuby
+
+kamailio-ruby-modules/focal 5.3.2-1build3 amd64
+  app_ruby module for Kamailio Ruby support
+
+kramdown/focal-updates,focal-security 1.17.0-4ubuntu0.1 all
+  Fast, pure-Ruby Markdown-superset converter - kramdown command
+
+kross/focal 5.68.0-0ubuntu1 amd64
+  Multi-language application scripting.
+
+kross-dev/focal 5.68.0-0ubuntu1 amd64
+  development files for kross
+
+krossruby/focal 4:19.12.3-0ubuntu1 amd64
+  Ruby module for Kross
+
+laby/focal 0.6.4-3 amd64
+  Learn how to program with ants and spider webs
+
+latex-cjk-common/focal 4.8.4+git20170127-2 amd64
+  CJK (中国語・日本語・韓国語) 用 LaTeX マクロパッケージ
+
+libacme-constant-perl/focal 0.1.3-1 all
+  module that makes inconstant constants, except actually not
+
+libapache2-mod-passenger/focal 5.0.30-1.1ubuntu3 amd64
+  Rails and Rack support for Apache2
+
+libapophenia2/focal 1.0+ds-8 amd64
+  Apophenia Statistical C Library -- library package
+
+libapophenia2-dev/focal 1.0+ds-8 amd64
+  Apophenia Statistical C Library -- development package
+
+libbusiness-edi-perl/focal 0.05-2 all
+  class for generating U.N. EDI interchange objects
+
+libbytelist-java/focal 1.0.15-1 all
+  helper library for packaging JRuby
+
+libcapstone3/focal 4.0.1+really+3.0.5-1build1 amd64
+  lightweight multi-architecture disassembly framework - library
+
+libcassie-dev/focal 1.0.9-2build1 amd64
+  library and headers for development
+
+libcassie-doc/focal 1.0.9-2build1 all
+  documentation for cassiopee library
+
+libcassie1v5/focal 1.0.9-2build1 amd64
+  library implementating search algorithms
+
+libcatalyst-manual-perl/focal 5.9010-1 all
+  developer's manual for Catalyst
+
+libcatalyst-perl/focal 5.90126-1 all
+  elegant Model-View-Controller Web Application Framework
+
+libcgi-session-serialize-yaml-perl/focal 4.26-3 all
+  YAML and YAML::Syck support for CGI::Session's serializers
+
+libclass-spiffy-perl/focal 0.15-3 all
+  Spiffy Perl interface framework
+
+libclout-clojure/focal 2.1.2-1 all
+  library for matching Ring HTTP requests
+
+libconfig-pit-perl/focal 0.04-2 all
+  Perl module for Manage settings
+
+libcss-lessp-perl/focal 0.86-1 all
+  LESS for Perl
+
+libdirgra-java/focal 0.3-1 all
+  Java library providing a simple directed graph implementation
+
+libdirgra-java-doc/focal 0.3-1 all
+  Documentation for dirgra
+
+libdrmaa1.0-ruby/focal 8.1.9+dfsg-9build2 all
+  Distributed resource management Application API library - Ruby bindings
+
+libfacter3.11.0/focal 3.11.0-4 amd64
+  collect and display facts about the system -- shared library
+
+libffi-platypus-perl/focal 1.10-1 amd64
+  module to create Perl bindings to non-Perl libraries with FFI
+
+libfilesystem-ruby/focal 0.5-5.1build8 all
+  Transitional package for ruby-filesystem
+
+libfilesystem-ruby1.8/focal 0.5-5.1build8 all
+  Transitional package for ruby-filesystem
+
+libfilesystem-ruby1.9/focal 0.5-5.1build8 all
+  Transitional package for ruby-filesystem
+
+libghc-highlighting-kate-dev/focal 0.6.4-5build1 amd64
+  syntax highlighting library based on Kate syntax descriptions
+
+libghc-highlighting-kate-doc/focal 0.6.4-5build1 all
+  library documentation for highlighting-kate; documentation
+
+libghc-highlighting-kate-prof/focal 0.6.4-5build1 amd64
+  highlighting-kate library with profiling enabled; profiling libraries
+
+libghc-hspec-dev/focal 2.6.1-1build1 amd64
+  behavior-driven development for Haskell
+
+libghc-hspec-doc/focal 2.6.1-1build1 all
+  behavior-driven development for Haskell; documentation
+
+libghc-hspec-prof/focal 2.6.1-1build1 amd64
+  behavior-driven development for Haskell; profiling libraries
+
+libghc-regexpr-dev/focal 0.5.4-14build1 amd64
+  Regular expression library like Perl/Ruby
+
+libghc-regexpr-doc/focal 0.5.4-14build1 all
+  Regular expression library like Perl/Ruby; documentation
+
+libghc-regexpr-prof/focal 0.5.4-14build1 amd64
+  Regular expression library like Perl/Ruby; profiling libraries
+
+libghc-scotty-dev/focal 0.11.4+dfsg-2 amd64
+  Haskell web framework inspired by Ruby's Sinatra
+
+libghc-scotty-doc/focal 0.11.4+dfsg-2 all
+  Haskell web framework inspired by Ruby's Sinatra; documentation
+
+libghc-scotty-prof/focal 0.11.4+dfsg-2 amd64
+  Haskell web framework inspired by Ruby's Sinatra; profiling libraries
+
+libghc-yi-misc-modes-dev/focal 0.18.0-1build1 amd64
+  Yi editor miscellaneous modes
+
+libghc-yi-misc-modes-doc/focal 0.18.0-1build1 all
+  Yi editor miscellaneous modes; documentation
+
+libghc-yi-misc-modes-prof/focal 0.18.0-1build1 amd64
+  Yi editor miscellaneous modes; profiling libraries
+
+libgit-pureperl-perl/focal 0.53-1 all
+  Pure Perl interface to Git repositories
+
+libgrok1/focal 1.20110708.1-4.4 amd64
+  shared libraries for grok
+
+libgtksourceview-3.0-common/focal 3.24.11-2 all
+  common files for the GTK+ syntax highlighting widget
+
+libgtksourceview-4-common/focal 4.6.0-1 all
+  common files for the GTK+ syntax highlighting widget
+
+libgtksourceview2.0-common/focal 2.10.5-3 all
+  common files for the GTK+ syntax highlighting widget
+
+libgv-ruby/focal 2.42.2-3build2 amd64
+  Ruby bindings for graphviz
+
+libhtml-prototype-perl/focal 1.48-5 all
+  module to generate HTML and Javascript for the Prototype library
+
+libisocodes-dev/focal 1.2.2-2 amd64
+  access of iso-codes data and translations - development files
+
+libisocodes1/focal 1.2.2-2 amd64
+  access of iso-codes data and translations
+
+libjcodings-java/focal 1.0.46-1 all
+  Java-based codings helper classes for Joni and JRuby
+
+libjffi-java/focal 1.2.7-11build2 all
+  Java Foreign Function Interface
+
+libjffi-jni/focal 1.2.7-11build2 amd64
+  Java Foreign Function Interface (JNI library)
+
+libjitescript-java/focal 0.4.1-3 all
+  Java API for generating JVM bytecode
+
+libjruby-joni-java/focal 2.1.31-1 all
+  Java port of Oniguruma regexp library
+
+libjs-chartkick.js/focal 2.1.0-2 all
+  create beautiful JavaScript charts with minimal code
+
+libjs-jquery-file-upload/focal 9.25.0-2 all
+  file upload widget for jQuery
+
+libjs-scriptaculous/focal 1.9.0-2 all
+  JavaScript library for dynamic web applications
+
+libjs-underscore/focal-updates,focal-security 1.9.1~dfsg-1ubuntu0.20.04.1 all
+  JavaScript's functional programming helper library
+
+libjsyntaxpane-java/focal 0.9.6~r156-7 all
+  Java EditorPane with support for Syntax Highlighting
+
+libjsyntaxpane-java-doc/focal 0.9.6~r156-7 all
+  Java EditorPane with support for Syntax Highlighting (javadoc files)
+
+libjvyamlb-java/focal 0.2.5-2 all
+  pure Java YAML loader and dumper
+
+libkf5krosscore5/focal 5.68.0-0ubuntu1 amd64
+  Multi-language application scripting.
+
+libkf5krossui5/focal 5.68.0-0ubuntu1 amd64
+  Multi-language application scripting.
+
+libmarc-file-mij-perl/focal 0.04-2 all
+  read newline-delimited marc-in-json files
+
+libmigemo-dev/focal 1:1.2+gh0.20150404-7 amd64
+  Japanese incremental search tool written in C - development binaries
+
+libmigemo1/focal 1:1.2+gh0.20150404-7 amd64
+  Japanese incremental search tool written in C - library
+
+libmruby-dev/focal 2.0.0-1 amd64
+  lightweight implementation of the Ruby language (development files)
+
+libmultiverse-core-java/focal 0.7.0-4 all
+  Java library implementing Software Transactional Memory (STM)
+
+libmultiverse-core-java-doc/focal 0.7.0-4 all
+  Documentation for libmultiverse-core-java
+
+libnet-z3950-zoom-perl/focal 1.30-2build1 amd64
+  Perl extension implementing the ZOOM API for Information Retrieval via Z39.50
+
+libopenshot-dev/focal 0.2.2+dfsg1-1ubuntu3 amd64
+  development files for the OpenShot video library
+
+libopenshot-doc/focal 0.2.2+dfsg1-1ubuntu3 all
+  documentation for the OpenShot video library
+
+libopenshot16/focal 0.2.2+dfsg1-1ubuntu3 amd64
+  library for high-quality video editing
+
+libparanamer-java/focal 2.8-4 all
+  Java library to access method parameter names at runtime
+
+libparanamer-maven-plugin-java/focal 2.8-4 all
+  Paranamer Maven Plugin
+
+libplack-middleware-crossorigin-perl/focal 0.013-1 all
+  Plack middleware adding headers to allow CORS
+
+libplack-middleware-expires-perl/focal 0.06-1 all
+  mod_expires for plack
+
+libplack-middleware-file-sass-perl/focal 0.03-4 all
+  Sass and SCSS support for all Plack-based PSGI frameworks
+
+libplack-middleware-header-perl/focal 0.04-1 all
+  Plack middleware to modify HTTP response headers
+
+libplack-middleware-logany-perl/focal 0.001-1 all
+  use Log::Any to handle logging from your Plack app
+
+libplack-middleware-logerrors-perl/focal 0.003-1 all
+  map psgi.errors to psgix.logger or other logger
+
+libplack-middleware-logwarn-perl/focal 0.001002-1 all
+  converts warnings to log messages
+
+libplack-perl/focal 1.0047-2 all
+  interface between web servers and Perl web applications
+
+libplack-test-agent-perl/focal 1.4-2 all
+  OO interface for testing low-level Plack/PSGI apps
+
+libpolyglot-maven-java/focal 0.8~tobrien+git20120905-9 all
+  modules to enable Maven usage in others JVM languages
+
+libpolyglot-maven-java-doc/focal 0.8~tobrien+git20120905-9 all
+  modules to enable Maven usage in others JVM languages - docs
+
+libpsych-java/focal 3.1.0+really3.1.0-1build6 all
+  ruby-psych Java extension
+
+librdf-ruby/focal 1.0.17.1+dfsg-1.3ubuntu3 all
+  Ruby language bindings for the Redland RDF library (dummy)
+
+librinci-perl/focal 1.1.93-1 all
+  module that provides a language-neutral metadata for your code
+
+libring-core-clojure/focal 1.6.2-2 all
+  Clojure web applications library
+
+libring-jetty-adapter-clojure/focal 1.6.2-2 all
+  Clojure web applications library - Jetty adapter
+
+libring-servlet-clojure/focal 1.6.2-2 all
+  Clojure web applications library - servlet utilities
+
+libruby/focal 1:2.7+1 all
+  Libraries necessary to run Ruby
+
+libruby2.7/focal-updates,focal-security 2.7.0-5ubuntu1.7 amd64
+  Libraries necessary to run Ruby 2.7
+
+libscalar-properties-perl/focal 1.100860-1 all
+  perl module to add run-time properties on scalar variables
+
+libspiffy-perl/focal 0.46-1 all
+  Spiffy Perl Interface Framework For You
+
+libsqlcipher-dev/focal 3.4.1-1build2 amd64
+  SQLCipher - 開発用ファイル
+
+libsqlcipher0/focal 3.4.1-1build2 amd64
+  SQLCipher shared library
+
+libstfl-ruby/focal 0.22-2build1 amd64
+  Ruby bindings for the structured terminal forms language/library
+
+libstfl-ruby1.8/focal 0.22-2build1 amd64
+  Ruby 1.8 bindings for the structured terminal forms language/library
+
+libstfl-ruby1.9.1/focal 0.22-2build1 amd64
+  Ruby 1.9.1 bindings for the structured terminal forms language/library
+
+libtest-spec-perl/focal 0.54-1 all
+  Perl module to write tests in a declarative specification style
+
+libunsafe-fences-java/focal 1.0-1 all
+  wrapper library around the Java 8 fences API
+
+libweb-scraper-perl/focal 0.38-1 all
+  Web Scraping Toolkit using HTML and CSS Selectors or XPath expressions
+
+libyecht-java/focal 1.1-3 all
+  Syck port, a YAML 1.0 processor for Ruby
+
+mhc-utils/focal 1.2.3-1 all
+  utilities for the MHC schedule management system
+
+mruby/focal 2.0.0-1 amd64
+  lightweight implementation of the Ruby language
+
+nadoka/focal 0.9.2-1 all
+  IRC logger, monitor and proxy program ("bot") in Ruby
+
+nanoc/focal 4.11.0-3 all
+  static site generator written in Ruby
+
+nanoc-doc/focal 4.11.0-3 all
+  static site generator written in Ruby - documentation
+
+nbdkit-plugin-ruby/focal 1.16.2-1ubuntu3 amd64
+  Ruby plugin for nbdkit
+
+needrestart/focal-updates,focal-security 3.4-6ubuntu0.1 all
+  check which daemons need to be restarted after library upgrades
+
+netbeans/focal 10.0-3ubuntu3 all
+  拡張性のある Java IDE
+
+ngraph-gtk-plugin-ruby/focal 6.08.00-1.1build1 amd64
+  Ruby plugin for Ngraph-gtk
+
+node-commander/focal 4.0.1+really2.20.0-2 all
+  Complete solution for Node.js command-line interfaces
+
+node-growl/focal 1.10.5-2 all
+  unobtrusive notification system for nodejs
+
+node-hashish/focal 0.0.4+git34dfe43-1 all
+  maniuplate hash data structures in Node.js
+
+node-inflection/focal 1.12.0+ds-2 all
+  port of inflection-js to node.js module
+
+node-jquery-ujs/focal 1.2.2-2 all
+  Unobtrusive scripting adapter for jQuery
+
+node-underscore/focal-updates,focal-security 1.9.1~dfsg-1ubuntu0.20.04.1 all
+  JavaScript's functional programming helper library - NodeJS
+
+pandoc/focal 2.5-3build2 amd64
+  general markup converter
+
+passenger/focal 5.0.30-1.1ubuntu3 amd64
+  Rails and Rack support
+
+passenger-doc/focal 5.0.30-1.1ubuntu3 all
+  Rails and Rack support for Apache2 - Documentation
+
+pkwalify/focal 1.23-1 all
+  perl kwalify validator
+
+plm/focal 2.6+repack-3 all
+  Programming exerciser in Java, Python, Scala and others
+
+po4a/focal 0.57-2 all
+  tools to ease the translation of documentation
+
+postgresql-12/focal-updates,focal-security 12.12-0ubuntu0.20.04.1 amd64
+  object-relational SQL database, version 12 server
+
+pry/focal 0.12.2-2 all
+  powerful irb alternative and runtime developer console
+
+puma/focal 3.12.4-1ubuntu2 amd64
+  threaded HTTP 1.1 server for Ruby/Rack applications
+
+puppet-beaker/focal 4.1.0-1 all
+  test harness providing platform abstraction and VM provisioning
+
+puppet-module-puppetlabs-augeas-core/focal 1.0.5-1 all
+  Puppet module for Augeas Core
+
+puppet-strings/focal 2.1.0-1 all
+  Tool to generate documentation from Puppet code and extensions
+
+px/focal 1.0.29-1 all
+  ps and top for human beings
+
+python-django-doc/focal-updates,focal-security 2:2.2.12-1ubuntu0.14 all
+  高レベル Python ウェブ開発フレームワーク (ドキュメンテーション)
+
+python-factory-boy-doc/focal 2.11.1-3 all
+  test fixtures replacement based on factory_girl for Ruby - doc
+
+python-flexmock/focal 0.10.4-1build1 all
+  Mock/Stub/Spy library for Python
+
+python-migrate-doc/focal 0.13.0-0ubuntu1 all
+  Database schema migration for SQLAlchemy - doc
+
+python3-biopython-sql/focal 1.76+dfsg-1 all
+  Biopython support for the BioSQL database schema (Python 3)
+
+python3-django/focal-updates,focal-security 2:2.2.12-1ubuntu0.14 all
+  高レベル Python ウェブ開発基盤
+
+python3-django-sass-processor/focal 0.5.4-1 all
+  compile files from markup languages such as SASS/SCSS
+
+python3-factory-boy/focal 2.11.1-3 all
+  test fixtures replacement based on factory_girl for Ruby - Python 3.x
+
+python3-flexmock/focal 0.10.4-1build1 all
+  Mock/Stub/Spy library for Python 3
+
+python3-inflection/focal 0.3.1-2 all
+  Port of Ruby on Rails' inflector (Python 3)
+
+python3-invoke/focal 1.3.0+ds-0.1 all
+  Pythonic task execution - Python 3.x
+
+python3-libsass/focal 0.18.0-1build1 amd64
+  SASS for Python 3: a straightforward binding of libsass for Python
+
+python3-migrate/focal 0.13.0-0ubuntu1 all
+  Database schema migration for SQLAlchemy - Python 3.x
+
+python3-misaka/focal 1.0.2-7build1 amd64
+  binding for Sundown, a markdown parsing library - Python 3.x
+
+python3-openshot/focal 0.2.2+dfsg1-1ubuntu3 amd64
+  OpenShot video library bindings for Python 3
+
+python3-sphinxcontrib.rubydomain/focal 0.1~dev-20100804-2 all
+  Ruby domain for HTTP APIs - Python 3.x
+
+r-cran-brew/focal 1.0-6-3 all
+  GNU R templating framework for report generation
+
+r-cran-crul/focal 0.9.0+dfsg-1 all
+  simple HTTP Client for GNU R
+
+r-cran-stringi/focal 1.4.6-1build1 amd64
+  GNU R character string processing facilities
+
+r-cran-vcr/focal 0.4.0+dfsg-1 all
+  GNU R record HTTP calls to disk
+
+rabbit/focal 3.0.0-3 all
+  シンプルなテキストフォーマット、RD をつかったプレゼンテーションツール
+
+racc/focal 1.4.14-2 all
+  Ruby LALR parser generator
+
+ragel/focal 6.10-1build1 amd64
+  compiles finite state machines into code in various languages
+
+rails/focal 2:5.2.3+dfsg-3 all
+  MVC ruby based framework geared for web application development (metapackage)
+
+rake/focal 13.0.1-4 all
+  ruby make-like utility
+
+rake-compiler/focal 1.0.5-1 all
+  Rake-based Ruby Extension (C, Java) task generator
+
+raspell/focal 1.3-2build1 amd64
+  interface binding for the Aspell spelling checker
+
+rbenv/focal 1.1.1-1 all
+  simple per-user Ruby version manager
+
+rdtool/focal 0.6.38-4 all
+  RD 文書整形ツール
+
+rdtool-elisp/focal 0.6.38-4 all
+  Emacs-lisp rd-mode for writing RD document
+
+rebound/focal 2.0.0-1 all
+  Command-line tool to fetch Stack Overflow results when program execution error
+
+redmine/focal 4.0.6-2 all
+  柔軟なプロジェクト管理用 web アプリケーション
+
+rexical/focal 1.0.7-1 all
+  Lexical scanner generator for Ruby
+
+ri/focal 1:2.7+1 all
+  Ruby Interactive reference
+
+roodi/focal 5.0.0-2 all
+  Ruby object oriented design inferometer
+
+rttool/focal 1.0.3.0-6 all
+  RT table formatter
+
+rubocop/focal 0.52.1+dfsg-1 all
+  Ruby static code analyzer
+
+ruby/focal 1:2.7+1 amd64
+  Interpreter of object-oriented scripting language Ruby (default version)
+
+ruby-abstract-type/focal 0.0.7-2 all
+  Allow non obstrusive declaring of abstract_type classes and modules
+
+ruby-ace-rails-ap/focal 4.1.1-1 all
+  ajax.org Cloud9 Editor (Ace) for the Rails asset pipeline
+
+ruby-acme-client/focal 2.0.5-1 all
+  Client for the ACME protocol
+
+ruby-actioncable/focal 2:5.2.3+dfsg-3 all
+  WebSocket framework for Rails (part of Rails)
+
+ruby-actionmailer/focal 2:5.2.3+dfsg-3 all
+  email composition, delivery, and receiving framework (part of Rails)
+
+ruby-actionpack/focal 2:5.2.3+dfsg-3 all
+  web-flow and rendering framework putting the VC in MVC (part of Rails)
+
+ruby-actionpack-action-caching/focal 1.2.1-1 all
+  action caching for Action Pack
+
+ruby-actionpack-page-caching/focal 1.1.0-1 all
+  static page caching for Action Pack (removed from core in Rails 4.0)
+
+ruby-actionpack-xml-parser/focal 2.0.1-3 all
+  XML parameters parser for Action Pack
+
+ruby-actionview/focal 2:5.2.3+dfsg-3 all
+  framework for handling view template lookup and rendering (part of Rails)
+
+ruby-active-model-serializers/focal 0.10.10-1 all
+  Making it easy to serialize models for client-side use
+
+ruby-activejob/focal 2:5.2.3+dfsg-3 all
+  job framework with pluggable queues
+
+ruby-activeldap/focal 5.2.4-1 all
+  ActiveLdap is a object-oriented API to LDAP
+
+ruby-activemodel/focal 2:5.2.3+dfsg-3 all
+  toolkit for building modeling frameworks (part of Rails)
+
+ruby-activemodel-serializers-xml/focal 1.0.2-2 all
+  xml serialization for active model
+
+ruby-activerecord/focal 2:5.2.3+dfsg-3 all
+  object-relational mapper framework (part of Rails)
+
+ruby-activerecord-explain-analyze/focal 0.1.0-2 all
+  ActiveRecord#explain with support for EXPLAIN ANALYZE
+
+ruby-activerecord-import/focal 0.28.2-3 all
+  Bulk-loading extension for ActiveRecord
+
+ruby-activerecord-nulldb-adapter/focal 0.4.0-1 all
+  ActiveRecord database adapters based on the Null Object pattern
+
+ruby-activestorage/focal 2:5.2.3+dfsg-3 all
+  Local and cloud file storage framework (part of Rails)
+
+ruby-activesupport/focal 2:5.2.3+dfsg-3 all
+  Support and utility classes used by the Rails 4.1 framework
+
+ruby-acts-as-api/focal 1.0.1-2 all
+  makes creating XML/JSON responses in Rails 3 easy and fun
+
+ruby-acts-as-list/focal 0.9.15-1 all
+  sorting, reordering capabilities to active_record models
+
+ruby-acts-as-taggable-on/focal 6.5.0-2 all
+  provides advanced tagging for Rails
+
+ruby-acts-as-tree/focal 2.8.0-1 all
+  simple tree behaviour to active_record models
+
+ruby-adamantium/focal 0.2.0-2 all
+  Create immutable objects with ease
+
+ruby-addressable/focal 2.7.0-1 all
+  alternative URI implementation for Ruby
+
+ruby-adsf/focal 1.4.3+dfsg1-1 all
+  tiny static file server
+
+ruby-ae/focal 1.8.2-1 all
+  assertive expressive (ae) is an assertions library
+
+ruby-aes-key-wrap/focal 1.0.1-1 all
+  Ruby implementation of AES Key Wrap
+
+ruby-afm/focal 0.2.2-1 all
+  Ruby library to read Adobe Font Metrics files
+
+ruby-after-commit-queue/focal 1.3.0-2 all
+  run callbacks after database transaction
+
+ruby-aggregate/focal 0.2.2-3 all
+  Ruby class for accumulating aggregate statistics
+
+ruby-ahoy-email/focal 1.0.3-2 all
+  Simple, powerful email tracking for Rails
+
+ruby-ahoy-matey/focal 3.0.2-1 all
+  simple, powerful analytics for Rails
+
+ruby-airbrussh/focal 1.4.0-1 all
+  Concise log formatter for Capistrano and SSHKit
+
+ruby-akismet/focal 3.0.0-1 all
+  Ruby client for the Akismet API
+
+ruby-algebrick/focal 0.7.4-1 all
+  Algebraic types and pattern matching for Ruby
+
+ruby-all-dev/focal 1:2.7+1 amd64
+  Ruby development environment (all versions supported in Debian)
+
+ruby-amazon-ec2/focal 0.9.17-3build1 all
+  Ruby library for accessing Amazon EC2
+
+ruby-ami/focal 2.4.0-1 all
+  Ruby client library for the Asterisk Management Interface
+
+ruby-ammeter/focal 1.1.4-2 all
+  Write specs for your Rails 3+ generators
+
+ruby-amq-protocol/focal 2.3.0-2 all
+  AMQP 0.9.1 encoder & decoder
+
+ruby-amqp/focal 1.8.0-1 all
+  feature-rich, asynchronous AMQP client
+
+ruby-ansi/focal 1.5.0-1 all
+  ANSI escape codes at your fingertips
+
+ruby-api-pagination/focal 4.8.2-1 all
+  API pagination support
+
+ruby-apollo-upload-server/focal 2.0.0~beta3-2 all
+  apollo-upload-server implementation for Ruby on Rails as middleware
+
+ruby-appraisal/focal 0.5.1-2 all
+  Find out what your Ruby gems are worth
+
+ruby-appraiser/focal 0.2.0-3 all
+  simple rubygems subcommand for Gemfile
+
+ruby-appraiser-reek/focal 1.0.0-1 all
+  Run Reek inside RubyAppraiser
+
+ruby-appraiser-rubocop/focal 1.0.1-1 all
+  Run Rubocop inside RubyAppraiser
+
+ruby-arbre/focal 1.2.1-2 all
+  Object Oriented DOM Tree in Ruby
+
+ruby-archive-zip/focal 0.11.0-1 all
+  Simple, extensible, pure Ruby ZIP archive support
+
+ruby-arel/focal 9.0.0-2 all
+  SQL AST manager for Ruby
+
+ruby-aruba/focal 0.14.14-1 all
+  Cucumber extension for CLI applications
+
+ruby-asana/focal 0.9.3-3 all
+  official Ruby client for the Asana API
+
+ruby-ascii85/focal 1.0.3-1 all
+  Ruby library to encode/decode the Ascii85 format
+
+ruby-asciidoctor/focal 2.0.10-2 all
+  AsciiDoc to HTML rendering for Ruby (core libraries)
+
+ruby-asciidoctor-include-ext/focal 0.3.1-2 all
+  Asciidoctor's standard include::[] processor reimplemented as an extension
+
+ruby-asciidoctor-pdf/focal 1.5.0~alpha.17.dev-6.1ubuntu1 all
+  Converts AsciiDoc documents to PDF using Prawn
+
+ruby-asciidoctor-plantuml/focal 0.0.10-1 all
+  extension for Asciidoctor to enable support for PlantUML diagrams
+
+ruby-asetus/focal 0.3.0-1 all
+  configuration library with YAML/JSON/TOML backends
+
+ruby-asset-sync/focal 2.9.0-1 all
+  synchronises assets in a Rails app and Amazon/Rackspace cloud
+
+ruby-ast/focal 2.4.0-1 all
+  Ruby library for working with abstract syntax trees
+
+ruby-atk/focal 3.4.1-2build1 all
+  ATK bindings for the Ruby language
+
+ruby-atlassian-jwt/focal 0.2.0-2 all
+  Encode and decode JWT tokens for use with the Atlassian Connect
+
+ruby-atomic/focal 1.1.16-2build8 amd64
+  atomic reference implementation for JRuby, Rubinius, and MRI
+
+ruby-attr-encrypted/focal 3.1.0-2 all
+  Encrypt and decrypt attributes
+
+ruby-attr-required/focal 1.0.0-2 all
+  attr_required and attr_optional support for Ruby
+
+ruby-augeas/focal 1:0.5.0-3build7 amd64
+  Ruby 言語用 Augeas バインディング
+
+ruby-autoparse/focal 0.3.3-3 all
+  provides automatic parsing for any given JSON Schema
+
+ruby-autoprefixer-rails/focal 8.6.5+dfsg-3 all
+  Rails integration for the autoprefixer tool
+
+ruby-avl-tree/focal 1.2.1-1 all
+  AVL and red-black trees in Ruby
+
+ruby-awesome-nested-set/focal 3.0.0-1 all
+  awesome nested set implementation for Active Record
+
+ruby-awesome-print/focal 1.8.0-2 all
+  pretty print Ruby objects with proper indentation and colors
+
+ruby-aws/focal 2.10.2-5 all
+  AWS Ruby Library for interfacing with Amazon Web Services
+
+ruby-aws-eventstream/focal 1.0.3-2 all
+  AWS Event Stream Library
+
+ruby-aws-sdk/focal 1.67.0-2 all
+  Amazon Web Services SDK for Ruby
+
+ruby-aws-sigv4/focal 1.1.0-2 all
+  AWS Signature Version 4 library
+
+ruby-axiom-types/focal 0.1.1-1 all
+  Ruby module for abstract types for logic programming
+
+ruby-babosa/focal 1.0.2-3 all
+  library for creating slugs
+
+ruby-backbone-on-rails/focal 1.2.0.0-2 all
+  simple library for using Backbone with Rails
+
+ruby-backports/focal 3.16.0-1 all
+  backports of new features for older versions of Ruby
+
+ruby-bacon/focal 1.2.0-6 all
+  Small RSpec clone
+
+ruby-barby/focal 0.6.8+dfsg-1 all
+  Ruby library for barcode generation
+
+ruby-barrier/focal 1.0.2-1 all
+  Ruby threads synchronization using a barrier method
+
+ruby-base32/focal 0.3.2-4 all
+  Ruby extension for base32 encoding and decoding
+
+ruby-base62/focal 1.0.0-3 all
+  base62 encoding and decoding library for Ruby
+
+ruby-batch-loader/focal 1.4.1+dfsg.1-3 all
+  Powerful tool to avoid N+1 DB or HTTP queries
+
+ruby-bcrypt/focal 3.1.13-2build1 amd64
+  Ruby binding for the bcrypt() password hashing algorithm
+
+ruby-bcrypt-pbkdf/focal 1.0.1-1build1 amd64
+  Ruby library for OpenBSD's bcrypt_pdkfd
+
+ruby-beaker-hostgenerator/focal 1.1.22-1 all
+  command line utility designed to generate beaker host config files
+
+ruby-beaneater/focal 1.0.0-1 all
+  simple beanstalkd client for Ruby
+
+ruby-beautify/focal 0.97.4-4 all
+  CLI binary and module that will pretty up Ruby code
+
+ruby-beefcake/focal 1.2.0-1 all
+  sane Google Protocol Buffers library for Ruby
+
+ruby-behance/focal 0.6.1-2 all
+  Ruby wrapper for the Behance API
+
+ruby-benchmark-ips/focal 2.7.2-2 all
+  iterations per second enhancement to Benchmark
+
+ruby-benchmark-ips-doc/focal 2.7.2-2 all
+  iterations per second enhancement to Benchmark (documentation)
+
+ruby-benchmark-memory/focal 0.1.2-2 all
+  Benchmark-style memory profiling for Ruby 2.1+
+
+ruby-benchmark-suite/focal 1.0.0+git.20130122.5bded6-3 all
+  enhancements to the standard library benchmark.rb
+
+ruby-benchmark-suite-doc/focal 1.0.0+git.20130122.5bded6-3 all
+  enhancements to the standard library benchmark.rb (documentation)
+
+ruby-bert/focal 1.1.6-2 amd64
+  BERT serializiation for Ruby
+
+ruby-bindata/focal 2.3.5-1 all
+  declarative way to read and write binary file formats
+
+ruby-bindex/focal 0.5.0-1build1 amd64
+  Bindings for your Ruby exceptions
+
+ruby-binding-ninja/focal 0.2.3-2 amd64
+  pass binding of method caller implicitly
+
+ruby-binding-of-caller/focal 0.7.2+debian1-3 all
+  retrieve the binding of a method's caller
+
+ruby-bio/focal 2.0.1-1 all
+  Ruby tools for computational molecular biology
+
+ruby-blade/focal 0.7.1-2 all
+  Sprockets Toolkit for Building and Testing JavaScript Libraries
+
+ruby-blade-qunit-adapter/focal 2.0.1-2 all
+  Blade adapter for the QUnit JavaScript testing framework
+
+ruby-blade-sauce-labs-plugin/focal 0.7.3+dfsg-1 all
+  Blade Runner plugin for Sauce Labs (saucelabs.com)
+
+ruby-blankslate/focal 3.1.3-1 all
+  Ruby library providing a class with no predefined methods
+
+ruby-blockenspiel/focal 0.5.0-3 all
+  Comprehensive implementation of Ruby DSL blocks
+
+ruby-bluefeather/focal 0.41-5 all
+  Extend Markdown Converter written in Ruby
+
+ruby-bogus/focal 0.1.6-2 all
+  library creating fakes to make isolated unit tests reliable
+
+ruby-bootsnap/focal 1.4.6-1 amd64
+  Boot large ruby/rails apps faster
+
+ruby-bootstrap-form/focal 4.2.0-2 all
+  makes it easy to style forms using Twitter Bootstrap 3+
+
+ruby-bootstrap-sass/focal 3.3.5.1-5.1 all
+  Twitter's Bootstrap, converted to Sass
+
+ruby-bootstrap-switch-rails/focal 3.3.4-1 all
+  asset gemification of the bootstrap-switch plugin
+
+ruby-bourne/focal 1.6.0-2 all
+  Adds test spies to mocha
+
+ruby-brandur-json-schema/focal 0.19.1-1 all
+  JSON schema/hyperschema parser and validator for Ruby
+
+ruby-brass/focal 1.2.1-1 all
+  bare-metal Ruby assertion system standard
+
+ruby-broccoli/focal 1.62-1build1 amd64
+  Ruby extension for Broccoli
+
+ruby-browser/focal 2.5.3-1 all
+  browser detection for Ruby
+
+ruby-bsearch/focal 1.5-10 all
+  binary search library for Ruby
+
+ruby-bson/focal 4.7.0-1build1 amd64
+  Ruby implementation of BSON
+
+ruby-bson-ext/focal 4.7.0-1build1 all
+  移行用ダミーパッケージ
+
+ruby-buff-config/focal 2.0.0-2 all
+  Ruby library providiing a simple configuration class
+
+ruby-buff-extensions/focal 2.0.0-1 all
+  Ruby library that provides extra features to core Ruby classes
+
+ruby-buff-ignore/focal 1.2.0-1 all
+  Ruby helper library for parsing and managing an ignore file
+
+ruby-buff-ruby-engine/focal 1.0.0-0ubuntu1 all
+  Ruby library that allows one to query the platform running Ruby
+
+ruby-buff-shell-out/focal 1.1.0-0ubuntu1 all
+  Ruby library fo issuing shell commands and collecting the output
+
+ruby-buftok/focal 0.2.0-2 all
+  extracts token delimited entities from a sequence of arbitrary inputs
+
+ruby-build/focal 20170726-1 all
+  tool to compile and install different versions of Ruby
+
+ruby-builder/focal 3.2.4-1 all
+  Builders for XML MarkUps
+
+ruby-bundler/focal 2.1.4-1 all
+  Manage Ruby application dependencies (runtime)
+
+ruby-bunny/focal 2.14.4-3 all
+  Synchronous Ruby AMQP client
+
+ruby-byebug/focal 11.1.1-2 amd64
+  Ruby fast debugger - base + CLI
+
+ruby-cabin/focal 0.8.1-1 all
+  experiments in structured and contextual logging
+
+ruby-cairo/focal 1.16.5-1build1 amd64
+  Cairo bindings for the Ruby language
+
+ruby-cairo-gobject/focal 3.4.1-2build1 amd64
+  CairoGObject bindings for the Ruby language
+
+ruby-cancancan/focal 3.0.1+gh-1 all
+  Authorization Gem for Ruby on Rails
+
+ruby-capture-output/focal 1.0.0-2 all
+  Ruby library to grab given IO output and return it as a string
+
+ruby-capybara/focal 3.12.0-1 all
+  integration testing tool for Rack based web applications
+
+ruby-carrierwave/focal 1.3.1-2 all
+  Ruby file upload library
+
+ruby-case-transform/focal 0.2-1 all
+  Transform values to different cases
+
+ruby-cassiopee/focal 0.1.13-1 all
+  Library to index strings and to search with exact or approximate match
+
+ruby-cat/focal 0.2.1-1 all
+  Create Ruby objects in a sandbox
+
+ruby-celluloid/focal 0.16.0-5 all
+  actor-based concurrent object framework for ruby
+
+ruby-celluloid-essentials/focal 0.20.5-1 all
+  internally used Celluloid tools and superstructural dependencies
+
+ruby-celluloid-extras/focal 0.20.5-1 all
+  Celluloid expansion, testing, and example classes
+
+ruby-celluloid-fsm/focal 0.20.5-1 all
+  Celluloid Finite State Machines
+
+ruby-celluloid-io/focal 0.16.2-5 all
+  Ruby library providing an event-driven IO system for Celluloid actors
+
+ruby-celluloid-pool/focal 0.20.5-1 all
+  actor pool based on Celluloid
+
+ruby-celluloid-supervision/focal 0.20.5-1 all
+  Supervision support for Celluloid
+
+ruby-certificate-authority/focal 0.2.0~434c15cd-1 all
+  tool to manage the core functions outlined in RFC-3280 for PKI
+
+ruby-cfpropertylist/focal 2.2.8-1 all
+  Manipulate binary and XML property lists as defined by apple
+
+ruby-character-set/focal 1.1.2-1build1 amd64
+  Build, read, write and compare sets of Unicode codepoints
+
+ruby-charlock-holmes/focal 0.7.6-1build3 amd64
+  Ruby character encoding detection library
+
+ruby-chef-config/focal 15.8.25.3.gcf41df6a2-6 all
+  Chef configuration library
+
+ruby-chef-utils/focal 15.8.25.3.gcf41df6a2-6 all
+  Chef utilities library
+
+ruby-cheffish/focal 15.0.1-1 all
+  library to manipulate Chef in Chef
+
+ruby-childprocess/focal 3.0.0-1 all
+  Ruby library for controlling external programs running in the background
+
+ruby-chromedriver-helper/focal 2.1.0-7 all
+  Easy installation and use of chromedriver
+
+ruby-chronic/focal 0.10.5-2 all
+  natural language date parser
+
+ruby-chronic-duration/focal 0.10.6.2-2 all
+  simple Ruby natural language parser for elapsed time
+
+ruby-chunky-png/focal 1.3.8-1 all
+  pure ruby library for read/write, chunk-level access to PNG files
+
+ruby-citrus/focal 3.0.2-1 all
+  Parsing Expressions for Ruby
+
+ruby-clamp/focal 1.1.1-1 all
+  minimal framework for Ruby command-line utilities
+
+ruby-classifier/focal 1.3.4-4 all
+  Ruby module to allow Bayesian and other types of classifications
+
+ruby-classifier-reborn/focal 2.2.0-1 all
+  Successor of Ruby::Classifier
+
+ruby-clean-test/focal 1.0.0-1 all
+  Get unit tests readable and fluent
+
+ruby-cleanroom/focal 1.0.0-1 all
+  Ruby module for safer evaluation of Ruby DSLs
+
+ruby-client-side-validations/focal 3.2.6+gh-1 all
+  client side validations made easy for your Rails v3.1+ apps
+
+ruby-climate-control/focal 0.0.3-1build1 all
+  library to easily manage environment variables
+
+ruby-cliver/focal 0.3.2-3 all
+  cross-platform version constraints for cli tools
+
+ruby-clockwork/focal 2.0.4-1 all
+  scheduler process to replace cron
+
+ruby-clutter/focal 3.4.1-2build1 all
+  Clutter bindings for the Ruby language
+
+ruby-clutter-gdk/focal 3.4.1-2build1 all
+  Clutter-Gdk bindings for the Ruby language
+
+ruby-clutter-gtk/focal 3.4.1-2build1 all
+  Clutter-Gtk bindings for the Ruby language
+
+ruby-cmdparse/focal 2.0.6-1 all
+  Advanced command line parsing Ruby module supporting sub-commands
+
+ruby-cocaine/focal 0.5.8-1 all
+  library for running command line commands in Ruby
+
+ruby-cocoon/focal 1.2.6-2 all
+  tool to handle nested forms using jQuery
+
+ruby-codemirror-rails/focal 5.16.0-1 all
+  use codemirror with rails
+
+ruby-coderay/focal 1.1.2-3 all
+  Ruby library for syntax highlighting
+
+ruby-coercible/focal 1.0.0-2 all
+  powerful, flexible and configurable coercion library
+
+ruby-coffee-rails/focal 4.2.2-1 all
+  Coffee Script adapter for the Rails asset pipeline
+
+ruby-coffee-script/focal 2.4.1-2 all
+  Ruby CoffeeScript Compiler
+
+ruby-coffee-script-source/focal 1.12.2-1 all
+  CoffeeScript Compiler - Ruby integration
+
+ruby-color/focal 1.8-2 all
+  Ruby library to provide RGB, CMYK and other colorspace support
+
+ruby-colorator/focal 1.1.0-3 all
+  String core extensions for terminal coloring
+
+ruby-colored/focal 1.2-2 all
+  library to add colors or attributes to text
+
+ruby-colored2/focal 3.1.2-2 all
+  library to add colors or attributes to text
+
+ruby-colorize/focal 0.8.1-1 all
+  color methods to Ruby String class
+
+ruby-columnize/focal 0.9.0-1 all
+  Ruby library to format arrays as column-aligned strings
+
+ruby-combustion/focal 1.1.1-2 all
+  elegant rails engine testing
+
+ruby-commander/focal 4.5.0-1 all
+  Ruby command-line interface library
+
+ruby-commonmarker/focal 0.20.2-1build1 amd64
+  CommonMark parser and renderer - Written in C, wrapped in Ruby
+
+ruby-compat-resource/focal 12.10.5-1 all
+  cookbook with some features of Chef 12.5 in previous 12.X releases
+
+ruby-concord/focal 0.1.5-2 all
+  Helper for object composition
+
+ruby-concurrent/focal 1.1.6+dfsg-3 all
+  modern concurrency tools for Ruby
+
+ruby-concurrent-ext/focal 1.1.6+dfsg-3 amd64
+  C extensions to optimize concurrent-ruby under MRI
+
+ruby-configurate/focal 0.3.1-1 all
+  Flexible configuration system for Ruby
+
+ruby-connection-pool/focal 2.2.2-1 all
+  generic connection pool for ruby
+
+ruby-contest/focal 0.1.3-3 all
+  Ruby library to write declarative tests using nested contexts
+
+ruby-contracts/focal 0.16.0-1 all
+  Contracts (a assert like) for Ruby
+
+ruby-cookiejar/focal 0.3.3-1 all
+  client-side HTTP cookie library
+
+ruby-countries/focal 3.0.0-2 all
+  Gives you a country object full of all sorts of useful information
+
+ruby-coveralls/focal 0.8.22-3 all
+  Ruby implementation of the Coveralls API
+
+ruby-crack/focal 0.4.3-4 all
+  Ruby library to parse XML and JSON
+
+ruby-crass/focal 1.0.2-2 all
+  CSS parser based on the CSS Syntax Level 3 draft
+
+ruby-crb-blast/focal 0.6.9-4 all
+  Run conditional reciprocal best blast
+
+ruby-creole/focal 0.5.0-2 all
+  Creole common wiki markup language to HTML converter
+
+ruby-cri/focal 2.15.10-1 all
+  library for building easy-to-use commandline tools
+
+ruby-cri-doc/focal 2.15.10-1 all
+  library for building easy-to-use commandline tools - documentation
+
+ruby-css-parser/focal 1.6.0-1 all
+  Ruby CSS parser library
+
+ruby-cssmin/focal 1.0.3-4 all
+  Ruby library for minifying CSS
+
+ruby-cstruct/focal 1.0.1-2 all
+  simulation of the C language's struct
+
+ruby-csv/focal 3.1.2-1 all
+  CSV reader and writer
+
+ruby-cucumber-core/focal 1.5.0-1 all
+  core library for the Cucumber application
+
+ruby-cucumber-expressions/focal 8.0.0-1 all
+  simple patterns for matching Step Definitions
+
+ruby-cucumber-wire/focal 0.0.1-3 all
+  Wire protocol for Cucumber (a ruby acceptance testing framework)
+
+ruby-curb/focal 0.9.10-2build1 amd64
+  Ruby libcurl bindings
+
+ruby-curses/focal 1.2.4-1build1 amd64
+  curses binding for Ruby
+
+ruby-cutest/focal 1.2.1-2 all
+  Run ruby tests independantly
+
+ruby-daemons/focal 1.1.9-2 all
+  Ruby daemons library
+
+ruby-dalli/focal 2.7.9-2 all
+  memcached client library for Ruby
+
+ruby-data-migrate/focal 5.3.1-1 all
+  migrate data alongside schema changes for rake tasks
+
+ruby-data-uri/focal 0.1.0-2 all
+  URI::Data class for parsing RFC2397 data URIs
+
+ruby-database-cleaner/focal 1.7.0-1 all
+  clean databases to ensure a clean state for testing
+
+ruby-dataobjects/focal 0.10.17-2 all
+  Unified interface to various databases for Ruby
+
+ruby-dataobjects-mysql/focal 0.10.17-1ubuntu1 amd64
+  MySQL adapter for ruby-dataobjects
+
+ruby-dataobjects-postgres/focal 0.10.17-1build1 amd64
+  ruby-dataobject 向け PostgreSQL アダプター
+
+ruby-dataobjects-sqlite3/focal 0.10.17-1build1 amd64
+  SQLite adapter for ruby-dataobjects
+
+ruby-dbf/focal 3.0.5-1 all
+  small fast Ruby library for reading database files
+
+ruby-dbus/focal 0.15.0-1 all
+  Ruby module for interaction with D-Bus
+
+ruby-ddmemoize/focal 1.0.0-1 all
+  Ruby library providing support for memoizing functions
+
+ruby-ddmetrics/focal 1.0.1-1 all
+  Non-timeseries measurements for Ruby programs
+
+ruby-ddplugin/focal 1.0.2-1 all
+  plugins management for Ruby apps
+
+ruby-debian/focal 0.3.10build2 amd64
+  ruby interface for dpkg
+
+ruby-debug-inspector/focal 0.0.2-1.1build6 amd64
+  Ruby wrapper for the MRI 2.0 debug_inspector API
+
+ruby-declarative/focal 0.0.10-2 all
+  DSL for nested schemas
+
+ruby-declarative-option/focal 0.1.0-1 all
+  Dynamic options for declarative to evaluate at runtime
+
+ruby-deep-merge/focal 1.1.1-1 all
+  recursively merge Hash elements in Ruby
+
+ruby-default-value-for/focal 3.3.0-1 all
+  provides a way to specify default values for ActiveRecord models
+
+ruby-delayed-job/focal 4.1.5-1 all
+  database-backed asynchronous priority queue system
+
+ruby-delayed-job-active-record/focal 4.1.3-1 all
+  ActiveRecord backend for DelayedJob
+
+ruby-delayer/focal 1.1.2-1 all
+  Ruby library providing delay the processing
+
+ruby-delayer-deferred/focal 2.2.0-1 all
+  Ruby implementation of JSDeferred
+
+ruby-delorean/focal 2.1.0-2build1 all
+  lets you travel in time with Ruby by mocking Time.now
+
+ruby-dependor/focal 1.0.1-2 all
+  classes and modules that simplifing dependency injection in Ruby
+
+ruby-descendants-tracker/focal 0.0.4-2 all
+  Ruby module that adds descendant tracking to a class
+
+ruby-dev/focal 1:2.7+1 amd64
+  Header files for compiling extension modules for Ruby (default version)
+
+ruby-device-detector/focal 1.0.1-2 all
+  Precise and fast user agent parser and device detector
+
+ruby-devise/focal 4.7.1-2 all
+  Flexible authentication solution for Rails with Warden
+
+ruby-devise-lastseenable/focal 0.0.6-1.1 all
+  make devise update last_seen flag on user
+
+ruby-devise-token-authenticatable/focal 0.5.2-1 all
+  token based authentication for devise
+
+ruby-devise-two-factor/focal 3.1.0-2 all
+  Barebones two-factor authentication with Devise
+
+ruby-diaspora-federation/focal 0.2.6-1 all
+  diaspora* federation library
+
+ruby-diaspora-federation-json-schema/focal 0.2.6-1 all
+  diaspora federation json schemas
+
+ruby-diaspora-federation-rails/focal 0.2.6-1 all
+  diaspora* federation rails engine
+
+ruby-diaspora-prosody-config/focal 0.0.7-1 all
+  Diaspora Configuration Wrapper For Prosodoy
+
+ruby-did-you-mean/focal 1.2.1-1 all
+  smart error messages for Ruby > 2.3
+
+ruby-diff-lcs/focal 1.3-1 all
+  McIlroy-Hunt longest common subsequence algorithm implementation
+
+ruby-diff-match-patch/focal 0.1.0-2 all
+  diff/match/patch algorithms implemented in Ruby
+
+ruby-diffy/focal 3.3.0-1 all
+  convenient way to diff strings in Ruby
+
+ruby-directory-watcher/focal 1.5.1-3 all
+  Watch directory/files and Generate events by file change
+
+ruby-dirty-memoize/focal 0.0.4-1 all
+  Similar to ruby-memoize, but for mutable and parameterizable objects
+
+ruby-discordrb-webhooks/focal 3.3.0-1 all
+  blackst0ne's fork of webhook client for discordrb
+
+ruby-discourse-diff/focal 0.1.0-3 all
+  Discourse Diff provides inline html diffing for markdown blobs
+
+ruby-discriminator/focal 0.1.1-2 all
+  Gem making smart ActiveRecords by loading subclasses
+
+ruby-distribution/focal 0.7.3+dfsg-1 all
+  Ruby library to work with probability distributions
+
+ruby-diva/focal 1.0.1-2 all
+  Implementation of expression for handling things for mikutter
+
+ruby-dnsruby/focal 1.61.3-1 all
+  Ruby DNS and DNSSEC client library
+
+ruby-docile/focal 1.1.5-2 all
+  Docile keeps your Ruby DSLs tame and well-behaved
+
+ruby-docker-api/focal 1.22.2-1 all
+  Ruby gem to interact with docker.io remote API
+
+ruby-domain-name/focal 0.5.20160216-2 all
+  Domain Name manipulation library for Ruby
+
+ruby-doorkeeper/focal 5.0.2-2 all
+  OAuth 2 provider for Rails and Grape
+
+ruby-doorkeeper-i18n/focal 5.0.2-2 all
+  Translations for doorkeeper rubygem
+
+ruby-doorkeeper-openid-connect/focal 1.6.3-2 all
+  OpenID Connect extension for Doorkeeper
+
+ruby-dotenv/focal 2.4.0-1 all
+  configuration variable loader
+
+ruby-dry-configurable/focal 0.9.0-2 all
+  Simple mixin to make Ruby classes configurable
+
+ruby-dry-container/focal 0.7.2-2 all
+  Simple, configurable object container implemented in Ruby
+
+ruby-dry-core/focal 0.4.9-2 all
+  Toolset of small support modules used throughout the dry-rb ecosystem.
+
+ruby-dry-equalizer/focal 0.3.0-2 all
+  Define equality, equivalency and hash methods automatically
+
+ruby-dry-inflector/focal 0.2.0-2 all
+  Inflector for Ruby
+
+ruby-dry-logic/focal 1.0.5-2 all
+  Predicate logic with rule composition
+
+ruby-dry-types/focal 1.2.2-2 all
+  Flexible type system for Ruby with coercions and constraints
+
+ruby-e2mmap/focal 0.1.0-1 all
+  define custom exceptions with specific messages
+
+ruby-eb/focal 2.6-3build9 amd64
+  EB library interface for the Ruby
+
+ruby-ecasound/focal 2.9.3-2 all
+  multitrack-capable audio recorder and effect processor (ruby bindings)
+
+ruby-ed25519/focal 1.2.4-1build1 amd64
+  efficient digital signature library providing the Ed25519 algorithm
+
+ruby-eim-xml/focal 0.0.4-4 all
+  Easy IMplemented XML by Ruby
+
+ruby-ejs/focal 1.1.1-2 all
+  EJS (Embedded JavaScript) template compiler
+
+ruby-elasticsearch/focal 6.8.1-2 all
+  Ruby client for connecting to an Elasticsearch cluster
+
+ruby-elasticsearch-api/focal 6.8.1-2 all
+  Ruby implementation of the Elasticsearch REST API
+
+ruby-elasticsearch-model/focal 7.0.0-2 all
+  ActiveModel/Record integrations for Elasticsearch
+
+ruby-elasticsearch-transport/focal 6.8.1-2 all
+  low-level Ruby client for connecting to Elasticsearch
+
+ruby-em-http-request/focal 1.1.5-2 all
+  EventMachine based, async HTTP Request client
+
+ruby-em-mongo/focal 0.5.1-1 all
+  Ruby EventMachine driver for MongoDB
+
+ruby-em-redis/focal 0.3.0+gh-2 all
+  eventmachine-based implementation of the Redis protocol
+
+ruby-em-socksify/focal 0.3.1-1 all
+  EventMachine SOCKSify shim: adds SOCKS support to any protocol
+
+ruby-em-spec/focal 0.2.7-1 all
+  BDD for Ruby/EventMachine
+
+ruby-em-synchrony/focal 1.0.5-3ubuntu1 all
+  fiber aware EventMachine libraries
+
+ruby-em-websocket/focal 0.5.1-2 all
+  EventMachine based, async, Ruby WebSocket server
+
+ruby-email-reply-parser/focal 0.5.8-2 all
+  Small library to parse plain text email content
+
+ruby-email-reply-trimmer/focal 0.1.6-1 all
+  Library to trim replies from plain text email
+
+ruby-email-spec/focal 2.2.0-1 all
+  easily test email in rspec and cucumber and minitest
+
+ruby-email-validator/focal 1.4.0-1 all
+  email validator for Rails 3+
+
+ruby-emot/focal 0.0.4-2 all
+  Yet another emoji handler
+
+ruby-encryptor/focal 3.0.0-2 all
+  wrapper for the standard Ruby OpenSSL library
+
+ruby-entypo-rails/focal 3.0.0-1 all
+  rails asset pipeline plugin providing Entypo icons
+
+ruby-enum/focal 0.7.2-2 all
+  Enum-like behavior for Ruby
+
+ruby-enumerable-statistics/focal 2.0.1+dfsg-2 amd64
+  Statistics features for Enumerable
+
+ruby-enumerize/focal 2.2.2-1 all
+  enumerated attributes with internationalisation
+
+ruby-equalizer/focal 0.0.11-2 all
+  Ruby module to define equality, equivalence and inspection methods
+
+ruby-equatable/focal 0.6.1-2 all
+  extension of objects with equality comparison and inspection methods
+
+ruby-errbase/focal 0.0.3-1 all
+  Common exception reporting for a variety of services
+
+ruby-erubi/focal 1.9.0-1 all
+  Small ERB Implementation
+
+ruby-erubis/focal 2.7.0-3 all
+  fast and extensible eRuby implementation which supports multi-language
+
+ruby-escape/focal 0.2-5 all
+  HTML/URI/shell escaping utilities for Ruby
+
+ruby-escape-utils/focal 1.2.1-1build2 amd64
+  Faster string escaping routines for your web apps
+
+ruby-espeak/focal 1.0.4-1 all
+  small Ruby API to create Text-To-Speech mp3 files
+
+ruby-et-orbi/focal 1.2.2-1 all
+  Time zones for fugit and rufus-scheduler
+
+ruby-ethon/focal 0.9.0-2 all
+  libcurl wrapper using ffi
+
+ruby-eventmachine/focal 1.0.7-4.2build1 amd64
+  Ruby/EventMachine library
+
+ruby-exception-notification/focal 4.0.1-1 all
+  exception notification support for Rails and Rack apps
+
+ruby-excon/focal 0.72.0-2 all
+  Ruby library for creating fast, persistent, HTTP(S) connections
+
+ruby-execjs/focal 2.6.0-1 all
+  Run JavaScript code from Ruby
+
+ruby-exif/focal 0.1.2-21build10 amd64
+  Ruby library for EXIF tag parsing
+
+ruby-expression-parser/focal 0.9.1-5 all
+  Mathematical expression parser for Ruby
+
+ruby-expression-parser-doc/focal 0.9.1-5 all
+  mathematical expression parser for Ruby (documentation)
+
+ruby-extlib/focal 0.9.16-1 all
+  general Ruby class extensions for DataMapper and Merb
+
+ruby-eye/focal 0.7-5 all
+  process monitoring tool
+
+ruby-facade/focal 1.1.0-1 all
+  facade pattern aide for Ruby
+
+ruby-factory-bot/focal 5.1.1-1 all
+  Framework and DSL for defining and using model instance factories
+
+ruby-factory-bot-rails/focal 5.1.1-2 all
+  provides integration between factory_bot and rails 5.2+
+
+ruby-factory-girl/focal 4.7.0-2 all
+  framework and DSL for defining and using model instance factories
+
+ruby-factory-girl-rails/focal 4.7.0-2 all
+  provides integration between factory_girl and rails 3.2+
+
+ruby-fakefs/focal 1.2.0-1 all
+  Fake file system to be used in unit tests
+
+ruby-faker/focal 1.9.1-2 all
+  easily generate fake data
+
+ruby-fakeredis/focal 0.8.0-3 all
+  In-memory driver for redis-rb, useful for development and test environments
+
+ruby-fakeweb/focal 1.3.0+git20170806+dfsg1-2 all
+  tool for faking responses to HTTP requests
+
+ruby-faraday/focal 0.15.4-3 all
+  HTTP/REST API client library
+
+ruby-faraday-cookie-jar/focal 0.0.6-1 all
+  Manages client-side cookie jar for Faraday HTTP client
+
+ruby-faraday-middleware/focal 0.12.2-1 all
+  various middleware for Faraday HTTP/REST library
+
+ruby-faraday-middleware-multi-json/focal 0.0.6-2 all
+  response JSON parser using MultiJson and FaradayMiddleware
+
+ruby-fast-blank/focal 1.0.0-1build1 amd64
+  Fast String blank? implementation
+
+ruby-fast-gettext/focal 2.0.0-1 all
+  Fast GetText implementation for Ruby
+
+ruby-fast-stemmer/focal 1.0.2-2build1 amd64
+  Fast Porter stemmer based on a C version of algorithm for Ruby
+
+ruby-fast-xs/focal 0.8.0-3build11 amd64
+  ruby extension for escaping text
+
+ruby-fastimage/focal 2.1.7-1 all
+  Ruby library for finding the size or type of image with minimal dependency
+
+ruby-faye/focal 1.2.4-1 all
+  Simple pub/sub messaging for the web
+
+ruby-faye-websocket/focal 0.10.7-1 all
+  Standards-compliant WebSocket client and server
+
+ruby-fcgi/focal 0.9.2.1-2build4 amd64
+  Ruby 用 FastCGI ライブラリ
+
+ruby-feature/focal 1.4.0-1 all
+  Feature Toggle library for ruby
+
+ruby-feedparser/focal 0.9.4-1 all
+  Ruby library to parse ATOM/RSS feeds
+
+ruby-ferret/focal 0.11.8.7-2 amd64
+  full text search engine library for Ruby
+
+ruby-ffaker/focal 2.13.0-2 all
+  ffaker generates dummy data
+
+ruby-ffi/focal 1.12.2+dfsg-2build2 amd64
+  load dynamic libraries, bind functions from within ruby code
+
+ruby-ffi-bit-masks/focal 0.1.1-1 all
+  Adds support for bit-masked types in FFI
+
+ruby-ffi-compiler/focal 1.0.1-3 all
+  Automating compilation of native libraries
+
+ruby-ffi-libarchive/focal 1.0.0+-2 all
+  Ruby FFI binding to libarchive
+
+ruby-ffi-rzmq/focal 2.0.6-2 all
+  FFI based Ruby bindings for ZeroMQ (ØMQ) networking library
+
+ruby-ffi-rzmq-core/focal 1.0.6-1 all
+  FFI wrapper around the ZeromMQ (ØMQ) networking library for Ruby
+
+ruby-ffi-yajl/focal 2.3.1-3 amd64
+  Ruby FFI wrapper around YAJL 2.x
+
+ruby-fftw3/focal 1.0.2-3build1 amd64
+  Ruby interface to the FFTW Ver.3 library
+
+ruby-file-tail/focal 1.2.0-1 all
+  Ruby library for following still-growing files
+
+ruby-filepath/focal 0.7-1 all
+  small library to manipulate paths
+
+ruby-filesystem/focal 0.5-5.1build8 amd64
+  Ruby extension for file-system information
+
+ruby-fission/focal 0.5.0-2 all
+  Command line tool to manage VMware Fusion VMs
+
+ruby-fix-trinity-output/focal 1.0.0-2 all
+  Fix output fastq files from trinityrnaseq
+
+ruby-fixwhich/focal 1.0.2-2 all
+  ruby module that emulates the 'which' program
+
+ruby-flexmock/focal 2.3.6-4 all
+  simple and flexible mock objects for testing
+
+ruby-flipper/focal 0.17.1-6 all
+  Feature flipper for ANYTHING
+
+ruby-flot-rails/focal 0.0.7-1 all
+  jQuery Flot for Rails Asset pipeline
+
+ruby-flowdock/focal 0.7.1-1 all
+  Ruby library for using Flowdock's API
+
+ruby-fog-aliyun/focal 0.3.2-4 all
+  Fog provider for Aliyun Web Services
+
+ruby-fog-aws/focal 3.5.2-1 all
+  module for the 'fog' gem to support Amazon Web Services
+
+ruby-fog-core/focal 2.1.0-3 all
+  shared classes and tests for fog providers and services
+
+ruby-fog-google/focal 1.9.1-1 all
+  module for the 'fog' library to support Google cloud services
+
+ruby-fog-json/focal 1.2.0-1 all
+  JSON parsing for fog providers
+
+ruby-fog-libvirt/focal 0.6.0-1 all
+  Module for the 'fog' gem to support libvirt
+
+ruby-fog-local/focal 0.6.0-1 all
+  Module for the 'fog' gem to support local filesystem storage
+
+ruby-fog-openstack/focal 1.0.8-2 all
+  module for 'fog' library to support OpenStack instances
+
+ruby-fog-profitbricks/focal 0.0.1-2 all
+  library to use ProfitBricks cloud in applications
+
+ruby-fog-rackspace/focal 0.1.6-2 all
+  Rackspace support for Fog
+
+ruby-fog-storm-on-demand/focal 0.1.1-2 all
+  module for the 'fog' library to support StormOnDemand
+
+ruby-fog-terremark/focal 0.0.3-2 all
+  library for using Terremark vCloud in applications
+
+ruby-fog-vmfusion/focal 0.1.0-2 all
+  module for the 'fog' library to support VMWARE FUSION
+
+ruby-fog-xml/focal 0.1.1-5 all
+  XML parsing for fog providers
+
+ruby-fogbugz/focal 0.2.1-3 all
+  Ruby wrapper for the Fogbugz API
+
+ruby-font-awesome-rails/focal 4.7.0.5-1 all
+  library providing font-awesome icon font via rails asset pipeline
+
+ruby-foreman/focal 0.85.0-1 all
+  Process manager for applications with multiple components
+
+ruby-formatador/focal 0.2.5-2 all
+  Ruby STDOUT text formatting library
+
+ruby-forwardable-extended/focal 2.6.0-1 all
+  Forwardable with hash and instance variable extensions
+
+ruby-friendly-id/focal 5.3.0-1 all
+  Comprehensive slugging and pretty-URL plugin
+
+ruby-fssm/focal 0.2.10-3 amd64
+  Ruby library firing events when the state of monitored paths changes
+
+ruby-ftw/focal 0.0.44-1 all
+  Ruby For The Web - APIs for client and server web stuff
+
+ruby-fugit/focal 1.3.3+gh-1 all
+  Time tools for Ruby and flor
+
+ruby-full/focal 1:2.7+1 all
+  Ruby full installation (default version)
+
+ruby-fusefs/focal 0.7.0-4build9 amd64
+  library to easily define a filesystem in Ruby using fuse
+
+ruby-fuubar/focal 2.5.0-1 all
+  instafailing RSpec progress bar formatter
+
+ruby-fuzzyurl/focal 0.8.0-1 all
+  non-strict parsing, construction, and wildcard-matching of URLs
+
+ruby-gd/focal 0.8.0-7build8 amd64
+  Extension library to use GD graphics library from Ruby
+
+ruby-gdk-pixbuf2/focal 3.4.1-2build1 all
+  Gdk-Pixbuf 2 bindings for the Ruby language
+
+ruby-gdk3/focal 3.4.1-2build1 all
+  GDK 3 bindings for the Ruby language
+
+ruby-gelf/focal 1.4.0-4 all
+  Ruby GELF library - Graylog2 Extended Log Format library for Ruby
+
+ruby-gemojione/focal 3.3.0-1 all
+  gem to provide EmojiOne
+
+ruby-generator-spec/focal 0.9.3-1 all
+  Test Rails generators with RSpec
+
+ruby-geocoder/focal 1.5.1-3 all
+  Complete Ruby geocoding solution
+
+ruby-get-process-mem/focal 0.2.5-1 all
+  get memory usage of a process in Ruby
+
+ruby-getspg/focal 1.14.1-5build2 amd64
+  C library for crystal symmetry determination - Ruby bindings
+
+ruby-gettext/focal 3.3.3-2 all
+  gettext for Ruby
+
+ruby-gettext-i18n-rails/focal 1.8.0-1 all
+  Simple FastGettext Rails integration
+
+ruby-gettext-i18n-rails-js/focal 1.3.0+dfsg-2 all
+  make your .po files available to client side javascript as JSON
+
+ruby-gettext-setup/focal 0.34-2 all
+  fast_gettext helper for Ruby
+
+ruby-gherkin/focal 4.0.0-2 all
+  lexer and parser for the Gherkin language in Ruby
+
+ruby-gio2/focal 3.4.1-2build1 amd64
+  GIO bindings for the Ruby language
+
+ruby-gir-ffi/focal 0.15.2-1 all
+  FFI-based GObject binding using the GObject Introspection Repository
+
+ruby-git/focal 1.6.0+0-1 all
+  Ruby interface to the Git revision control system
+
+ruby-github-api/focal 0.18.2-2 all
+  Ruby client for the official GitHub API
+
+ruby-github-linguist/focal 7.7.0-2build1 amd64
+  detection and highlight of the programming language of source code
+
+ruby-github-markdown/focal 0.6.9-5build1 amd64
+  Markdown parser for GitHub.com
+
+ruby-github-markup/focal 1.7.0+dfsg-3 all
+  GitHub Markup rendering
+
+ruby-github-pages-health-check/focal 1.16.1-2 all
+  check GitHub Pages for common DNS configuration issues
+
+ruby-gitlab/focal 4.8.0-1 all
+  Ruby wrapper and CLI for the GitLab API
+
+ruby-gitlab-flowdock-git-hook/focal 1.0.1-4 all
+  Git Post-Receive hook for Flowdock
+
+ruby-gitlab-labkit/focal 0.5.2-2 all
+  Instrumentation for GitLab
+
+ruby-gitlab-sidekiq-fetcher/focal 0.5.2-1 all
+  Reliable fetch extension for Sidekiq
+
+ruby-gli/focal 2.14.0-1 all
+  Build command-suite CLI apps without a lot of syntax
+
+ruby-glib2/focal 3.4.1-2build1 amd64
+  GLib 2 bindings for the Ruby language
+
+ruby-globalid/focal 0.4.2+REALLY.0.3.6-1 all
+  reference models by URI for Ruby on Rails
+
+ruby-gnome/focal 3.4.1-2build1 all
+  GNOME-related bindings for the Ruby language
+
+ruby-gnome-dev/focal 3.4.1-2build1 amd64
+  GNOME-related bindings for the Ruby language (development files)
+
+ruby-gnome2/focal 3.4.1-2build1 all
+  transitional package for ruby-gnome
+
+ruby-gnome2-dev/focal 3.4.1-2build1 all
+  transitional package for ruby-gnome-dev
+
+ruby-gnuplot/focal 2.6.2-2 all
+  Ruby library to interact with gnuplot
+
+ruby-gobject-introspection/focal 3.4.1-2build1 amd64
+  GObject Introspection bindings for the Ruby language
+
+ruby-god/focal 0.13.7-3build1 amd64
+  すべてを設定可能なプロセス監視
+
+ruby-gollum-lib/focal 4.2.7.7-2 all
+  simple, Git-powered wiki
+
+ruby-gollum-rugged-adapter/focal 0.4.4.2-2 all
+  Adapter for Gollum to use Rugged (libgit2) at the backend
+
+ruby-gon/focal 6.3.2-1 all
+  Ruby library to send data to JavaScript from a Ruby application
+
+ruby-google-api-client/focal 0.28.4-1 all
+  Client for accessing Google APIs
+
+ruby-google-cloud-core/focal 1.2.0-2 all
+  Internal shared library for google-cloud-ruby
+
+ruby-google-cloud-env/focal 1.2.0-2 all
+  Google Cloud Platform hosting environment information
+
+ruby-google-cloud-translate/focal 1.3.0-2 all
+  API Client library for Google Cloud Translation API
+
+ruby-google-protobuf/focal 3.6.1.3-2ubuntu5 amd64
+  Protocol Buffers
+
+ruby-googleapis-common-protos-types/focal 1.0.1-1 all
+  Common protobuf types used in Google APIs
+
+ruby-googleauth/focal 0.8.0-2 all
+  Google Auth Library for Ruby
+
+ruby-googlecharts/focal 1.6.12-1 all
+  Ruby library to generate charts using Google Chart API
+
+ruby-gpgme/focal 2.0.19-3build1 amd64
+  Ruby GPGME binding
+
+ruby-grack/focal 2.0.2-2 all
+  Git Smart HTTP Server Rack implementation in Ruby/Rack
+
+ruby-graffiti/focal 2.3.1-1 all
+  Relational RDF store for Ruby
+
+ruby-grape/focal 1.3.1+git20200320.c8fd21b-2 all
+  Simple Ruby framework for building REST-like APIs
+
+ruby-grape-entity/focal 0.7.1-1 all
+  Entity support to API frameworks, such as Grape
+
+ruby-grape-logging/focal 1.8.3-1 all
+  request logging support for Grape
+
+ruby-grape-path-helpers/focal 1.3.0-1 all
+  Route path helpers for Grape
+
+ruby-graphiql-rails/focal 1.4.10-1 all
+  mountable GraphiQL endpoint for Rails
+
+ruby-graphql/focal 1.9.19-1 all
+  GraphQL language and runtime for Ruby
+
+ruby-graphviz/focal 1.2.3-1ubuntu1 all
+  Ruby interface to the GraphViz graphing tool
+
+ruby-gravtastic/focal 3.2.6-2 all
+  Ruby wrapper for Gravatar URLs
+
+ruby-grib/focal 0.4.0-4build1 amd64
+  Ruby interface to the ECMWF GRIB API
+
+ruby-grit/focal 2.8.2-2 all
+  Ruby Git bindings
+
+ruby-grit-ext/focal 0.8.1-2 all
+  utf-8 support extension for grit
+
+ruby-grpc/focal 1.16.1-1ubuntu5 amd64
+  GRPC system in Ruby
+
+ruby-grpc-tools/focal 1.16.1-1ubuntu5 all
+  Development tools for Ruby gRPC
+
+ruby-gruff/focal 0.6.0-1 all
+  Ruby library to create beautiful graphs for one or multiple datasets
+
+ruby-gsl/focal 2.1.0.3+dfsg1-2build1 amd64
+  Ruby bindings for the GNU Scientific Library (GSL)
+
+ruby-gssapi/focal 1.2.0-1 all
+  FFI wrapper around the system GSSAPI library
+
+ruby-gstreamer/focal 3.4.1-2build1 amd64
+  GStreamer bindings for the Ruby language
+
+ruby-gtk2/focal 3.4.1-2build1 amd64
+  GTK+ 2 bindings for the Ruby language
+
+ruby-gtk3/focal 3.4.1-2build1 amd64
+  GTK+ 3 bindings for the Ruby language
+
+ruby-gtksourceview4/focal 3.4.1-2build1 all
+  GtkSourceView4 bindings for the Ruby language
+
+ruby-guard/focal 2.16.1-2 all
+  Commandline to easily handle events on file system modifications
+
+ruby-guard-compat/focal 1.2.1-2 all
+  Test helper for testing custom Guard plugins
+
+ruby-guard-shell/focal 0.7.1-2 all
+  Guard plugin for running shell commands
+
+ruby-guestfs/focal 1:1.40.2-7ubuntu5 amd64
+  guest disk image management system - Ruby bindings
+
+ruby-gyoku/focal 1.3.1-1 all
+  translates Ruby hashes to XML
+
+ruby-haml/focal 5.1.2-1 all
+  Elegant, structured XHTML/XML templating engine
+
+ruby-haml-contrib/focal 1.0.0.1-2 all
+  Elegant, structured XHTML/XML templating engine - addons
+
+ruby-haml-rails/focal 2.0.1-1 all
+  Haml Generator for Rails
+
+ruby-hamlit/focal 2.11.0-2build1 amd64
+  high performance Haml implementation
+
+ruby-hamster/focal 3.0.0-2 all
+  Efficient, immutable, thread-safe collection classes for Ruby
+
+ruby-handlebars-assets/focal 2:0.23.3+dfsg-2 all
+  compile Handlebars templates in the Rails asset pipeline
+
+ruby-hangouts-chat/focal 0.0.5-2 all
+  Library for sending messages to Hangouts Chat rooms
+
+ruby-has-scope/focal 0.7.2-2 all
+  Maps controller filters to your resource scopes
+
+ruby-has-secure-token/focal 1.0.0-2 all
+  Unique creation for random tokens for any model in ruby on rails
+
+ruby-hashdiff/focal 1.0.0-1 all
+  library for computing the smallest difference between two hashes
+
+ruby-hashery/focal 2.1.2-1 all
+  facets-bread collection of Hash-like classes
+
+ruby-hashie/focal 3.5.5-2 all
+  small collection of tools that make hashes more powerful
+
+ruby-hashie-forbidden-attributes/focal 0.1.1-1 all
+  strong parameter detection with Hashie and Forbidden Attributes
+
+ruby-hdfeos5/focal 1.2-9build2 amd64
+  Ruby interface to the HDF-EOS5 library
+
+ruby-health-check/focal 2.6.0-1 all
+  Simple health check of Rails app for uptime monitoring
+
+ruby-heapy/focal 0.1.4-2 all
+  Inspects Ruby heap dumps
+
+ruby-heroku-deflater/focal 0.6.3-2 all
+  Enable gzip compression on heroku, but don't compress images
+
+ruby-highline/focal 2.0.3-1 all
+  high-level interactive IO Ruby library
+
+ruby-hike/focal 1.2.1-3 all
+  Ruby library to find files in a set of paths
+
+ruby-hikidoc/focal 0.1.0-2 all
+  text-to-HTML conversion tool for web writers
+
+ruby-hipchat/focal 1.5.2-3 all
+  Ruby library to interact with HipChat
+
+ruby-hiredis/focal 0.6.3-2build1 amd64
+  Redis driver for Ruby using Hiredis
+
+ruby-hitimes/focal 1.2.1-3build6 amd64
+  fast, high resolution timer for recording performance metrics
+
+ruby-hivex/focal-updates,focal-security 1.3.18-2ubuntu0.1 amd64
+  Ruby bindings for hivex
+
+ruby-hmac/focal 0.4.0-5 all
+  Ruby interface for HMAC algorithm
+
+ruby-hocon/focal 1.2.5-1 all
+  Ruby port of the Typesafe Config library
+
+ruby-hoe/focal 3.21.0+dfsg1-1 all
+  rake/rubygems helper for project Rakefiles
+
+ruby-hrx/focal 1.0.0-1 all
+  Ruby parser and serializer for the HRX format
+
+ruby-html-pipeline/focal 2.12.3-1 all
+  GitHub HTML processing filters and utilities
+
+ruby-html-proofer/focal 3.14.1-1 all
+  Test your rendered HTML files to make sure they're accurate
+
+ruby-html2haml/focal 2.2.0-1 all
+  Converts HTML into Haml
+
+ruby-html2text/focal 0.2.0-1 all
+  convert HTML into plain text
+
+ruby-htmlentities/focal 4.3.3-1 all
+  Ruby library for handling HTML entities
+
+ruby-htree/focal 0.8+dfsg-4 all
+  HTML/XML tree library for Ruby
+
+ruby-http/focal 3.3.0-2 all
+  easy-to-use client library for making http requests from Ruby
+
+ruby-http-accept-language/focal 2.1.1-3 all
+  Ruby library that finds out which locale the user prefers
+
+ruby-http-connection/focal 1.4.4-1 all
+  HTTP helper library for Ruby
+
+ruby-http-cookie/focal 1.0.3-1 all
+  Ruby library to handle HTTP Cookies based on RFC 6265
+
+ruby-http-form-data/focal 2.2.0-1 all
+  utility-belt to build form data request bodies
+
+ruby-http-parser/focal 1.2.1-2 amd64
+  Ruby FFI bindings to http-parser
+
+ruby-http-parser.rb/focal 0.6.0-4build3 amd64
+  Simple callback-based HTTP request/response parser
+
+ruby-http-parser.rb-doc/focal 0.6.0-4build3 all
+  Simple callback-based HTTP request/response parser (documentation)
+
+ruby-httparty/focal 0.17.0-1 all
+  quick web service consumption from any Ruby class
+
+ruby-httpauth/focal 0.2.1+gh-1 all
+  Ruby library for the HTTP authentication protocol (RFC 2617)
+
+ruby-httpclient/focal 2.8.3-1ubuntu1 all
+  HTTP client library for ruby
+
+ruby-i18n/focal 1.8.2-2 all
+  I18n and localization solution for Ruby
+
+ruby-i18n-data/focal 0.10.0-2 all
+  country/language names and 2-letter-code pairs, in 85 languages
+
+ruby-i18n-inflector/focal 2.6.7-1 all
+  enhance i18n backend with inflections
+
+ruby-i18n-inflector-rails/focal 1.0.7-4 all
+  I18n Inflector bindings for Rails
+
+ruby-i18n-spec/focal 0.6.0-2 all
+  Provides RSpec matchers for testing your locale files
+
+ruby-icalendar/focal 2.4.1-2 all
+  ruby implementation of the iCalendar specification (RFC-5545)
+
+ruby-ice-cube/focal 0.12.1-1 all
+  Ruby Date Recurrence Library
+
+ruby-ice-nine/focal 0.11.2-1 all
+  Ruby module to deep freeze objects
+
+ruby-image-processing/focal 1.10.3-1 all
+  higher-level helper methods for image processing
+
+ruby-image-science/focal 1.3.0-1 all
+  Clean Ruby library to provide simple transformations on images
+
+ruby-in-parallel/focal 0.1.17-1 all
+  lightweight Ruby library with very simple syntax for parallelization
+
+ruby-indentation/focal 0.1.1-2 all
+  Ruby extensions for Array and String classes
+
+ruby-inflecto/focal 0.0.2-1 all
+  Ruby library to transform words from singular to plural
+
+ruby-influxdb/focal 0.2.3-2 all
+  library for InfluxDB
+
+ruby-inherited-resources/focal 1.9.0-2 all
+  Speeds up development by making controllers inherit all restful actions
+
+ruby-iniparse/focal 1.4.2-1 all
+  library for parsing INI documents
+
+ruby-inline/focal 3.12.4-2 all
+  Ruby library for embedding C/C++ external module code
+
+ruby-innertube/focal 1.1.0-5 all
+  thread-safe re-entrant resource pool
+
+ruby-insist/focal 1.0.0-1 all
+  assertion library for both testing and for production code
+
+ruby-instance-storage/focal 1.0.0-4 all
+  Ruby Library for managing class instances with dictionary
+
+ruby-instantiator/focal 0.0.7-1 all
+  Ruby library to instantiate an arbitrary class
+
+ruby-integration/focal 0.1.0-1build1 all
+  Numerical integration for Ruby, with a simple interface
+
+ruby-introspection/focal 0.0.4-1 all
+  Ruby library for the inspection of method definitions on objects
+
+ruby-invisible-captcha/focal 0.12.2-2 all
+  Simple honeypot protection for RoR apps
+
+ruby-io-like/focal 0.3.0-1 all
+  Provides the functionality of an IO object to any class
+
+ruby-ipaddress/focal 0.8.3-2 all
+  Ruby library to manipulate IPv4/IPv6 addresses
+
+ruby-iso/focal 0.2.2-2 all
+  Ruby implementation of ISO 639-1 alpha2 and ISO 3166-1
+
+ruby-iso8601/focal 0.12.1-1 all
+  Ruby parser to work with ISO 8601 dateTimes and durations
+
+ruby-jaeger-client/focal 0.10.0-2 all
+  OpenTracing Tracer implementation for Jaeger
+
+ruby-jar-dependencies/focal 0.3.10-2 all
+  Ruby gem の jar 依存性を管理
+
+ruby-jaro-winkler/focal 1.5.4-2build1 amd64
+  Implementation of Jaro-Winkler distance algorithm
+
+ruby-jbuilder/focal 2.7.0-1 all
+  creation of JSON structures via a Builder-style DSL
+
+ruby-jekyll-archives/focal 2.2.1-2 all
+  Jekyll plugin to generate post archive pages
+
+ruby-jekyll-avatar/focal 0.7.0-1 all
+  Jekyll plugin for rendering GitHub avatars
+
+ruby-jekyll-coffeescript/focal 1.2.2-2 all
+  CoffeeScript converter for Jekyll
+
+ruby-jekyll-commonmark/focal 1.3.1-4 all
+  commonmark markdown converter for jekyll
+
+ruby-jekyll-compose/focal 0.12.0-4 all
+  Jekyll plugin to create content from the command line
+
+ruby-jekyll-data/focal 1.1.0-1 all
+  read and add data files within Jekyll theme-gems to site hash
+
+ruby-jekyll-default-layout/focal 0.1.4-2 all
+  plugin to set default layouts for Jekyll pages and posts
+
+ruby-jekyll-feed/focal 0.13.0-2 all
+  Atom feed generator for Jekyll
+
+ruby-jekyll-gist/focal 1.5.0-2 all
+  Liquid tag for displaying GitHub Gists in Jekyll sites
+
+ruby-jekyll-github-metadata/focal 2.13.0-1 all
+  Jekyll plugin to propagate the site.github namespace
+
+ruby-jekyll-include-cache/focal 0.2.0-2 all
+  Jekyll plugin to cache the rendering of Liquid includes
+
+ruby-jekyll-last-modified-at/focal 1.2.1-1 all
+  indicate the last time a file was modified
+
+ruby-jekyll-mentions/focal 1.5.1-2 all
+  Jekyll plugin to add mentionable link support
+
+ruby-jekyll-multiple-languages/focal 1.6.1+dfsg-1 all
+  Jekyll plugin to internationalize sites
+
+ruby-jekyll-optional-front-matter/focal 0.3.2-1 all
+  jekyll plugin to make front matter optional for markdown files
+
+ruby-jekyll-paginate/focal 1.1.0-3 all
+  Default pagination generator for Jekyll
+
+ruby-jekyll-paginate-v2/focal 1.9.4-2 all
+  enhanced pagination generator for Jekyll 3
+
+ruby-jekyll-readme-index/focal 0.3.0-1 all
+  plugin for building Jekyll sites with any GitHub-hosted theme
+
+ruby-jekyll-redirect-from/focal 0.16.0-2 all
+  Jekyll plugin to give posts and pages multiple URLs
+
+ruby-jekyll-relative-links/focal 0.6.1-1 all
+  plugin for Jekyll to convert relative links to Markdown files
+
+ruby-jekyll-remote-theme/focal 0.4.1-2 all
+  plugin for building Jekyll sites with any GitHub-hosted theme
+
+ruby-jekyll-sass-converter/focal 1.5.2-2 all
+  Basic Sass converter for Jekyll
+
+ruby-jekyll-seo-tag/focal 2.6.1-2 all
+  Jekyll plugin to add metadata tags
+
+ruby-jekyll-sitemap/focal 1.4.0-2 all
+  Jekyll plugin to silently generate a sitemap
+
+ruby-jekyll-test-plugin/focal 0.1.0-1 all
+  facility to test Jekyll plugins
+
+ruby-jekyll-test-plugin-malicious/focal 0.2.0-1 all
+  Malicious test plugin for Jekyll
+
+ruby-jekyll-titles-from-headings/focal 0.5.3-1 all
+  jekyll plugin to create a page title from the markdown heading
+
+ruby-jekyll-toc/focal 0.13.1-1 all
+  Jekyll plugin to generate a table of contents
+
+ruby-jekyll-watch/focal 2.2.1-1 all
+  Rebuild your Jekyll site when a file changes
+
+ruby-jeweler/focal 2.0.1-3 all
+  Opinionated tool for creating and managing RubyGem projects
+
+ruby-jira/focal 1.7.1-1 all
+  Atlassian JIRA REST API client
+
+ruby-jmespath/focal 1.4.0-2 all
+  Ruby implementation of JMESPath
+
+ruby-jnunemaker-matchy/focal 0.4.0-1build1 all
+  RSpec-like matcher system for use in Test::Unit
+
+ruby-joiner/focal 0.4.2-2 all
+  builds activerecord joins from association paths
+
+ruby-journey/focal 1.0.4-2 all
+  Journey is a router for Ruby on Rails
+
+ruby-jquery-atwho-rails/focal 1.5.4+dfsg-1 all
+  jquery plugin for @mentions
+
+ruby-jquery-datatables-rails/focal 3.4.0+dfsg-1 all
+  jquery datatables for rails
+
+ruby-jquery-rails/focal 4.3.3-1 all
+  jQuery for Rails 3+
+
+ruby-jquery-scrollto-rails/focal 1.4.3+dfsg-1 all
+  library to use jQuery scrollTo with Rails
+
+ruby-jquery-ui-rails/focal 6.0.1+dfsg-3 all
+  jQuery UI packaged for the Rails asset pipeline
+
+ruby-js-image-paths/focal 0.1.1-1 all
+  Rails image paths in your JS
+
+ruby-js-regex/focal 3.1.1-1 all
+  Converts Ruby regexes to JavaScript regexes
+
+ruby-js-routes/focal 1.4.4-1 all
+  Brings Rails named routes to javascript
+
+ruby-json/focal 2.3.0+dfsg-1build1 amd64
+  JSON library for Ruby
+
+ruby-json-jwt/focal 1.11.0-1 all
+  JSON Web Token and its family in Ruby
+
+ruby-json-schema/focal 2.8.1-2 all
+  Ruby JSON Schema Validator
+
+ruby-json-spec/focal 1.1.5-2 all
+  Ruby library that provides JSON helpers for RSpec and Cucumber
+
+ruby-jsonapi-renderer/focal 0.1.3-1 all
+  Render JSONAPI documents
+
+ruby-jsonify/focal 0.4.1-3build1 all
+  builder-style engine to turn Ruby objects into JSON
+
+ruby-jsonpath/focal 1.0.5-2 all
+  Ruby implementation of JsonPath
+
+ruby-jwt/focal 2.1.0-2 all
+  JSON Web Token implementation in Ruby
+
+ruby-kakasi-ffi/focal 1.0.2-2 amd64
+  KAKASI interface for Ruby with Fiddle/DL/FFI
+
+ruby-kaminari/focal 1.0.1-5 all
+  pagination engine plugin for Rails 3+ and other modern frameworks
+
+ruby-kaminari-actionview/focal 1.0.1-5 all
+  Kaminari Action View adapter
+
+ruby-kaminari-activerecord/focal 1.0.1-5 all
+  Kaminari Active Record adapter
+
+ruby-kaminari-core/focal 1.0.1-5 all
+  Kaminari's core pagination library
+
+ruby-kgio/focal 2.11.2-1build1 amd64
+  Kinder, gentler I/O for Ruby
+
+ruby-kitchen-docker/focal 2.7.0-1 all
+  Docker Driver for Test Kitchen
+
+ruby-kitchen-salt/focal 0.4.0-2 all
+  salt provisioner for test-kitchen
+
+ruby-knapsack/focal 1.18.0-2 all
+  Parallel tests across CI server nodes based on time execution
+
+ruby-knife-acl/focal 1.0.6-1 all
+  Knife plugin to manipulate Chef server access control lists
+
+ruby-kpeg/focal 1.0.0-1 all
+  KPeg is a simple PEG library for Ruby
+
+ruby-kramdown/focal-updates,focal-security 1.17.0-4ubuntu0.1 all
+  Fast, pure-Ruby Markdown-superset converter - ruby library
+
+ruby-kramdown-rfc2629/focal 1.2.12-0.1 all
+  generate XML2RFC XML from Markdown
+
+ruby-kubeclient/focal 4.6.0-1 all
+  client for Kubernetes REST API
+
+ruby-kyotocabinet/focal 1.33-1build1 amd64
+  Straightforward implementation of DBM - Ruby bindings
+
+ruby-lapack/focal 1.8.1-1build1 amd64
+  Ruby wrapper of LAPACK
+
+ruby-launchy-shim/focal 2.3.0.1 all
+  helper class for launching a web browser
+
+ruby-ldap/focal 0.9.20-1build1 amd64
+  OpenLDAP library binding for Ruby
+
+ruby-leaflet-rails/focal 1.3.1+dfsg-2 all
+  Use leaflet.js with Rails 4
+
+ruby-letter-opener/focal 1.7.0-1 all
+  Preview mail in the browser instead of sending
+
+ruby-levenshtein/focal 0.2.2-2build9 amd64
+  calculates the Levenshtein distance between two sequences
+
+ruby-libprelude/focal 5.1.1-5 amd64
+  Security Information and Events Management system [ Ruby bindings ]
+
+ruby-librarian/focal 0.6.4-1 all
+  framework for writing bundlers
+
+ruby-librdf/focal 1.0.17.1+dfsg-1.3ubuntu3 amd64
+  Ruby language bindings for the Redland RDF library
+
+ruby-libvirt/focal 0.7.1-1build1 amd64
+  libvirt 用の Ruby バインディング
+
+ruby-libxml/focal 3.1.0-2 amd64
+  Ruby Bindings for LibXML2
+
+ruby-licensee/focal 8.9.2-1 all
+  program to detect open source project licenses
+
+ruby-linked-list/focal 0.0.14-1 all
+  Ruby implementation of Doubly Linked List
+
+ruby-liquid/focal 4.0.3-2 all
+  Ruby library for rendering safe HTML and email templates
+
+ruby-listen/focal 3.1.5-2 all
+  Ruby library listening to file modifications
+
+ruby-little-plugger/focal 1.1.4-1 all
+  module that provides Gem based plugin management
+
+ruby-locale/focal 2.1.2-1 all
+  Locale library for Ruby
+
+ruby-lockfile/focal 2.1.3-1 all
+  create NFS-safe lockfiles
+
+ruby-log4r/focal 1.1.10-4 all
+  Logging library for Ruby
+
+ruby-logger-application/focal 0.0.2-1build2 all
+  add logging support to Ruby application
+
+ruby-logging/focal 2.2.2-1 all
+  flexible and extendable logging library for Ruby
+
+ruby-logging-rails/focal 0.6.0-3 all
+  Logging for rail applications
+
+ruby-logify/focal 0.2.0-1 all
+  Lightweight logging library for Ruby
+
+ruby-lograge/focal 0.10.0-1 all
+  Tame Rails' multi-line logging into a single line per request
+
+ruby-loofah/focal 2.4.0+dfsg-1 all
+  manipulation and transformation of HTML/XML documents and fragments
+
+ruby-lru-redux/focal 1.1.0-2 all
+  efficient implementation of an lru cache
+
+ruby-luabridge/focal 0.8.0-2build1 amd64
+  access Lua from Ruby
+
+ruby-lumberjack/focal 1.0.13-1 all
+  Lumberjack is a logging implementation in Ruby
+
+ruby-mab/focal 0.0.3-1build1 all
+  templating engine for writing HTML in pure Ruby
+
+ruby-macaddr/focal 1.7.1-2 all
+  library to read system mac address
+
+ruby-magic/focal 0.2.9-2 all
+  Ruby FFI bindings to libmagic
+
+ruby-mail/focal 2.7.1+dfsg1-1 all
+  Ruby library to handle email generation, parsing and sending
+
+ruby-mail-gpg/focal 0.4.2-1 all
+  GPG/MIME encryption plugin for the Ruby Mail Library
+
+ruby-mail-room/focal 0.10.0-2 all
+  Forward mail from gmail IMAP to a callback URL or job worker, simply
+
+ruby-marcel/focal 0.3.2-1 all
+  Simple mime type detection
+
+ruby-marginalia/focal 1.8.0-2 all
+  Attach comments to your ActiveRecord queries
+
+ruby-marisa/focal 0.2.5-6build2 amd64
+  Ruby bindings for MARISA
+
+ruby-markdown-it-html5-embed/focal 1.0.0+dfsg-3 all
+  Markdown-it plugin for embedding audio/video in the HTML5 way
+
+ruby-markerb/focal 1.1.0-3 all
+  multipart templates made easy with Markdown + ERb
+
+ruby-maruku/focal 0.7.3-1 all
+  Markdown-superset interpreter written in Ruby
+
+ruby-mathml/focal 0.14-5 all
+  Ruby 用の TeX の数式から MathML への変換ライブラリ
+
+ruby-maven-libs/focal 3.3.9+ds-1 all
+  Maven インストレーションへのアクセスを提供する Ruby ライブラリ
+
+ruby-maxitest/focal 3.6.0-1 all
+  Minitest + all the features you always wanted
+
+ruby-maxminddb/focal 0.1.22-2 all
+  MaxMind DB binary file reader
+
+ruby-mecab/focal 0.996-10build1 amd64
+  Mecab binding for Ruby language
+
+ruby-mechanize/focal 2.7.6-1 all
+  library used for automating interaction with websites
+
+ruby-memoist/focal 0.16.2-2 all
+  Ruby library providing method memoization
+
+ruby-memoizable/focal 0.4.2-2 all
+  memoize method return values
+
+ruby-memory-profiler/focal 0.9.14-3 all
+  Memory profiler for Ruby
+
+ruby-mercenary/focal 0.3.6-2 all
+  Lightweight and flexible library for writing command-line apps in Ruby
+
+ruby-messagebus-api/focal 3.0.7+git.20130130.97b34ece.REALLY.1.0.3-2 all
+  Send email through the Message Bus service
+
+ruby-metaclass/focal 0.0.4-1 all
+  Ruby library adding a metaclass method to all Ruby objects
+
+ruby-metaid/focal 1.0-8build1 all
+  Some additional methods to make metaprogramming easier
+
+ruby-method-source/focal 0.9.2-1 all
+  Retrieve the sourcecode for a method as a Ruby string
+
+ruby-metriks/focal 0.9.9.8-1 all
+  experimental threadsafe, low-impact measurement library for Ruby
+
+ruby-middleware/focal 0.1.0-1 all
+  middleware abstraction for Ruby.
+
+ruby-mime/focal 0.4.4-2 all
+  MIME library for Ruby
+
+ruby-mime-types/focal 3.3.1-1 all
+  guess MIME type of files
+
+ruby-mime-types-data/focal 3.2015.1120-1 all
+  registry for information about MIME media type definitions
+
+ruby-mimemagic/focal 0.3.2+dfsg-1 all
+  fast MIME detection by extension or content
+
+ruby-mini-exiftool/focal 2.9.0-2 all
+  wrapper for exiftool command-line
+
+ruby-mini-histogram/focal 0.1.3-2 all
+  build histograms out of Ruby arrays
+
+ruby-mini-magick/focal 4.9.5-2 all
+  wrapper for ImageMagick with a small memory footprint
+
+ruby-mini-mime/focal 1.0.1-1 all
+  Lightweight mime type implementation
+
+ruby-minimization/focal 0.2.1-2 all
+  Ruby library providing minimization algorithms
+
+ruby-minispec-metadata/focal 3.3.0-2 all
+  define and access metadata in MiniTest::Spec
+
+ruby-minitar/focal 0.9-1 all
+  Provides POSIX tarchive management for Ruby
+
+ruby-minitest/focal 5.13.0-1 all
+  TDD, BDD, モックアップ、ベンチーマクをサポートする Ruby テストツール
+
+ruby-minitest-around/focal 0.4.1-1 all
+  Around block for minitest
+
+ruby-minitest-excludes/focal 2.0.0-1 all
+  Ruby unit tests helper library for MiniTest framework
+
+ruby-minitest-focus/focal 1.1.2-1 all
+  provides ability to focus on a few tests easily
+
+ruby-minitest-global-expectations/focal 1.0.1-2 all
+  Support minitest expectation methods for all objects
+
+ruby-minitest-hooks/focal 1.4.0-1 all
+  Around and before_all/after_all/around_all hooks for Minitest
+
+ruby-minitest-power-assert/focal 0.3.1-2 all
+  power assert implementation for minitest
+
+ruby-minitest-reporters/focal 1.0.19-2 all
+  creates customizable Minitest output formats
+
+ruby-minitest-shared-description/focal 1.0.0-2 all
+  Support for shared specs and shared spec subclasses for Minitest
+
+ruby-minitest-stub-const/focal 0.4-1 all
+  Stub constants for the duration of a block in MiniTest
+
+ruby-minitest-utils/focal 0.2.4+debian-1build1 all
+  utilities for minitest
+
+ruby-mixlib-archive/focal 0.4.1-1 all
+  simple interface to various archive formats
+
+ruby-mixlib-authentication/focal 3.0.6-1 all
+  Simple Ruby mixin for creating a logger object
+
+ruby-mixlib-cli/focal 2.1.6-1 all
+  Ruby mixin for creating command line applications
+
+ruby-mixlib-config/focal 3.0.6-1 all
+  Simple class based config mechanism for Ruby
+
+ruby-mixlib-install/focal 3.11.7-1ubuntu1 all
+  Mixin to help with omnitruck installs
+
+ruby-mixlib-log/focal 3.0.8-1 all
+  Simple Ruby mixin for creating a logger object
+
+ruby-mixlib-shellout/focal 3.0.9-2 all
+  mixin library for subprocess management, output collection
+
+ruby-mixlib-versioning/focal 1.1.0-1 all
+  Ruby library to parse, compare and manipulate version strings
+
+ruby-mizuho/focal 0.9.20+dfsg-1 all
+  documentation formatting tool
+
+ruby-mmap2/focal 2.2.7-1build3 amd64
+  Mmap class implement memory-mapped file objects for Ruby 2.x
+
+ruby-mobile-fu/focal 1.4.0+github-4 all
+  detect mobile requests from mobile devices in your Rails app
+
+ruby-mocha/focal 1.7.0-1 all
+  Mocking and stubbing library for Ruby
+
+ruby-mocha-doc/focal 1.7.0-1 all
+  Mocking and stubbing library for Ruby - documentation
+
+ruby-model-tokenizer/focal 1.0.1-2 all
+  Random token generator for Rails models
+
+ruby-mojo-magick/focal 0.5.6-2 all
+  simple Ruby stateless module interface to ImageMagick
+
+ruby-molinillo/focal 0.6.4-1 all
+  generic dependency resolution algorithm
+
+ruby-momentjs-rails/focal 2.20.1-2 all
+  wraps the Moment.js library in a rails engine for asset pipeline
+
+ruby-moneta/focal 1.0.0-5 all
+  Ruby interface to multiple key/value stores
+
+ruby-money/focal 6.13.6-2 all
+  Ruby Library for dealing with money and currency conversion
+
+ruby-mongo/focal 2.5.1-1 all
+  Ruby driver for MongoDB
+
+ruby-mono-logger/focal 1.1.0-3 all
+  lock-free logger for Ruby
+
+ruby-mousetrap-rails/focal 1.4.6-6 all
+  integrate Mousetrap javascript library with Rails Asset Pipeline
+
+ruby-mp3tag/focal 1.0-12build1 all
+  Ruby library for manipulating ID3V1.1 tags in MP3
+
+ruby-mpi/focal 0.3.2-3build1 amd64
+  Ruby binding of MPI
+
+ruby-msfrpc-client/focal 1.1.2-2 all
+  Rapid7 Metasploit API client library written in Ruby
+
+ruby-msgpack/focal 1.1.0-1build3 amd64
+  Ruby library for MessagePack
+
+ruby-mtrc/focal 0.0.4-1 all
+  library to accumulate metrics and extract basic statistics
+
+ruby-multi-json/focal 1.14.1-1 all
+  Ruby library to provide easy switching between different JSON backends
+
+ruby-multi-test/focal 0.1.2-1 all
+  library to control autorun feature of test frameworks
+
+ruby-multi-xml/focal 0.6.0-1 all
+  generic swappable back-end for XML parsing in Ruby
+
+ruby-multibitnums/focal 0.1.4-2build9 amd64
+  extension library for integers with arbitrary bit lengths
+
+ruby-multibitnums-dbg/focal 0.1.4-2build9 amd64
+  extension library for integers with arbitrary bit lengths (debugging symbols)
+
+ruby-multipart-parser/focal 0.1.1-4 all
+  simple parser for multipart MIME messages
+
+ruby-multipart-post/focal 2.0.0-1 all
+  multipart form post accessory for Net::HTTP
+
+ruby-murmurhash3/focal 0.1.6-2build1 amd64
+  implements mumur3 hashing function
+
+ruby-mustache/focal 1.0.2-1 all
+  Mustache is a framework-agnostic way to render logic-free views
+
+ruby-mustermann/focal 1.0.0-4 all
+  use patterns like regular expressions
+
+ruby-mustermann-grape/focal 1.0.0-1 all
+  Grape syntax for Mustermann
+
+ruby-mysql2/focal 0.5.2-1ubuntu3 amd64
+  simple, fast MySQL library for Ruby
+
+ruby-nakayoshi-fork/focal 0.0.4-1 all
+  solves CoW friendly problem on MRI 2.2 and later
+
+ruby-nanotest/focal 0.9.4.1-1 all
+  Exteremely minimal test framework
+
+ruby-narray/focal 0.6.1.2-3build1 amd64
+  Numerical N-dimensional Array library for Ruby
+
+ruby-narray-miss/focal 1.4.0-2 all
+  Additional class with processing of missing value to NArray
+
+ruby-naught/focal 1.1.0-1 all
+  Naught is a toolkit for building Null Objects
+
+ruby-ncurses/focal 1.4.9-1build5 amd64
+  ruby extension for the ncurses C library
+
+ruby-necromancer/focal 0.5.1-2 all
+  Library offering conversion from one object type to another
+
+ruby-nenv/focal 0.3.0-2 all
+  convenient wrapper for Ruby's ENV
+
+ruby-neovim/focal 0.8.1-1 all
+  Ruby client for Neovim
+
+ruby-nested-form/focal 0.3.2-2 all
+  conveniently handle multiple models in a single form
+
+ruby-net-dns/focal 0.9.1-2 all
+  Pure Ruby DNS library
+
+ruby-net-http-digest-auth/focal 1.4-2 all
+  RFC 2617 Digest Access Authentication implementation
+
+ruby-net-http-persistent/focal 2.9.4-2 all
+  Manages persistent connections using Net::HTTP
+
+ruby-net-http-pipeline/focal 1.0.1-2 all
+  HTTP/1.1 pipelining implementation atop Net::HTTP
+
+ruby-net-irc/focal 0.0.9-3 all
+  Ruby IRC library (Client, Server and many IRC gateways to webservice)
+
+ruby-net-ldap/focal 0.16.1-1ubuntu1 all
+  LDAP client library for Ruby
+
+ruby-net-ntp/focal 2.1.3-2 all
+  NTP client for ruby
+
+ruby-net-scp/focal 2.0.0-3 all
+  pure ruby implementation of the SCP protocol
+
+ruby-net-sftp/focal 1:2.1.2-4 all
+  Ruby implementation of the SFTP protocol
+
+ruby-net-ssh/focal 1:5.2.0-1 all
+  Ruby implementation of the SSH protocol
+
+ruby-net-ssh-gateway/focal 2.0.0-1 all
+  Ruby library for tunneling connections to servers with ssh
+
+ruby-net-ssh-krb/focal 0.4.0-1 all
+  Kerberos support for ruby-net-ssh
+
+ruby-net-ssh-multi/focal 1.2.1-3 all
+  Ruby library for making multiple SSH connections to remote systems
+
+ruby-net-telnet/focal 0.1.1-2 all
+  telnet client library
+
+ruby-netaddr/focal 1.5.1-2 all
+  manipulating network addresses
+
+ruby-netcdf/focal 0.7.2-3build3 amd64
+  Ruby interface of netCDF library
+
+ruby-netrc/focal 0.11.0-3 all
+  Ruby library to read and write netrc files
+
+ruby-nfc/focal 3.1.2-1build1 amd64
+  ruby wrapper for the libnfc
+
+ruby-nfnetlink/focal 1.0.2-2 all
+  Wrapper on top of libnfnetlink using FFI
+
+ruby-nfqueue/focal 1.0.4-2 all
+  Wrapper around libnetfilter_queue using FFI
+
+ruby-ngraph/focal 6.08.00-1.1build1 amd64
+  Library for using ngraph-gtk Ruby programs
+
+ruby-nio4r/focal 2.3.1-1build1 amd64
+  Ruby library providing a selector API for monitoring IO objects
+
+ruby-nokogiri/focal 1.10.7+dfsg1-2build1 amd64
+  HTML, XML, SAX, and Reader parser for Ruby
+
+ruby-nokogiri-diff/focal 0.2.0-1 all
+  calculate the differences between two XML/HTML documents
+
+ruby-nokogumbo/focal 1.4.2+ds-1build6 amd64
+  Nokogiri interface to the Gumbo HTML5 parser
+
+ruby-nori/focal 2.6.0-1 all
+  XML to Hash translator
+
+ruby-notiffany/focal 0.1.3-1 all
+  Wrapper libray for most popular notification libraries
+
+ruby-notify/focal 0.5.2-2 all
+  Desktop notification command on cross platform
+
+ruby-notmuch/focal 0.29.3-1ubuntu2 amd64
+  Notmuch メール検索・索引化ライブラリへの Ruby インターフェース
+
+ruby-ntlm/focal 0.6.1-2 all
+  NTLM authentication client for Ruby
+
+ruby-numerizer/focal 0.2.0-2 all
+  parse numbers in natural language from strings (ex forty two)
+
+ruby-numru-misc/focal 0.1.2-2 all
+  Miscellaneous functions and classes to help Ruby programming
+
+ruby-numru-units/focal 1.9.0-1 all
+  Ruby class library to handle units of physical quantities
+
+ruby-oauth/focal 0.5.4-1 all
+  Ruby library for OAuth core
+
+ruby-oauth2/focal 1.4.1-2 all
+  ruby wrapper for the OAuth 2.0 protocol
+
+ruby-obexftp/focal 0.24-6build2 amd64
+  ruby binding to the object exchange file transfer library
+
+ruby-octokit/focal 4.16.0-1 all
+  Ruby toolkit for working with the GitHub API
+
+ruby-odbc/focal 0.99998-1build2 amd64
+  ODBC Binding for Ruby
+
+ruby-oembed/focal 0.12.0-3 all
+  oEmbed for Ruby
+
+ruby-ogginfo/focal 0.7.2-2 all
+  Ruby library for accessing low-level information on ogg files
+
+ruby-oily-png/focal 1.2.1~dfsg-1build3 amd64
+  native mixin to speed up ChunkyPNG
+
+ruby-oj/focal 3.10.1-1build1 amd64
+  fast JSON parser and serializer for Ruby
+
+ruby-ole/focal 1.2.11.8-2 all
+  Ruby library for read/write access for OLE compound documents
+
+ruby-omniauth/focal 1.9.0-1 all
+  flexible authentication system utilizing Rack middleware
+
+ruby-omniauth-auth0/focal 2.0.0-1 all
+  Omniauth OAuth2 strategy for the Auth0 platform
+
+ruby-omniauth-authentiq/focal 0.3.3-1 all
+  Authentiq strategy for OmniAuth
+
+ruby-omniauth-azure-oauth2/focal 0.0.10-1 all
+  Windows Azure Active Directory OAuth2 strategy for OmniAuth
+
+ruby-omniauth-bitbucket/focal 0.0.2-1 all
+  Oauth2 bitbucket strategy for OmniAuth
+
+ruby-omniauth-cas3/focal 1.1.4-2 all
+  CAS 3.0 Strategy for OmniAuth
+
+ruby-omniauth-crowd/focal 2.4.0-1 all
+  OmniAuth provider for Atlassian Crowd REST API
+
+ruby-omniauth-facebook/focal 4.0.0-2 all
+  Oauth2 facebook strategy for OmniAuth
+
+ruby-omniauth-github/focal 1.4.0-1 all
+  GitHub strategy for the Ruby OmniAuth library
+
+ruby-omniauth-gitlab/focal 1.0.2-1 all
+  OAuth2 strategy for authenticating to GitLab service
+
+ruby-omniauth-google-oauth2/focal 0.6.0-2 all
+  Google OAuth2 strategy for OmniAuth 1.x
+
+ruby-omniauth-jwt/focal 0.0.2-1 all
+  JSON Web Token (JWT) is a simple way to send verified information
+
+ruby-omniauth-kerberos/focal 0.3.0-3 all
+  OmniAuth strategy for Kerberos
+
+ruby-omniauth-ldap/focal 2.1.1-1 all
+  LDAP strategy for Ruby OmniAuth library
+
+ruby-omniauth-multipassword/focal 0.4.2-1 all
+  OmniAuth strategy to use different password strategies
+
+ruby-omniauth-oauth/focal 1.1.0-2 all
+  generic OAuth (1.0/1.0a) strategy for OmniAuth
+
+ruby-omniauth-oauth2/focal 1.5.0-1 all
+  abstract OAuth2 strategy for OmniAuth
+
+ruby-omniauth-oauth2-generic/focal 0.2.2-1 all
+  generic OmniAuth strategy for OAuth2 providers
+
+ruby-omniauth-openid/focal 1.0.1-4 all
+  openid strategy for OmniAuth
+
+ruby-omniauth-openid-connect/focal 0.3.3-2 all
+  OpenID Connect Strategy for OmniAuth
+
+ruby-omniauth-remote-user/focal 0.1.3-1 all
+  Omniauth extrategy for Remote-User HTTP header
+
+ruby-omniauth-salesforce/focal 1.0.5-2 all
+  OmniAuth strategy for salesforce.com
+
+ruby-omniauth-saml/focal 1.10.0-1 all
+  generic SAML strategy for OmniAuth
+
+ruby-omniauth-shibboleth/focal 1.3.0-1 all
+  OmniAuth Shibboleth strategies for OmniAuth
+
+ruby-omniauth-tumblr/focal 1.2-1 all
+  OmniAuth strategy for Tumblr
+
+ruby-omniauth-twitter/focal 1.4.0-1 all
+  OmniAuth strategy for Twitter
+
+ruby-omniauth-ultraauth/focal 0.0.2-1.1 all
+  Omniauth strategy for UltraAuth
+
+ruby-omniauth-wordpress/focal 0.2.2-2 all
+  Wordpress strategy for OmniAuth
+
+ruby-open-graph-reader/focal 0.6.2+dfsg-1 all
+  OpenGraph protocol parser
+
+ruby-open-uri-redirections/focal 0.2.1-1 all
+  openuri patch to allow redirections between HTTP and HTTPS
+
+ruby-open4/focal 1.3.4-1 all
+  library for managing child processes in Ruby
+
+ruby-openid/focal 2.9.2debian-1 all
+  Ruby library for verifying and serving OpenID identities
+
+ruby-openid-connect/focal 1.1.6-2 all
+  OpenID Connect Server & Client Library
+
+ruby-openstack/focal 2.0.2-1 all
+  OpenStack Ruby API
+
+ruby-opentracing/focal 0.5.0-2 all
+  OpenTracing API for Ruby
+
+ruby-optimist/focal 3.0.0-2 all
+  Commandline parser for Ruby that just gets out of your way
+
+ruby-org/focal 0.9.12-2 all
+  Emacs org-mode parser for Ruby
+
+ruby-origami/focal 2.0.0-1ubuntu1 all
+  PDF analysis and manipulation tool (Ruby library)
+
+ruby-origin/focal 2.2.0-1 all
+  Simple DSL for MongoDB query generation
+
+ruby-orm-adapter/focal 0.5.0-2 all
+  single point of entry for using basic features of ruby ORMs
+
+ruby-os/focal 0.9.6-1 all
+  Simple and easy way to know if you're on windows or not (reliably)
+
+ruby-otr-activerecord/focal 1.4.1-3 all
+  Off The Rails: Use ActiveRecord with Grape, Sinatra, Rack, or anything else!
+
+ruby-ox/focal 2.11.0-1build1 amd64
+  fast XML parser and object serializer
+
+ruby-packetfu/focal 1.1.11-2 all
+  mid-level packet manipulation library for Ruby
+
+ruby-paint/focal 0.8.6-2 all
+  terminal paint library with 256 color and effect support
+
+ruby-pango/focal 3.4.1-2build1 amd64
+  Pango bindings for the Ruby language
+
+ruby-paper-trail/focal 10.3.0-2 all
+  Track changes to your models, helps to retrieve versions
+
+ruby-parallel/focal 1.12.1-2 all
+  library to run any kind of code in parallel processes
+
+ruby-parallel-tests/focal 2.31.0-1 all
+  Run Test::Unit / RSpec / Cucumber / Spinach in parallel
+
+ruby-paranoia/focal 2.4.1-1 all
+  re-implementation of acts_as_paranoid for Rails 3
+
+ruby-parse-cron/focal 0.1.4-1 all
+  parse cron expressions and calculate next job occurrence
+
+ruby-parseconfig/focal 1.0.8-1 all
+  Simple standard configuration file parser for Ruby
+
+ruby-parser/focal 3.11.0-1 all
+  Ruby parser written in pure Ruby
+
+ruby-parslet/focal 1.8.2-3 all
+  Parser construction library with great error reporting in Ruby
+
+ruby-passenger/focal 5.0.30-1.1ubuntu3 all
+  transitional dummy package for passenger
+
+ruby-passenger-doc/focal 5.0.30-1.1ubuntu3 all
+  transitional dummy package for passenger-doc
+
+ruby-password/focal 0.5.3-4build9 amd64
+  Ruby library for handling passwords
+
+ruby-pastel/focal 0.7.3-2 all
+  terminal strings styling with intuitive and clean API
+
+ruby-pathname2/focal 1.8.1-1 all
+  alternate implementation of the Pathname class
+
+ruby-pathutil/focal 0.16.1-1 all
+  Faster pure Ruby implementation of Pathname with extra bits
+
+ruby-pcaprub/focal 0.12.4-1build3 amd64
+  LBL パケットキャプチャライブラリ (libpcap) 用 Ruby バインディング
+
+ruby-pdf-core/focal 0.8.1-1 all
+  Ruby library to render PDF documents
+
+ruby-pdf-inspector/focal 1.3.0-1 all
+  Ruby library for analyzing PDF output
+
+ruby-pdf-reader/focal 2.1.0-1 all
+  Ruby library for accessing the content of PDF files
+
+ruby-peach/focal 0.5.1-3 all
+  parallel execution of each and map in Ruby
+
+ruby-peek/focal 1.1.0-1 all
+  Take a peek into your Rails application
+
+ruby-peek-gc/focal 0.0.2-1 all
+  Take a peek into the GC info of your Rails application
+
+ruby-peek-host/focal 1.0.0-1 all
+  Take a peek into the host which served your Rails request
+
+ruby-peek-performance-bar/focal 1.3.0-1 all
+  peek into MySQL queries made during your application's requests
+
+ruby-peek-pg/focal 1.3.0-1 all
+  Take a peek into the Postgres queries made during your application's requests
+
+ruby-peek-rblineprof/focal 0.2.0-1 all
+  rails integration for rblineprof
+
+ruby-peek-redis/focal 1.2.0-1 all
+  Take a peek into the Redis calls made within your Rails application
+
+ruby-pg/focal 1.1.3-3build1 amd64
+  PostgreSQL interface for Ruby
+
+ruby-pgplot/focal 0.1.9-3build4 amd64
+  Ruby interface to the PGPLOT graphics library
+
+ruby-pkg-config/focal 1.4.0-1 all
+  pkg-config implementation for Ruby
+
+ruby-plist/focal 3.2.0-1 all
+  all-purpose property list manipulation library
+
+ruby-pluggaloid/focal 1.2.0-2 all
+  Extensible plugin system for mikutter
+
+ruby-po-to-json/focal 1.0.1-1 all
+  convert gettext PO files to JSON
+
+ruby-poltergeist/focal 1.18.1-1 all
+  PhantomJS driver for Capybara
+
+ruby-polyglot/focal 0.3.4-1 all
+  Custom language loaders for specified file extensions
+
+ruby-ponder/focal 0.2.0-2 all
+  Domain Specific Language for writing IRC Bots
+
+ruby-poppler/focal 3.4.1-2build1 all
+  Ruby bindings for the libpoppler-glib library
+
+ruby-posix-spawn/focal 0.3.13-2build2 amd64
+  Ruby Implementation of posix_spawn(2) for faster process spawning
+
+ruby-power-assert/focal 1.1.7-1 all
+  library showing values of variables and method calls in an expression
+
+ruby-powerbar/focal 1.0.18-1 all
+  progressbar library for Ruby
+
+ruby-powerpack/focal 0.1.1-4 all
+  Useful extensions to core Ruby classes
+
+ruby-prawn/focal 2.2.0+dfsg-1 all
+  fast, nimble PDF generation library for Ruby
+
+ruby-prawn-doc/focal 2.2.0+dfsg-1 all
+  fast, nimble PDF generation library for Ruby (documentation)
+
+ruby-prawn-icon/focal 2.5.0-1 all
+  Provides icon fonts for PrawnPDF
+
+ruby-prawn-manual-builder/focal 0.2.0-1 all
+  tool to write manuals for Prawn and Prawn accessories
+
+ruby-prawn-svg/focal 0.30.0-1 all
+  SVG renderer for Prawn PDF library
+
+ruby-prawn-table/focal 0.2.2-1 all
+  table support for the Prawn PDF generation library
+
+ruby-premailer/focal 1.11.1-2 all
+  Preflight for HTML e-mail
+
+ruby-premailer-rails/focal 1.10.3-2 all
+  tool to easily create styled HTML emails in Rails
+
+ruby-process-daemon/focal 1.0.1-2 all
+  Defines the daemon functionality using a Ruby class
+
+ruby-prof/focal 1.0.0-2build1 amd64
+  Fast Ruby profiler
+
+ruby-progressbar/focal 1.10.1-1 all
+  Text progress bar library for Ruby
+
+ruby-prometheus-client-mmap/focal 0.10.0-1build1 amd64
+  suite of instrumentation metric primitives
+
+ruby-proxifier/focal 1.0.3-1 all
+  add support for HTTP or SOCKS proxies
+
+ruby-pry-byebug/focal 3.7.0-2 all
+  step-by-step debugging and stack navigation capabilities in pry using byebug
+
+ruby-pry-rails/focal 0.3.9-2 all
+  Use Pry as your rails console
+
+ruby-psych/focal 3.1.0+really3.1.0-1build6 amd64
+  libyaml wrapper for Ruby
+
+ruby-public-suffix/focal 3.0.3+ds-1 all
+  Domain name parser based on the Public Suffix List
+
+ruby-pundit/focal 2.0.0-1 all
+  object oriented authorization for rails
+
+ruby-puppet-forge/focal 2.3.2-1 all
+  Access the Puppet Forge API from Ruby
+
+ruby-puppet-syntax/focal 2.6.1-1 all
+  Syntax checks for Puppet manifests, templates, and Hiera YAML
+
+ruby-puppetlabs-spec-helper/focal 2.6.2-2 all
+  rake tasks and spec helper for spec tests on puppet modules
+
+ruby-pygments.rb/focal 1.2.0-4ubuntu2 all
+  pygments wrapper for Ruby
+
+ruby-qdbm/focal 1.8.78-9build3 amd64
+  QDBM Database Libraries for Ruby
+
+ruby-qr4r/focal 0.4.0-2 all
+  QR code generator for Ruby
+
+ruby-raabro/focal 1.1.6-1 all
+  Very dumb PEG parser library
+
+ruby-rabl/focal 0.13.1-1 all
+  Ruby templating library with JSON, BSON, XML and MessagePack support
+
+ruby-rabl-rails/focal 0.4.1-1 all
+  fast Rails 3+ templating system with JSON and XML support
+
+ruby-rack/focal-updates,focal-security 2.0.7-2ubuntu0.1 all
+  modular Ruby webserver interface
+
+ruby-rack-accept/focal 0.4.5-3 all
+  suite of tools for interpreting HTTP Accept family for Ruby/Rack
+
+ruby-rack-attack/focal 6.2.2-2 all
+  Block & throttle abusive requests
+
+ruby-rack-cache/focal 1.2-4 all
+  HTTP Caching for Rack
+
+ruby-rack-cors/focal 1.1.1-1 all
+  enable Cross-Origin Resource Sharing in Rack apps
+
+ruby-rack-flash3/focal 1.0.5-2 all
+  Flash hash for Ruby Rack applications
+
+ruby-rack-google-analytics/focal 1.2.0-2 all
+  Simple Rack middleware to inject the Google Analytics tracking code
+
+ruby-rack-mobile-detect/focal 0.4.0-4 all
+  rack middleware for ruby webapps to detect mobile devices
+
+ruby-rack-mount/focal 0.8.3-3 all
+  Stackable dynamic tree based Rack router
+
+ruby-rack-oauth2/focal 1.9.3-2 all
+  Rack interface for an OAuth 2.0
+
+ruby-rack-openid/focal 1.4.2-2 all
+  Ruby Rack library to provide access to OpenID
+
+ruby-rack-piwik/focal 0.3.0-2 all
+  piwik Analytics racking in your Ruby-Rack based project
+
+ruby-rack-protection/focal 2.0.8.1-1 all
+  Protects against typical web attacks for Rack apps
+
+ruby-rack-proxy/focal 0.6.1-2 all
+  request/response rewriting HTTP proxy rack app
+
+ruby-rack-rewrite/focal 1.5.1-1 all
+  rack middleware for enforcing rewrite rules
+
+ruby-rack-ssl/focal 1.4.1-2 all
+  SSL/TLS extension for Ruby Rack
+
+ruby-rack-test/focal 0.7.0-1 all
+  Simple testing API built on Rack
+
+ruby-rack-timeout/focal 0.4.2-1 all
+  Abort requests that are taking too long.
+
+ruby-raemon/focal 0.3.0+git.2012.05.18.b78eaae57c-1 all
+  framework for building UNIX daemons
+
+ruby-rails/focal 2:5.2.3+dfsg-3 all
+  MVC ruby based framework geared for web application development
+
+ruby-rails-assets-autosize/focal 4.0.2-5 all
+  autosize javascript library for rails applications
+
+ruby-rails-assets-blueimp-gallery/focal 2.33.0-1 all
+  blueimp Gallery for rails
+
+ruby-rails-assets-bootstrap/focal 3.3.7-1 all
+  bootstrap for rails projects
+
+ruby-rails-assets-bootstrap-markdown/focal 2.10.0-1 all
+  bootstrap-markdown for rails applications
+
+ruby-rails-assets-corejs-typeahead/focal 1.2.1-1 all
+  Fast and fully-featured autocomplete search library
+
+ruby-rails-assets-diaspora-jsxc/focal 0.1.5+dfsg2~develop.7-4 all
+  XMPP javascript client for diaspora
+
+ruby-rails-assets-emojione/focal 2.2.6-2 all
+  provide emojione javascript for rails applications
+
+ruby-rails-assets-favico.js/focal 0.3.10+dfsg-1 all
+  provides favico.js to rails apps via asset pipeline
+
+ruby-rails-assets-fine-uploader/focal 5.13.0-1 all
+  Official bower build for FineUploader/fine-uploader
+
+ruby-rails-assets-highlightjs/focal 9.12.0-2 all
+  highlightjs for rails applications
+
+ruby-rails-assets-jakobmattsson-jquery-elastic/focal 1.6.11~dfsg-1 all
+  jquery-elastic plugin for rails applications
+
+ruby-rails-assets-jeresig-jquery.hotkeys/focal 0.2.0-4 all
+  jQuery Hotkeys for rails applications
+
+ruby-rails-assets-jquery/focal 3.3.1-2 all
+  jQuery, jQuery UI and jQuery-ujs for Rails
+
+ruby-rails-assets-jquery-colorbox/focal 1.6.3~dfsg-5 all
+  jQuery lightbox and modal window plugin
+
+ruby-rails-assets-jquery-fullscreen/focal 1.1.4~dfsg-2 all
+  provide jquery-fullscreen via rails assets pipeline
+
+ruby-rails-assets-jquery-fullscreen-plugin/focal 0.5.0+dfsg-1 all
+  jQuery fullscreen plugin for rails applications
+
+ruby-rails-assets-jquery-idletimer/focal 1.0.1-3 all
+  provide jquery-idletimer via rails asset pipeline
+
+ruby-rails-assets-jquery-nicescroll/focal 3.6.6-2 all
+  provide jquery.nicescroll via rails asset pipeline
+
+ruby-rails-assets-jquery-placeholder/focal 2.3.1-2 all
+  provide jquery-placeholder via asset pipeline
+
+ruby-rails-assets-jquery-textchange/focal 0.2.3-1ubuntu1 all
+  provide jQuery TextChange Plugin via rails asset pipeline
+
+ruby-rails-assets-jquery-ui/focal 1.11.4-1 all
+  provide jquery.ui via rails assets pipeline
+
+ruby-rails-assets-jquery.are-you-sure/focal 1.9.0-1 all
+  Light "dirty forms" JQuery Plugin
+
+ruby-rails-assets-jquery.slimscroll/focal 1.3.6+dfsg-1 all
+  provide slimScroll jQuery plugin via rails asset pipeleine
+
+ruby-rails-assets-markdown-it/focal 8.4.2-2 all
+  markdown parser as a rails asset
+
+ruby-rails-assets-markdown-it--markdown-it-for-inline/focal 0.1.1-1 all
+  Inline tokens iterator for markdown-it markdown parser
+
+ruby-rails-assets-markdown-it-diaspora-mention/focal 1.2.0-1 all
+  diaspora* mentions for markdown-it markdown parser
+
+ruby-rails-assets-markdown-it-hashtag/focal 0.4.0-1 all
+  hashtag for markdown-it markdown parser via rails pipeline
+
+ruby-rails-assets-markdown-it-sanitizer/focal 0.4.3-1 all
+  sanitizer for markdown-it markdown parser via rails pipeline
+
+ruby-rails-assets-markdown-it-sub/focal 1.0.0-2 all
+  markdown parser subscript plugin as a rails asset
+
+ruby-rails-assets-markdown-it-sup/focal 1.0.0-2 all
+  markdown parser superscript plugin as a rails asset
+
+ruby-rails-assets-perfect-scrollbar/focal 1.4.0-2 all
+  Minimalistic but perfect custom scrollbar plugin
+
+ruby-rails-assets-punycode/focal 1.3.2-2 all
+  provide punycode converter via rails asset pipeline
+
+ruby-rails-assets-underscore/focal 1.8.3+dfsg-1 all
+  underscore.js for rails applications
+
+ruby-rails-controller-testing/focal 1.0.4-2 all
+  Extracting `assigns` and `assert_template` from ActionDispatch
+
+ruby-rails-deprecated-sanitizer/focal 1.0.3-3 all
+  HTML sanitizer API extracted from Action View
+
+ruby-rails-dom-testing/focal 2.0.3-3 all
+  SOM and Selector assertions for Rails applications
+
+ruby-rails-html-sanitizer/focal 1.3.0-1 all
+  HTML sanitization for Rails applications
+
+ruby-rails-i18n/focal 5.1.3-1 all
+  common locale data and translations for Rails i18n
+
+ruby-rails-observers/focal 0.1.5-1 all
+  toolkit to build Rails observers (part of Rails)
+
+ruby-rails-timeago/focal 2.17.1-2 all
+  Rails Helper to create time tags usable for jQuery Timeago plugin
+
+ruby-rails-tokeninput/focal 1.7.0-1 all
+  jquery tokeninput automated install
+
+ruby-railties/focal 2:5.2.3+dfsg-3 all
+  tools for creating, working with, and running Rails applications
+
+ruby-rainbow/focal 3.0.0-3 all
+  extension of Ruby String class enabling colored text on ANSI terminals
+
+ruby-raindrops/focal 0.19.0-1build3 amd64
+  Real-time stats for preforking Rack servers
+
+ruby-rash-alt/focal 0.4.3-1 all
+  simple extension to Hashie::Mash for rubyified keys
+
+ruby-rb-inotify/focal 0.9.10-1 all
+  Ruby wrapper for Linux's inotify, using FFI
+
+ruby-rblineprof/focal 0.3.7-2build1 amd64
+  line-profiler for ruby
+
+ruby-rbnacl/focal 7.1.1-1 all
+  Ruby binding to the Networking and Cryptography (NaCl) library
+
+ruby-rbpdf/focal 1.20.1-1 all
+  Ruby library for PDF generation
+
+ruby-rbpdf-font/focal 1.20.1-1 all
+  Ruby library for PDF generation (font definitions)
+
+ruby-rbtrace/focal 0.4.11-3build1 amd64
+  rbtrace: like strace but for ruby code
+
+ruby-rbvmomi/focal 1.8.2-1 all
+  Ruby interface to the VMware vSphere API
+
+ruby-rc4/focal 0.1.5-3 all
+  Ruby library implementing the RC4 algorithm
+
+ruby-rchardet/focal 1.8.0-1 all
+  Character encoding auto-detection for Ruby
+
+ruby-rd/focal 0.6.38-4 all
+  RDTool library for Ruby - library
+
+ruby-rdiscount/focal 2.1.8-1build6 amd64
+  Ruby 向け Discount Markdown プロセッサ
+
+ruby-re2/focal 1.1.1-2build3 amd64
+  Ruby bindings to re2
+
+ruby-recaptcha/focal 4.11.1-2 all
+  Ruby helpers for the reCAPTCHA API
+
+ruby-recursive-open-struct/focal 1.1.0-2 all
+  OpenStruct subclass that returns nested hash attributes as RecursiveOpenStructs
+
+ruby-redcarpet/focal 3.5.0-1build1 amd64
+  Fast, safe and extensible Markdown to (X)HTML parser for Ruby
+
+ruby-redcloth/focal 4.3.2-3build2 amd64
+  Textile module for Ruby
+
+ruby-redis/focal 4.1.2-4 all
+  Ruby client library for Redis
+
+ruby-redis-actionpack/focal 5.0.1-2 all
+  Redis session store for ActionPack
+
+ruby-redis-activesupport/focal 5.0.4-1 all
+  Redis store for ActiveSupport::Cache
+
+ruby-redis-namespace/focal 1.7.0-1 all
+  Namespaces commands when multiple apps access same redis server
+
+ruby-redis-rack/focal 2.0.2-2 all
+  Redis Store for Rack
+
+ruby-redis-rails/focal 5.0.2-3 all
+  Redis stores for Ruby on Rails
+
+ruby-redis-store/focal 1.3.0-3 all
+  redis stores for Ruby frameworks
+
+ruby-ref/focal 2.0.0-1 all
+  library implements weak, soft, and strong references in Ruby
+
+ruby-referer-parser/focal 0.3.0-2 all
+  Library for extracting marketing attribution data from referer URLs
+
+ruby-regexp-parser/focal 1.6.0-1 all
+  Scanner, lexer, parser for ruby's regular expressions
+
+ruby-regexp-property-values/focal 0.3.4-1build1 amd64
+  Inspect property values supported by Ruby's regex engine
+
+ruby-remcached/focal 0.4.1-3 all
+  Ruby EventMachine memcached client
+
+ruby-remctl/focal 3.16-4build3 amd64
+  Ruby extension for Kerberos-authenticated command execution
+
+ruby-remotipart/focal 1.2.1-2 all
+  enables remote multipart forms (AJAX style file uploads) with jquery-rails
+
+ruby-representable/focal 3.0.4-1 all
+  Renders and parses JSON/XML/YAML documents from and to Ruby objects
+
+ruby-request-store/focal 1.5.0-2 all
+  per-request global variable storage for Rack-based web servers
+
+ruby-responders/focal 2.4.0-3 all
+  set of Rails responders to dry up your application
+
+ruby-rest-client/focal 2.0.2-3.1 all
+  simple REST client for Ruby
+
+ruby-rethtool/focal 0.0.5-1 all
+  partial wrapper around the SIOCETHTOOL ioctl
+
+ruby-retriable/focal 3.1.2-1 all
+  Retriable is an simple DSL to retry failed code blocks
+
+ruby-retryable/focal 2.0.4-1 all
+  module that allows one to retry a code block
+
+ruby-reverse-markdown/focal 1.4.0-1 all
+  converts HTML code into markdown
+
+ruby-rgen/focal 0.8.4-1 all
+  Ruby Modelling and Generator Framework
+
+ruby-rgfa/focal 1.3.1+dfsg-1 all
+  parse, edit and write GFA format graphs in Ruby
+
+ruby-riddle/focal 2.3.1-3ubuntu1 all
+  Ruby API for Sphinx Search
+
+ruby-riemann-client/focal 0.2.3-1 all
+  client for the distributed event system Riemann
+
+ruby-rinku/focal 1.7.3-2build4 amd64
+  autolinker for Ruby
+
+ruby-rinku-doc/focal 1.7.3-2build4 all
+  autolinker for Ruby (documentation)
+
+ruby-riot/focal 0.12.7-2 all
+  fast, expressive, and context-driven unit-testing framework for Ruby
+
+ruby-rmagick/focal 2.16.0-6build1 amd64
+  ImageMagick API for Ruby
+
+ruby-rmagick-doc/focal 2.16.0-6build1 all
+  ImageMagick API for Ruby (documentation)
+
+ruby-roadie/focal 4.0.0-1 all
+  library for composing HTML email
+
+ruby-roadie-rails/focal 1.3.0-2 all
+  library for composing HTML email in Rails applications
+
+ruby-rollout/focal 2.4.3-1 all
+  provides feature flags based on Redis
+
+ruby-romkan/focal 0.4.0-2 all
+  Ruby 用のローマ字・かな間変換ライブラリ
+
+ruby-ronn/focal 0.8.0-3 all
+  library to build manuals from Markdown
+
+ruby-roo/focal 2.8.3-1 all
+  can access the contents of various spreadsheet files
+
+ruby-rotp/focal 2.1.1+dfsg-1 all
+  Ruby library for generating and verifying one time passwords
+
+ruby-rouge/focal 3.15.0-1 all
+  pure-Ruby syntax highlighter compatible with pygments
+
+ruby-roxml/focal 4.0.0-2 all
+  Ruby Object to XML mapping library
+
+ruby-rpam-ruby19/focal 1.2.1-1build5 amd64
+  PAM integration with Ruby
+
+ruby-rpatricia/focal 1.0.1-1build9 amd64
+  効率的な Ruby 用 IPv4/IPv6 プレフィクス記憶および検索
+
+ruby-rqrcode/focal 0.4.2-3 all
+  Ruby library for encoding QRCode (2D barcodes)
+
+ruby-rqrcode-core/focal 0.1.0-2 all
+  Ruby Gem Library to encode QR Codes
+
+ruby-rqrcode-rails3/focal 0.1.7-1 all
+  render QR codes with Rails 3
+
+ruby-rr/focal 1.2.1-2 all
+  test double framework for Ruby
+
+ruby-rrd/focal 1.7.2-3build2 amd64
+  time-series data storage and display system (Ruby interfaces)
+
+ruby-rsec/focal 0.4.2-1 all
+  Parser / Regexp Combinator For Ruby
+
+ruby-rspec/focal 3.9.0c1e0m1s2-1 all
+  Behaviour Driven Development framework for Ruby - metapackage
+
+ruby-rspec-collection-matchers/focal 1.2.0-2 all
+  Ruby RSpec CollectionMatchers
+
+ruby-rspec-core/focal 3.9.0c1e0m1s2-1 all
+  Behaviour Driven Development framework for Ruby - core
+
+ruby-rspec-expectations/focal 3.9.0c1e0m1s2-1 all
+  Behaviour Driven Development framework for Ruby - expectations
+
+ruby-rspec-instafail/focal 1.0.0-5 all
+  Show failing specs instantly
+
+ruby-rspec-its/focal 1.3.0-1 all
+  attribute matching extension for the RSpec BDD framework
+
+ruby-rspec-logsplit/focal 0.1.3-1build1 all
+  library to provide a logger for each example
+
+ruby-rspec-mocks/focal 3.9.0c1e0m1s2-1 all
+  Behaviour Driven Development framework for Ruby - mocks
+
+ruby-rspec-pending-for/focal 0.1.3-2 all
+  RSpec plugin to skip specs for given Ruby versions
+
+ruby-rspec-profiling/focal 0.0.5-2 all
+  Profile RSpec test suites
+
+ruby-rspec-puppet/focal 2.7.8-3 all
+  RSpec tests for your Puppet manifests
+
+ruby-rspec-rails/focal 4.0.0~beta4-1 all
+  RSpec for Rails 3+
+
+ruby-rspec-retry/focal 0.6.2-1 all
+  add support for retrying failing examples in RSpec
+
+ruby-rspec-set/focal 0.1.3-2 all
+  #set(), speed-up your specs
+
+ruby-rspec-support/focal 3.9.0c1e0m1s2-1 all
+  Behaviour Driven Development framework for Ruby - support
+
+ruby-rspec-temp-dir/focal 1.1.0-1 all
+  creates temporary directory for each example automatically
+
+ruby-rsvg2/focal 3.4.1-2build1 all
+  RSVG renderer bindings for the Ruby language
+
+ruby-rsync/focal 1.0.9-1 all
+  ruby wrapper and bindings for the rsync binary
+
+ruby-rt/focal 1.0.3.0-6 all
+  RTTool library for Ruby
+
+ruby-rubocop-performance/focal 1.5.2-2 all
+  Automatic performance checking tool for Ruby code
+
+ruby-rubocop-rspec/focal 1.22.2-1 all
+  Code style checking for RSpec files
+
+ruby-ruby-engine/focal 1.0.1-2 all
+  Provides the RubyEngine constant
+
+ruby-ruby-parser/focal 3.11.0-2 all
+  Ruby parser written in pure Ruby
+
+ruby-ruby-version/focal 1.0.1-2 all
+  Provide the RubyVersion pseudo-constant
+
+ruby-ruby2-keywords/focal 0.0.2-1 all
+  source-level compatibility library between ruby2.7 and ruby3
+
+ruby-ruby2ruby/focal 2.4.1-1 all
+  Generate pure ruby code easily from ParseTree's Sexps
+
+ruby-rubydns/focal 1.0.3-3 all
+  Easy to use DNS server and resolver for Ruby
+
+ruby-rubymail/focal 1.1.3-2 all
+  MIME mail parsing and generation library
+
+ruby-rubymail-doc/focal 1.1.3-2 all
+  MIME mail parsing and generation library (documentation)
+
+ruby-rubypants/focal 0.6.0-1 all
+  Ruby port of SmartyPants smart-quotes library
+
+ruby-rubytorrent/focal 0.3-5 all
+  BitTorrent library in Ruby
+
+ruby-rubyvis/focal 0.6.1+dfsg1-2 all
+  Ruby visualization toolkit
+
+ruby-rufus-scheduler/focal 3.4.2-1 all
+  job scheduler for Ruby
+
+ruby-rugged/focal 0.28.4.1+ds-1build1 amd64
+  Ruby binding to the libgit2 library
+
+ruby-rugments/focal 1.0.0~beta8-1 all
+  pure-ruby syntax highlighter replacement for pygments
+
+ruby-rushover/focal 0.3.0-2 all
+  Simple ruby Pushover client
+
+ruby-safe-yaml/focal 1.0.5-1 all
+  safer YAML loader for Ruby
+
+ruby-safely-block/focal 0.2.1-2 all
+  Rescue and report exceptions in non-critical code
+
+ruby-saml/focal 1.11.0-1 all
+  SAML toolkit for Ruby on Rails
+
+ruby-samuel/focal 0.3.3-1build1 all
+  automatic logger for HTTP requests in Ruby
+
+ruby-sanitize/focal-updates,focal-security 4.6.6-2.1~0.20.04.1 all
+  whitelist-based HTML sanitizer
+
+ruby-sasl/focal 0.0.3.3-2 all
+  SASL client library for Ruby
+
+ruby-sass/focal 3.7.4-1ubuntu1 all
+  deprecated CSS compiler - use sassc or ruby-sassc instead
+
+ruby-sass-rails/focal 5.0.6-2 all
+  Sass adapter for the Rails asset pipeline
+
+ruby-sassc/focal 2.2.1-1 all
+  Ruby module to use libsass
+
+ruby-sassc-rails/focal 2.1.2-4 all
+  Integrate SassC-Ruby into Rails
+
+ruby-sawyer/focal 0.8.2-1 all
+  HTTP/REST API client Ruby library
+
+ruby-schash/focal 0.1.2-1 all
+  Ruby Hash validator
+
+ruby-sdl/focal 2.2.0-1build3 amd64
+  Ruby/SDL interface for Ruby
+
+ruby-sdoc/focal 1.0.0-1fakesync1 all
+  RDoc generator to build searchable HTML documentation for Ruby code
+
+ruby-seamless-database-pool/focal 1.0.20-1 all
+  support for master/slave database clusters in ActiveRecord
+
+ruby-secure-headers/focal 6.1.1-1 all
+  Security related headers all in one gem
+
+ruby-securecompare/focal 1.0.0-1 all
+  string comparison method safe for use in cryptographic functions
+
+ruby-seed-fu/focal 2.3.7-3 all
+  easily manage seed data in an Active Record application
+
+ruby-select2-rails/focal 3.5.9.3-2 all
+  integrate Select2 javascript library with Rails asset pipeline
+
+ruby-selenium-webdriver/focal 3.142.7+dfsg-1 all
+  Browser automation framework and ecosystem
+
+ruby-selinux/focal 3.0-1build2 amd64
+  Ruby bindings to SELinux shared libraries
+
+ruby-semanage/focal 3.0-1build2 amd64
+  Ruby bindings to for SELinux policy management
+
+ruby-semantic-puppet/focal 1.0.2-1 all
+  Useful tools for working with semantic versions with Puppet
+
+ruby-semverse/focal 2.0.0-1 all
+  Ruby library for representing SemVer versions and constraints
+
+ruby-sentry-raven/focal 2.13.0-1 all
+  client interface for the Sentry error logger
+
+ruby-sequel/focal 5.29.0-1 all
+  Simple, flexible, and powerful SQL database access toolkit for Ruby
+
+ruby-sequel-pg/focal 1.12.2-1build1 amd64
+  Faster SELECTs when using Sequel with pg
+
+ruby-sequenced/focal 3.1.1-1 all
+  generate scoped sequential IDs for ActiveRecord models
+
+ruby-serialport/focal 1.3.1-1build6 amd64
+  Library for using RS-232 serial ports from Ruby programs
+
+ruby-serverengine/focal 2.2.0-1 all
+  multiprocess server framework
+
+ruby-serverspec/focal 2.41.5-1 all
+  RSpec tests for your servers configured by Puppet, Chef or anything else
+
+ruby-settingslogic/focal 2.0.9-3 all
+  simple settings solution for Ruby
+
+ruby-settingslogic-doc/focal 2.0.9-3 all
+  simple settings solution for Ruby (documentation)
+
+ruby-setup/focal 3.4.1-9 all
+  the setup.rb install tool for Ruby
+
+ruby-sexp-processor/focal 4.11.0-1 all
+  brings all the generic sexp processing tools to ruby
+
+ruby-shadow/focal 2.5.0-1build2 amd64
+  interface of shadow password for Ruby
+
+ruby-sham-rack/focal 1.4.1-2 all
+  Net::HTTP-to-Rack plumbing for HTTP testing
+
+ruby-shellany/focal 0.0.1-2 all
+  MRI+JRuby compatible command output capturing
+
+ruby-shindo/focal 0.3.8-2 all
+  simple depth first Ruby testing
+
+ruby-shoulda/focal 3.5.0-3build1 all
+  additional features for the Test::Unit testing framework
+
+ruby-shoulda-context/focal 1.2.0-1 all
+  context framework for Test::Unit
+
+ruby-shoulda-matchers/focal 2.8.0-1 all
+  Test helpers for Rails applications, compatible with Test::Unit and RSpec
+
+ruby-sidekiq/focal 5.2.7+dfsg-1 all
+  Simple, efficient background processing for Ruby
+
+ruby-sidekiq-cron/focal 1.1.0-3 all
+  scheduling add-on for Sidekiq
+
+ruby-sigar/focal 0.7.3-2build1 amd64
+  System Information Gatherer And Reporter
+
+ruby-sigdump/focal 0.2.4-4 all
+  SIGQUIT of Java VM for Ruby
+
+ruby-signet/focal 0.11.0-1 all
+  Signet is an OAuth 1.0 / OAuth 2.0 implementation
+
+ruby-simple-captcha2/focal 0.4.3-1 all
+  simplest and a robust captcha plugin for rails
+
+ruby-simple-oauth/focal 0.3.1-2 all
+  Simply builds and verifies OAuth headers
+
+ruby-simplecov/focal 0.18.1-1 all
+  code coverage for Ruby 1.9+
+
+ruby-simplecov-html/focal 0.11.0-1 all
+  default HTML formatter for SimpleCov code coverage tool
+
+ruby-sinatra/focal 2.0.8.1-1 all
+  Ruby web-development dressed in a DSL
+
+ruby-sinatra-contrib/focal 2.0.8.1-1 all
+  collection of useful extensions to the Sinatra web framework
+
+ruby-six/focal 0.2.0-3 all
+  very simple authorization library for Ruby
+
+ruby-sixarm-ruby-unaccent/focal 1.2.0-2 all
+  replaces a string's accented characters with unaccented characters
+
+ruby-slack-messenger/focal 2.3.3-2 all
+  Slim ruby wrapper for posting to slack webhooks
+
+ruby-slack-notifier/focal 1.5.1-2 all
+  Ruby wrapper for posting to slack webhooks
+
+ruby-slim/focal 4.0.1-2 all
+  powerful (X)HTML templating engine with an elegant syntax
+
+ruby-slop/focal 4.6.2-1 all
+  Simple DSL for gathering options and parsing the command lineOption
+
+ruby-slow-enumerator-tools/focal 1.1.0-1 all
+  transformation of Ruby enumerators to produce data slowly and unpredictably
+
+ruby-snmp/focal 1.3.1-1 all
+  simple network management protocol bindings for ruby
+
+ruby-snorlax/focal 0.1.8-1 all
+  Snorlax is a flexible controller for Rails APIs
+
+ruby-snowplow-tracker/focal 0.6.1-2 all
+  Ruby Analytics for Snowplow
+
+ruby-soap4r/focal 2.0.5-4 all
+  SOAP library for the Ruby programming language
+
+ruby-socksify/focal 1.7.1+gh-1 all
+  Redirect all TCPSockets through a SOCKS5 proxy
+
+ruby-solve/focal 4.0.0-1 all
+  Ruby version constraint solver implementing semantic versioning
+
+ruby-source-map/focal 3.0.1+git.20120229.bda06a3f-2 all
+  ruby support for source maps in javascripts
+
+ruby-specinfra/focal 2.82.8-1 all
+  Common layer for serverspec and configspec
+
+ruby-spider/focal 0.5.0-4 all
+  web spidering library for Ruby
+
+ruby-spoon/focal 0.0.6-4 all
+  FFI binding of the posix_spawn function for Ruby
+
+ruby-spreadsheet/focal 1.0.0-1 all
+  Ruby library for manipulating MS Excel (.xls) spreadsheets
+
+ruby-spring/focal 2.1.0-1 all
+  Rails application preloader
+
+ruby-spring-commands-rspec/focal 1.0.4-2 all
+  rspec command for spring
+
+ruby-spring-watcher-listen/focal 2.0.1-1 all
+  Makes spring watch files using the listen library
+
+ruby-sprite-factory/focal 1.7.1-3 all
+  automatic css sprite generator
+
+ruby-sprockets/focal 3.7.2-1 all
+  Rack-based asset packaging system
+
+ruby-sprockets-export/focal 1.0.0-1 all
+  Sprockets Export
+
+ruby-sprockets-rails/focal 3.2.1-1 all
+  Sprockets Rails integration (part of Rails)
+
+ruby-spy/focal 0.4.3-1 all
+  simple modern mocking library using the spy pattern
+
+ruby-sqlite3/focal 1.4.2-2build1 amd64
+  SQLite3 interface for Ruby
+
+ruby-sshkey/focal 2.0.0-2 all
+  SSH private/public key generator in Ruby
+
+ruby-sshkit/focal 1.20.0-2 all
+  toolkit for running commands in a structured way on one or more servers
+
+ruby-stackprof/focal 0.2.15-2 amd64
+  sampling callstack-profiler for ruby 2.2+
+
+ruby-stamp/focal 0.6.0-1 all
+  date and time formatting for humans
+
+ruby-standalone/focal 2.7~2 amd64
+  Ruby interpreter that won't integrate with Debian packages
+
+ruby-state-machines/focal 0.5.0-3 all
+  Adds support for creating state machines for attributes on any Ruby class
+
+ruby-state-machines-activemodel/focal 0.5.1-3 all
+  ActiveModel integration for State Machines
+
+ruby-state-machines-activerecord/focal 0.6.0-2 all
+  State machines Active Record Integration
+
+ruby-statistics/focal 2.1.1-2 all
+  ruby gem for statistics inspired by the jStat js library
+
+ruby-statsd/focal 1.4.0-1 all
+  StatsD client for Ruby
+
+ruby-stomp/focal 1.4.4-1 all
+  Ruby client for the stomp messaging protocol
+
+ruby-string-direction/focal 1.2.1-1 all
+  Automatic detection of text direction (ltr, rtl or bidi) for strings
+
+ruby-stringex/focal 2.8.4-2 all
+  Some useful extensions to Ruby's String class
+
+ruby-stringify-hash/focal 0.0.1-1 all
+  ruby hash object that treats symbols and strings interchangeably
+
+ruby-strptime/focal 0.2.3-5build1 amd64
+  fast strptime/strftime engine
+
+ruby-stud/focal 0.0.22-1 all
+  reusable common code to enhance Ruby's stdlib library
+
+ruby-subexec/focal 0.2.3+gh-2 all
+  mechanism for spawning a subprocess
+
+ruby-svg-graph/focal 1.0.5-5 all
+  Pure Ruby library for generating charts in SVG format
+
+ruby-svn/focal-updates,focal-security 1.13.0-3ubuntu0.2 amd64
+  Ruby bindings for Apache Subversion
+
+ruby-swd/focal 1.0.1-2 all
+  SWD (Simple Web Discovery) Client Library
+
+ruby-symboltable/focal 1.0.2-1 all
+  symbols-only hash for Ruby
+
+ruby-sync/focal 0.5.0-1 all
+  two-phase lock with a counter
+
+ruby-sys-filesystem/focal 1.1.7-2 all
+  ruby interface for getting file system information.
+
+ruby-syslog-logger/focal 1.6.8-1 all
+  improved Logger replacement that logs to syslog
+
+ruby-systemu/focal 2.6.5-1 all
+  universal child process handling Ruby library
+
+ruby-table-print/focal 1.5.6-1 all
+  Ruby library to turn objects into formatted columns
+
+ruby-task-list/focal 2.3.1-1 all
+  GitHub-flavored-Markdown TaskList components
+
+ruby-tdiff/focal 0.3.3-1 all
+  Calculates the differences between two tree-like structures
+
+ruby-temple/focal 0.8.2-1 all
+  template compilation framework in Ruby
+
+ruby-term-ansicolor/focal 1.3.0-1 all
+  Ruby library that colors strings using ANSI escape sequences
+
+ruby-terminal-table/focal 1.8.0-1 all
+  simple, feature rich ASCII table generation library
+
+ruby-termios/focal 1.0.0-2build3 amd64
+  termios simple wrapper for Ruby
+
+ruby-terrapin/focal 0.6.0-2 all
+  Run shell commands safely, even with user-supplied values
+
+ruby-test-construct/focal 2.0.1-1 all
+  Ruby library that creates temporary files and directories for testing
+
+ruby-test-declarative/focal 0.0.6-2 all
+  adds a declarative test method syntax to test/unit
+
+ruby-test-prof/focal 0.10.2+dfsg-2 all
+  Ruby applications tests profiling tools
+
+ruby-test-spec/focal 0.10.0-3build1 all
+  Ruby library providing behaviour driven development interface for Test::Unit
+
+ruby-test-unit/focal 3.3.5-1 all
+  unit testing framework for Ruby
+
+ruby-test-unit-context/focal 0.5.0-2 all
+  context for the Test::Unit Ruby testing framework
+
+ruby-test-unit-notify/focal 1.0.4-2 all
+  test result notify extension for Ruby Test::Unit
+
+ruby-test-unit-rr/focal 1.0.5-3 all
+  RR adapter for Ruby Test::Unit
+
+ruby-test-xml/focal 0.1.8-1 all
+  Test your XML with Test::Unit, MiniTest, RSpec, or Cucumber
+
+ruby-text/focal 1.3.0-1 all
+  Collection of text algorithms for Ruby
+
+ruby-text-format/focal 1.0.0-4build1 all
+  Ruby library for text formatting
+
+ruby-text-table/focal 1.2.4-3 all
+  feature-rich, easy-to-use plain text table formatter in Ruby
+
+ruby-thinking-sphinx/focal 4.1.0-2 all
+  smart wrapper over sphinx for activerecord
+
+ruby-thor/focal 0.19.4-1 all
+  Ruby scripting framework
+
+ruby-threach/focal 0.2.0-2 all
+  Threaded each
+
+ruby-thread-order/focal 1.1.0-1 all
+  test helper for ordering threaded code
+
+ruby-thread-safe/focal 0.3.6-1 all
+  thread-safe collections and utilities for Ruby
+
+ruby-thrift/focal 0.11.0.0-2build1 amd64
+  Ruby bindings for Apache Thrift
+
+ruby-thwait/focal 0.1.0-1 all
+  watches for termination of multiple threads
+
+ruby-tilt/focal 2.0.10-1 all
+  Generic interface to multiple Ruby template engines
+
+ruby-timecop/focal 0.9.1-1 all
+  Ruby library to easily test time-dependent code
+
+ruby-timers/focal 4.1.1-2 all
+  pure Ruby timer collections
+
+ruby-timfel-krb5-auth/focal 0.8.3-2build6 amd64
+  Kerberos binding for Ruby
+
+ruby-tins/focal 1.1.0-2 all
+  useful tools library in Ruby
+
+ruby-tioga/focal 1.19.1-2build3 amd64
+  Ruby library for scientific graphs
+
+ruby-tioga-doc/focal 1.19.1-2build3 all
+  Ruby library for scientific graphs
+
+ruby-to-regexp/focal 0.2.1-2 all
+  safe way to convert strings to regexps (with options)
+
+ruby-tokyocabinet/focal 1.31-5build3 amd64
+  Tokyo Cabinet データベースの Ruby バインディング
+
+ruby-toml/focal 0.2.0-3 all
+  TOML Parser library for Ruby
+
+ruby-toml-rb/focal 1.0.0-2 all
+  Toml parser in ruby, for ruby
+
+ruby-tomlrb/focal 1.2.9-1 all
+  Racc based TOML parser library for Ruby
+
+ruby-tool/focal 0.2.3-1 all
+  general purpose Ruby library used by Sinatra 2.0 and Mustermann
+
+ruby-torquebox-no-op/focal 3.1.2-1 all
+  emulate TorqueBox APIs outside of TorqueBox
+
+ruby-train-core/focal 3.2.20-2 all
+  transport interface to talk to a selected set of backends (core)
+
+ruby-treetop/focal 1.6.8-1 all
+  Ruby-based text parsing and interpretation DSL
+
+ruby-trollop/focal 2.0-2 all
+  command-line argument processing library
+
+ruby-truncato/focal 0.7.11-1 all
+  tool for truncating HTML strings efficiently
+
+ruby-ttfunk/focal 1.5.1-1 all
+  Ruby library to parse TrueType font metrics
+
+ruby-tty-color/focal 0.5.1-2 all
+  terminal color capabilities detection
+
+ruby-tty-command/focal 0.9.0-1 all
+  execution from Ruby of shell commands with pretty output logging
+
+ruby-tty-cursor/focal 0.7.1-2 all
+  Library to help move the terminal cursor around and manipulate text
+
+ruby-tty-platform/focal 0.3.0-2 all
+  query methods to detect operating systems and their properties
+
+ruby-tty-prompt/focal 0.21.0-1 all
+  Library that provides an interactive command line prompt
+
+ruby-tty-reader/focal 0.7.0-2 all
+  Library for processing keyboard input in character, line and multiline modes
+
+ruby-tty-screen/focal 0.7.1-2 all
+  Library providing cross-platform terminal screen size detection
+
+ruby-tty-spinner/focal 0.9.3-2 all
+  Library for showing a spinner icon for terminal tasks
+
+ruby-tty-which/focal 0.4.2-1 all
+  platform-independent implementation of Unix which command
+
+ruby-turbolinks/focal 5.1.1-2 all
+  following links in your Rails web application faster
+
+ruby-turbolinks-source/focal 5.1.0+dfsg-2 all
+  Provides Turbolinks as a ruby gem
+
+ruby-twitter/focal 6.2.0-2 all
+  Ruby interface to the Twitter API
+
+ruby-twitter-oauth/focal 0.4.94-4 all
+  Twitter OAuth REST API client library for Ruby
+
+ruby-twitter-stream/focal 0.1.16-3 all
+  Twitter realtime API client for Ruby
+
+ruby-twitter-text/focal 1.14.7+conformance-2 all
+  library that does auto linking and extraction items in tweets
+
+ruby-typed-array/focal 0.1.2-7 all
+  Ruby library providing enforced-type functionality to Arrays
+
+ruby-typhoeus/focal 1.4.0~git.20191003.0c66e4e-1 all
+  parallel HTTP library on top of ethon
+
+ruby-tzinfo/focal 1.2.6-1 all
+  Daylight-savings aware timezone library
+
+ruby-u2f/focal 0.2.1-2 all
+  U2F server side library
+
+ruby-uber/focal 0.1.0-1 all
+  gem-authoring framework
+
+ruby-uconv/focal 0.6.1-3build3 amd64
+  Unicode/EUC-JP translation module for Ruby
+
+ruby-uglifier/focal 2.7.2+dfsg-2 all
+  Ruby wrapper for UglifyJS JavaScript compressor
+
+ruby-unf/focal 0.1.4-2 all
+  Wrapper library to bring Unicode Normalization Form support to Ruby
+
+ruby-unf-ext/focal 0.0.7.6-1build1 amd64
+  Unicode Normalization Form support library for CRuby
+
+ruby-unicode/focal 0.4.4-2build9 amd64
+  Unicode string manipulation library for Ruby
+
+ruby-unicode-display-width/focal 1.1.3-1 all
+  Determines the monospace display width of a string in Ruby
+
+ruby-unicode-plot/focal 0.0.4-1 all
+  Plot your data by Unicode characters
+
+ruby-unicode-utils/focal 1.4.0-2 all
+  additional Unicode aware functions for Ruby
+
+ruby-unicorn-worker-killer/focal 0.4.4-1 all
+  library to kill unicorn workers by memory and request counts
+
+ruby-unidecode/focal 1.0.0-2 all
+  Transliteratively convert UTF-8 text to US-ASCII
+
+ruby-unindent/focal 1.0-3 all
+  Ruby method to unindent strings
+
+ruby-unleash/focal 0.1.6-2 all
+  Unleash feature toggle client
+
+ruby-upr/focal 0.3.0-2ubuntu1 all
+  Upload Progress for Rack
+
+ruby-url-safe-base64/focal 0.2.2-1 all
+  converteri for strings that contains only url-safe characters
+
+ruby-user-agent-parser/focal 2.5.1-2 all
+  Simple and comprehensive Ruby gem for parsing user agent strings
+
+ruby-useragent/focal 0.16.8-1 all
+  HTTP User Agent parser
+
+ruby-uuid/focal 2.3.9-1 all
+  UUID generator for Ruby
+
+ruby-uuidtools/focal 2.1.5-2 all
+  UUIDs generation library for Ruby
+
+ruby-uuidtools-doc/focal 2.1.5-2 all
+  UUIDs generation library for Ruby - documentation
+
+ruby-vagrant-cloud/focal 2.0.3-1 all
+  Vagrant Cloud API Library
+
+ruby-valid/focal 1.0.0-2 all
+  standalone, generic object validator for ruby
+
+ruby-validatable/focal 1.6.7-10 all
+  Ruby library for adding validations
+
+ruby-validate-email/focal 0.1.6-2 all
+  Library for validating email addresses in Rails 3 models
+
+ruby-validate-url/focal 1.0.2+git-2 all
+  Library for validating urls in Rails
+
+ruby-validates-hostname/focal 1.0.7-2 all
+  checks for valid hostnames
+
+ruby-varia-model/focal 0.6.0-1 all
+  Ruby library that provide objects with magic attribute features
+
+ruby-vcr/focal 4.0.0-2 all
+  Record and replay HTTP interactions (Ruby library)
+
+ruby-version-sorter/focal 2.2.4-1build1 amd64
+  Fast sorting of version strings
+
+ruby-versionist/focal 1.7.0-1 all
+  version for Rails based RESTful APIs
+
+ruby-versionomy/focal 0.5.0-2 all
+  Generalized version number class for Ruby
+
+ruby-vips/focal 2.0.17-1 all
+  Ruby extension for the vips image processing library
+
+ruby-virtus/focal 1.0.5-3 all
+  attributes on steroids for plain old Ruby objects
+
+ruby-vmstat/focal 2.3.0-2build1 amd64
+  library to gather system information
+
+ruby-voight-kampff/focal 1.1.3-3 all
+  detects bots, spiders, crawlers and replicants
+
+ruby-warden/focal 1.2.3-2 all
+  Rack middleware that provides authentication for rack applications
+
+ruby-wavefile/focal 0.6.0-2 all
+  Pure Ruby library for reading and writing Wave sound files (*.wav)
+
+ruby-web-console/focal 3.6.2-2 all
+  Ruby on Rails debugger
+
+ruby-webfinger/focal 1.0.2-2 all
+  Ruby WebFinger client library
+
+ruby-webkit2-gtk/focal 3.4.1-2build1 all
+  WebKitGTK+ bindings for the Ruby language
+
+ruby-webmock/focal 3.7.3-1 all
+  library for stubbing HTTP requests in Ruby
+
+ruby-webpack-rails/focal 0.9.11+git-1 all
+  Webpack & Rails integration made easier
+
+ruby-webrobots/focal 0.1.2-1 all
+  Library for creating robots.txt-aware web robots
+
+ruby-websocket/focal 1.2.8-2 all
+  Universal Ruby library to handle WebSocket protocol
+
+ruby-websocket-driver/focal 0.6.3-2build4 amd64
+  WebSocket protocol handler with pluggable I/O
+
+ruby-websocket-extensions/focal-updates,focal-security 0.1.2-1+deb9u1build0.20.04.1 all
+  Generic extension manager for WebSocket connections
+
+ruby-whenever/focal 0.9.4-1build1 all
+  Ruby library to abstract writing and deploying cron jobs
+
+ruby-whitequark-parser/focal 2.7.0.2-1 all
+  Ruby parser written in pure Ruby
+
+ruby-whitewash/focal 2.1-1 all
+  Whitelist-based HTML filter for Ruby
+
+ruby-wikicloth/focal 0.8.1+dfsg-4 all
+  MediaWiki markup language parser for Ruby
+
+ruby-will-paginate/focal 3.1.6-1 all
+  Pagination for Rails
+
+ruby-wirble/focal 0.1.3-5 all
+  Extensions for the Ruby irb command line shell
+
+ruby-wisper/focal 2.0.1-2 all
+  micro library providing objects with Publish-Subscribe capabilities
+
+ruby-xapian/focal 1.4.14-1ubuntu2 amd64
+  Xapian search engine interface for Ruby
+
+ruby-xdg/focal 2.2.3-1 all
+  Ruby interface for using XDG directory standard
+
+ruby-xml-simple/focal 1.1.5-1 all
+  Simple Ruby API for reading and writing XML
+
+ruby-xmlhash/focal 1.3.6-2build5 amd64
+  parse a XML string into a ruby hash
+
+ruby-xmlhash-dbg/focal 1.3.6-2build5 amd64
+  parse a XML string into a ruby hash (debug symbols)
+
+ruby-xmlparser/focal 0.7.3-3build3 amd64
+  expat XML パーサツールキットの Ruby インターフェース
+
+ruby-xmlrpc/focal 0.3.0-2 all
+  XMLRPC library for Ruby
+
+ruby-xmmsclient/focal 0.8+dfsg-18.2ubuntu3 amd64
+  XMMS2 - Ruby bindings
+
+ruby-xpath/focal 3.2.0-1 all
+  Ruby library to generate XPath expressions
+
+ruby-ya2yaml/focal 0.31-1 all
+  UTF8 safe YAML dumper
+
+ruby-yajl/focal 1.3.1-1build2 amd64
+  Ruby interface to Yajl, a JSON stream-based parser library
+
+ruby-yaml-db/focal 0.7.0-1 all
+  library to export/import of database into/from yaml files
+
+ruby-yell/focal 2.2.2-1 all
+  Your Extensible Logging Library for Ruby
+
+ruby-zeitwerk/focal 2.2.2-1 all
+  Efficient and thread-safe constant autoloader
+
+ruby-zentest/focal 4.11.0-2 all
+  ZenTest provides 4 different tools: zentest, unit_diff, autotest, and multiruby
+
+ruby-zip/focal 2.0.0-2 all
+  Ruby module for reading and writing zip files
+
+ruby-zip-zip/focal 0.3+gh-1 all
+  ease the migration to RubyZip v1.0.0
+
+ruby-zoom/focal 0.5.0-2 amd64
+  Ruby/ZOOM provides a Ruby binding to the Z40.50 Object-Orientation Model
+
+ruby2.7/focal-updates,focal-security 2.7.0-5ubuntu1.7 amd64
+  Interpreter of object-oriented scripting language Ruby
+
+ruby2.7-dev/focal-updates,focal-security 2.7.0-5ubuntu1.7 amd64
+  Header files for compiling extension modules for the Ruby 2.7
+
+ruby2.7-doc/focal-updates,focal-security 2.7.0-5ubuntu1.7 all
+  Documentation for Ruby 2.7
+
+rubygems-integration/focal 1.16 all
+  integration of Debian Ruby packages with Rubygems
+
+sass-spec/focal 3.6.3-1.1 all
+  testsuite for Sass - compliance testing tool
+
+sass-spec-data/focal 3.6.3-1.1 all
+  testsuite for Sass - data files
+
+sbox-dtc/focal 1.11.7-1build1 amd64
+  CGI chroot wrapper script for safer hosting environment
+
+skktools/focal 1.3.4-1 amd64
+  SKK 辞書維持用ツール
+
+sloccount/focal 2.26-5.2 amd64
+  programs for counting physical source lines of code (SLOC)
+
+sqlcipher/focal 3.4.1-1build2 amd64
+  Command line interface for SQLCipher
+
+stompserver/focal 0.9.9gem-4 all
+  stomp messaging server implemented in Ruby
+
+svn2git/focal 2.4.0-3 all
+  Ruby tool for migrating svn projects to git
+
+swig/focal 4.0.1-5build1 all
+  スクリプト言語向けに C/C++ のコードのインターフェースを生成
+
+swig3.0/focal 3.0.12-2.2ubuntu1 amd64
+  スクリプト言語向けに C/C++ のコードのインターフェースを生成
+
+swig4.0/focal 4.0.1-5build1 amd64
+  スクリプト言語向けに C/C++ のコードのインターフェースを生成
+
+syncache/focal 1.4-1 all
+  Thread-safe time-limited cache for Ruby
+
+td2planet/focal 0.3.0-3 all
+  Ruby ベースのサーバサイドのブログアグリゲータ
+
+tdiary-core/focal 5.1.1-2 all
+  コミュニケーション機能を重視したウェブログシステム
+
+tdiary-style-gfm/focal 0.5.1-1 all
+  GFM Style for tDiary
+
+tdiary-style-rd/focal 0.0.3-3 all
+  tDiary 用 RD スタイル
+
+tdiary-theme/focal 5.1.0-1 all
+  tDiary のデザインを変更するテーマ
+
+texify/focal 1.20-4 all
+  LaTeX と組み合わせてソースコードを美しく整形
+
+texlive-lang-japanese/focal 2019.20200218-1 all
+  TeX Live: Japanese
+
+thin/focal 1.7.2-1build1 amd64
+  高速でとてもシンプルな Ruby 製 Web サーバ
+
+treetop/focal 1.6.8-1 all
+  Ruby-based text parsing and interpretation (command-line utility)
+
+unhide.rb/focal 22-4 all
+  Forensics tool to find processes hidden by rootkits
+
+uwsgi-app-integration-plugins/focal 2.0.18-11ubuntu1 amd64
+  plugins for integration of uWSGI and application
+
+uwsgi-plugin-fiber/focal 2.0.18-11ubuntu1 amd64
+  Fiber plugin for uWSGI
+
+uwsgi-plugin-rack-ruby2.7/focal 2.0.18-11ubuntu1 amd64
+  Rack plugin for uWSGI (ruby2.7)
+
+uwsgi-plugin-rbthreads/focal 2.0.18-11ubuntu1 amd64
+  Ruby native threads plugin for uWSGI (ruby2.7)
+
+uwsgi-plugins-all/focal 2.0.18-11ubuntu1 amd64
+  all available plugins for uWSGI
+
+vim-athena/focal-updates,focal-security 2:8.1.2269-1ubuntu5.9 amd64
+  Vi IMproved - 強化版 vi エディタ - Athena GUI 付き
+
+vim-migemo/focal 1:1.2+gh0.20150404-7 all
+  VIM plugin for C/Migemo
+
+vim-nox/focal-updates,focal-security 2:8.1.2269-1ubuntu5.9 amd64
+  Vi IMproved - enhanced vi editor - with scripting languages support
+
+vim-syntastic/focal 3.10.0-2 all
+  Syntax checking hacks for vim
+
+vim-youcompleteme/focal 0+20191218+git9e2ab00+ds-1 all
+  fast, as-you-type, fuzzy-search code completion engine for Vim
+
+w3-recs/focal 20110107-1 all
+  Recommendations of the World Wide Web Consortium (W3C)
+
+websocketd/focal 0.3.1-3 amd64
+  Turn any program that uses STDIN/STDOUT into a WebSocket server
+
+weechat/focal 2.8-1 all
+  Fast, light and extensible chat client (metapackage)
+
+weechat-curses/focal 2.8-1 amd64
+  Fast, light and extensible chat client - console client
+
+weechat-headless/focal 2.8-1 amd64
+  Fast, light and extensible chat client - headless client
+
+weechat-ruby/focal 2.8-1 amd64
+  Fast, light and extensible chat client - Ruby plugin
+
+xmlformat-ruby/focal 1.04-2 all
+  XML Document Formatter
+
+yapra/focal 0.1.2-7.1 all
+  Yet Another Pragger implementation
+
+yard/focal 0.9.24-1 all
+  Ruby documentation tool
+
+yard-doc/focal 0.9.24-1 all
+  Ruby documentation tool - documentation
+

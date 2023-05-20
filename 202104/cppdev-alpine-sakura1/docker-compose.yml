@@ -1,0 +1,14 @@
+version: "3.3"
+services:
+  cppdev-alpine-sakura2:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: cppdev-alpine-sakura-i2
+    init: true
+    container_name: sakura-cpp1
+    hostname: sakura-cpp1
+    stdin_open: true
+    tty: true
+    # user: yamanaka試しにテスト 2021/04/03 →中止
+

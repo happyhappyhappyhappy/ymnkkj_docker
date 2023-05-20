@@ -1,0 +1,25 @@
+version: "3.8"
+services:
+# サービス名はdevcontainer.jsonのファイル内と一致させる
+  saya_mongo:
+    build:
+      context: .
+      dockerfile: ./.devcontainer/Dockerfile
+    image: mongo-saya-i1
+    init: true
+    container_name: mongo-saya-c1
+    hostname: saya
+    stdin_open: true
+    tty: true
+    volumes:
+      - /home/yamanaka/unit_labo/mongolabo:/wrk:cached
+        # 後で専用にできるかテスト。当面はデフォルトの設定にする    
+      - /home/yamanaka/unit_labo/mongolabo/db:/sayadb:cached
+    # systemdを使える様にする
+    cap_add:
+      - SYS_ADMIN
+    security_opt:
+      - seccomp:unconfined
+    restart: unless-stopped
+    # user: yamanaka試しにテスト 2021/04/03 →中止
+

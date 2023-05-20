@@ -1,0 +1,40 @@
+version: '3.8'
+
+services:
+  # 参考:dockerhub(https://hub.docker.com/_/mongo)
+  mongo:
+    image: mongo:4.4.5
+    restart: always
+    ports:
+      - 27017:33022
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: example
+    # データを永続化する場合必要。volumesがないとdocker-compose downする度にデータが消える
+    volumes:
+      - /home/yamanaka/unit_labo/nuxtmongo/db:/data/db
+      - /home/yamanaka/unit_labo/nuxtmongo/configdb:/data/configdb
+
+  mongo-express:
+    image: mongo-express:0.54
+    restart: always
+    ports:
+      - 8081:33023
+    environment:
+      ME_CONFIG_MONGODB_ADMINUSERNAME: root
+      ME_CONFIG_MONGODB_ADMINPASSWORD: example
+      ME_CONFIG_MONGODB_URL: mongodb://root:example@mongo:33023/
+
+  sanma:
+    build: ./docker/
+    ports:
+      - 9000:33021
+    volumes:
+      - /home/yamanaka/unit_labo/nuxtmongo:/wrk
+    working_dir: /wrk
+    command: npm run dev
+    # ホットリロードを有効にする
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+    links:
+      - mongo

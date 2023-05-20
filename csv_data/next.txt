@@ -1,0 +1,20 @@
+2022/05/02
+5. Yes!プリキュア5GoGo!
+https://www.animatetimes.com/news/details.php?id=1517539127
+2022/05/01
+10. ドキドキ!プリキュア
+7.と同じ
+一日ワンシリーズ追加 -> json作成→ 9の一覧を処理するsed開発をやろうと思う。
+2022/04/30
+7. ハートキャッチプリキュア!
+https://www.animatetimes.com/news/details.php?id=1517539127&p=2
+2022/04/27
+12. Go!プリンセスプリキュア
+https://www.animatetimes.com/news/details.php?id=1517539127&p=3
+
+https://www.animatetimes.com/news/details.php?id=1517539127&p=3
+ハピネスチャージプリキュア！ タイトルのみ
+https://www.animatetimes.com/news/details.php?id=1517539127&p=4
+トロピカル～ジュ！プリキュア 本名から
+2022/04/24
+
