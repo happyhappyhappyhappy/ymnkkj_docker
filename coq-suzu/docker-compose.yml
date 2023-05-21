@@ -1,0 +1,16 @@
+version: "3.3"
+services:
+# サービス名はdevcontainer.jsonのファイル内と一致させる
+  coq-suzu:
+    build:
+      context: .
+      dockerfile: ./.devcontainer/Dockerfile
+    # 名称はダブルクォーテーションで囲むといいかも
+    image: "coq-suzu-i"
+    init: true
+    container_name: "coq-suzu-c"
+    hostname: cppkaede
+    stdin_open: true
+    tty: true
+    # user: yamanaka試しにテスト 2021/04/03 →中止
+

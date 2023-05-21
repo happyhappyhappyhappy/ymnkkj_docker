@@ -1,0 +1,15 @@
+version: "3.3"
+services:
+  cppdev-alpine:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: cppdev-alpine
+    container_name: cppdev-alpine
+    volumes:
+      - type: bind
+        source: .
+        target: /cppdev
+    stdin_open: true
+    tty: true
+    working_dir: /cppdev/src/build

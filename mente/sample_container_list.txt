@@ -1,0 +1,7 @@
+CONTAINER ID   IMAGE                                                  COMMAND                  CREATED       STATUS                    PORTS     NAMES
+1da48ee3586c   vsc-compcpp-c49f6f69d5a5b3a7616f37f45ba21e06-uid       "/bin/sh -c 'echo Co…"   7 days ago    Exited (0) 7 days ago               determined_benz
+db2db07aa0ee   vsc-sample3-31fe545356e9340621f6f03382ce2539-uid       "bash"                   7 days ago    Exited (0) 7 days ago               sample-c3
+bf9de6d5aaf2   vsc-sample2-bd606aa772a3b9d38d99751f296760d2-uid       "/bin/sh -c 'while s…"   7 days ago    Exited (143) 7 days ago             sample-c2
+8a9030ae2e72   vsc-sample-a678ceeea91a61770a848e9fb40f63c9-uid        "/bin/sh -c 'while s…"   9 days ago    Exited (143) 9 days ago             sample-c0
+05c9ee13c1cd   vsc-sample-a678ceeea91a61770a848e9fb40f63c9-uid        "/bin/sh -c 'echo Co…"   9 days ago    Exited (0) 9 days ago               vsc-dev-container
+cbac93c08b80   vsc-docker_cpp1-665929ab79496999f87b2032aba543dd-uid   "/bin/sh -c 'echo Co…"   6 weeks ago   Up About an hour                    beautiful_tesla

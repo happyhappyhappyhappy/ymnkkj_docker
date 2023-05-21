@@ -1,0 +1,17 @@
+version: "3.8"
+services:
+# サービス名はdevcontainer.jsonのファイル内と一致させる
+  cpp-kaede3:
+    build:
+      context: .
+      dockerfile: ./.devcontainer/Dockerfile
+    image: cpp-kaede-i3
+    init: true
+    container_name: cpp-kaede-c3
+    hostname: cppkaede3
+    stdin_open: true
+    tty: true
+    volumes:
+      - /home/yamanaka/unit_labo/cpplabo:/code:cached
+    # user: yamanaka試しにテスト 2021/04/03 →中止
+

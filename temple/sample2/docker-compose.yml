@@ -1,0 +1,15 @@
+version: "3.3"
+services:
+# サービス名はdevcontainer.jsonのファイル内と一致させる
+  sample-2:
+    build:
+      context: .
+      dockerfile: ./.devcontainer/Dockerfile
+    image: sample-i2
+    init: true
+    container_name: sample-c2
+    hostname: hst_sample2
+    stdin_open: true
+    tty: true
+    # user: yamanaka試しにテスト 2021/04/03 →中止
+

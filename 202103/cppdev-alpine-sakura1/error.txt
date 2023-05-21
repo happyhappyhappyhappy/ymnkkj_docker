@@ -1,0 +1,139 @@
+amanaka@sakura:~/myprojects/dockers/202103/cppdev-alpine-sakura1$ docker-compose up -d
+Creating network "cppdev-alpine-sakura1_default" with the default driver
+Building cppdev-alpine-sakura1
+
+Traceback (most recent call last):
+  File "compose/cli/main.py", line 67, in main
+  File "compose/cli/main.py", line 126, in perform_command
+  File "compose/cli/main.py", line 1070, in up
+  File "compose/cli/main.py", line 1066, in up
+  File "compose/project.py", line 615, in up
+  File "compose/service.py", line 362, in ensure_image_exists
+  File "compose/service.py", line 1147, in build
+compose.service.BuildError: (<Service: cppdev-alpine-sakura1>, {'message': 'Cannot locate specified Dockerfile: dockerfile'})
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "bin/docker-compose", line 3, in <module>
+  File "compose/cli/main.py", line 78, in main
+TypeError: can only concatenate str (not "dict") to str
+[748] Failed to execute script docker-compose
+yamanaka@sakura:~/myprojects/dockers/202103/cppdev-alpine-sakura1$ docker-compose up -d
+Building cppdev-alpine-sakura1
+Step 1/4 : FROM alpine:3.12.4
+3.12.4: Pulling from library/alpine
+f84cab65f19f: Pull complete
+Digest: sha256:a295107679b0d92cb70145fc18fb53c76e79fceed7e1cf10ed763c7c102c5ebe
+Status: Downloaded newer image for alpine:3.12.4
+ ---> 88dd2752d2ea
+Step 2/4 : RUN apk update &&     apk add --no-cache bind-tools &&     apk add --no-cache alpine-sdk cmake clang &&     apk add --no-cache libressl-dev vim bash
+ ---> Running in aca8d0779e86
+fetch http://dl-cdn.alpinelinux.org/alpine/v3.12/main/x86_64/APKINDEX.tar.gz
+fetch http://dl-cdn.alpinelinux.org/alpine/v3.12/community/x86_64/APKINDEX.tar.gz
+v3.12.4-8-g97a2ead7a3 [http://dl-cdn.alpinelinux.org/alpine/v3.12/main]
+v3.12.4-11-g32c4f23765 [http://dl-cdn.alpinelinux.org/alpine/v3.12/community]
+OK: 12748 distinct packages available
+fetch http://dl-cdn.alpinelinux.org/alpine/v3.12/main/x86_64/APKINDEX.tar.gz
+fetch http://dl-cdn.alpinelinux.org/alpine/v3.12/community/x86_64/APKINDEX.tar.gz
+(1/17) Installing fstrm (0.6.0-r1)
+(2/17) Installing libgcc (9.3.0-r2)
+(3/17) Installing krb5-conf (1.0-r2)
+(4/17) Installing libcom_err (1.45.6-r0)
+(5/17) Installing keyutils-libs (1.6.1-r1)
+(6/17) Installing libverto (0.3.1-r1)
+(7/17) Installing krb5-libs (1.18.3-r0)
+(8/17) Installing json-c (0.14-r1)
+(9/17) Installing libstdc++ (9.3.0-r2)
+(10/17) Installing libprotobuf (3.12.2-r0)
+(11/17) Installing libprotoc (3.12.2-r0)
+(12/17) Installing protobuf-c (1.3.3-r1)
+(13/17) Installing libuv (1.38.1-r0)
+(14/17) Installing xz-libs (5.2.5-r0)
+(15/17) Installing libxml2 (2.9.10-r5)
+(16/17) Installing bind-libs (9.16.6-r0)
+(17/17) Installing bind-tools (9.16.6-r0)
+Executing busybox-1.31.1-r19.trigger
+OK: 19 MiB in 31 packages
+fetch http://dl-cdn.alpinelinux.org/alpine/v3.12/main/x86_64/APKINDEX.tar.gz
+fetch http://dl-cdn.alpinelinux.org/alpine/v3.12/community/x86_64/APKINDEX.tar.gz
+(1/47) Installing fakeroot (1.24-r0)
+(2/47) Installing openssl (1.1.1j-r0)
+(3/47) Installing libattr (2.4.48-r0)
+(4/47) Installing attr (2.4.48-r0)
+(5/47) Installing libacl (2.2.53-r0)
+(6/47) Installing tar (1.32-r1)
+(7/47) Installing pkgconf (1.7.2-r0)
+(8/47) Installing patch (2.7.6-r6)
+(9/47) Installing lzip (1.21-r0)
+(10/47) Installing ca-certificates (20191127-r4)
+(11/47) Installing nghttp2-libs (1.41.0-r0)
+(12/47) Installing libcurl (7.69.1-r3)
+(13/47) Installing curl (7.69.1-r3)
+(14/47) Installing abuild (3.6.0-r1)
+Executing abuild-3.6.0-r1.pre-install
+(15/47) Installing binutils (2.34-r1)
+(16/47) Installing libmagic (5.38-r0)
+(17/47) Installing file (5.38-r0)
+(18/47) Installing gmp (6.2.0-r0)
+(19/47) Installing isl (0.18-r0)
+(20/47) Installing libgomp (9.3.0-r2)
+(21/47) Installing libatomic (9.3.0-r2)
+(22/47) Installing libgphobos (9.3.0-r2)
+(23/47) Installing mpfr4 (4.0.2-r4)
+(24/47) Installing mpc1 (1.1.0-r1)
+(25/47) Installing gcc (9.3.0-r2)
+(26/47) Installing musl-dev (1.1.24-r10)
+(27/47) Installing libc-dev (0.7.2-r3)
+(28/47) Installing g++ (9.3.0-r2)
+(29/47) Installing make (4.3-r0)
+(30/47) Installing fortify-headers (1.1-r0)
+(31/47) Installing build-base (0.5-r2)
+(32/47) Installing expat (2.2.9-r1)
+(33/47) Installing pcre2 (10.35-r0)
+(34/47) Installing git (2.26.2-r0)
+(35/47) Installing alpine-sdk (1.0-r0)
+(36/47) Installing libffi (3.3-r2)
+(37/47) Installing llvm10-libs (10.0.0-r2)
+(38/47) Installing clang-libs (10.0.0-r2)
+(39/47) Installing clang (10.0.0-r2)
+(40/47) Installing libbz2 (1.0.8-r1)
+(41/47) Installing lz4-libs (1.9.2-r0)
+(42/47) Installing zstd-libs (1.4.5-r0)
+(43/47) Installing libarchive (3.4.3-r1)
+(44/47) Installing ncurses-terminfo-base (6.2_p20200523-r0)
+(45/47) Installing ncurses-libs (6.2_p20200523-r0)
+(46/47) Installing rhash-libs (1.3.9-r1)
+(47/47) Installing cmake (3.17.2-r0)
+Executing busybox-1.31.1-r19.trigger
+Executing ca-certificates-20191127-r4.trigger
+OK: 427 MiB in 78 packages
+fetch http://dl-cdn.alpinelinux.org/alpine/v3.12/main/x86_64/APKINDEX.tar.gz
+fetch http://dl-cdn.alpinelinux.org/alpine/v3.12/community/x86_64/APKINDEX.tar.gz
+(1/9) Installing readline (8.0.4-r0)
+(2/9) Installing bash (5.0.17-r0)
+Executing bash-5.0.17-r0.post-install
+(3/9) Installing libressl3.1-libcrypto (3.1.2-r0)
+(4/9) Installing libressl3.1-libssl (3.1.2-r0)
+(5/9) Installing libressl3.1-libtls (3.1.2-r0)
+(6/9) Installing libressl-dev (3.1.2-r0)
+(7/9) Installing xxd (8.2.0735-r0)
+(8/9) Installing lua5.3-libs (5.3.5-r6)
+(9/9) Installing vim (8.2.0735-r0)
+Executing busybox-1.31.1-r19.trigger
+OK: 477 MiB in 87 packages
+Removing intermediate container aca8d0779e86
+ ---> f82536a148ad
+Step 3/4 : RUN addgroup -g 10001 -s nonroot && adduser --shell /bin/bash -u 10000 -S -G nonroot /home/sakura sakura
+ ---> Running in d34b4d55816b
+addgroup: unrecognized option: s
+BusyBox v1.31.1 () multi-call binary.
+
+Usage: addgroup [-g GID] [-S] [USER] GROUP
+
+Add a group or add a user to a group
+
+        -g GID  Group id
+        -S      Create a system group
+ERROR: Service 'cppdev-alpine-sakura1' failed to build : The command '/bin/sh -c addgroup -g 10001 -s nonroot && adduser --shell /bin/bash -u 10000 -S -G nonroot /home/sakura sakura' returned a non-zero code: 1
+yamanaka@sakura:~/myprojects/dockers/202103/cppdev-alpine-sakura1$ 

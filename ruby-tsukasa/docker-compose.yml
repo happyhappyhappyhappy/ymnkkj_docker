@@ -1,0 +1,19 @@
+version: "3.8"
+services:
+# サービス名はdevcontainer.jsonのファイル内と一致させる
+  tsukasa1:
+    build:
+      context: .
+      dockerfile: ./.devcontainer/Dockerfile
+    image: tsukasa1_i
+    init: true
+    container_name: tsukasa1_c
+    hostname: tsukasa
+    stdin_open: true
+    tty: true
+    environment:
+      - DISPLAY=${DISPLAY}
+    volumes:
+      - /tmp/.X11-unix:/tmp/.X11-unix
+      - /home/sakura/unit_labo/ruby:/wrk:cached
+

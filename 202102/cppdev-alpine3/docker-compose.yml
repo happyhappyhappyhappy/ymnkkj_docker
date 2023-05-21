@@ -1,0 +1,16 @@
+version: "3.3"
+services: 
+  cppdev-alpine2:
+    init: true
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: cppdev-alpine2
+    container_name: cppdev-alpine2
+    volumes:
+      - type: bind
+        source: .
+        target: /arena
+    stdin_open: true
+    tty: true
+    working_dir: /arena/src/build

@@ -1,0 +1,19 @@
+version: "3.8"
+services:
+# サービス名はdevcontainer.jsonのファイル内と一致させる
+  pyotu3a:
+    build:
+      context: .
+      dockerfile: ./.devcontainer/Dockerfile
+    image: pyotu3ai
+    init: true
+    container_name: pyotu3ac
+    hostname: python3
+    stdin_open: true
+    tty: true
+    environment:
+      - DISPLAY=${DISPLAY}
+    volumes:
+      - /tmp/.X11-unix:/tmp/.X11-unix
+      - /home/sakura/unit_labo/python:/wrk:cached
+

@@ -1,0 +1,19 @@
+version: "3.8"
+services:
+# サービス名はdevcontainer.jsonのファイル内と一致させる
+  alma0X:
+    build:
+      context: .
+      dockerfile: ./.devcontainer/Dockerfile
+    image: alma0xi
+    init: true
+    container_name: alma0xc
+    hostname: alma0
+    stdin_open: true
+    tty: true
+    environment:
+      - DISPLAY=${DISPLAY}
+    volumes:
+      - /tmp/.X11-unix:/tmp/.X11-unix
+      - /home/sakura/unit_labo/alma:/wrk:cached
+

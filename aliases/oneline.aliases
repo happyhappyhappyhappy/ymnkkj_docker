@@ -1,0 +1,2 @@
+alias nowip='curl ifconfig.me'
+alias psfree2='ps auwfux | less -S'

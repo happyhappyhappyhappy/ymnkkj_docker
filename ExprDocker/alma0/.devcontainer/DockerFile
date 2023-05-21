@@ -1,0 +1,6 @@
+FROM almalinux:9.1
+
+RUN yum -y install sudo
+
+RUN useradd --uid 1001 --create-home --shell /bin/bash -G wheel,root alma-sudoer
+RUN echo '%wheel ALL=(ALL) NOPASSWD:ALL' >> /etc/sudoers
