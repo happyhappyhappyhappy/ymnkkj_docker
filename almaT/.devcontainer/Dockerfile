@@ -4,7 +4,7 @@ FROM almalinux:9.1
 ARG USER_UID=1000
 ARG USER_GID=${USER_UID}
 ARG USERNAME=asuka
-
+ENV DEBIAN_FRONTEND=noninteractive
 # 第一ステージ:基本設定
 RUN yum update \
 	&& yum -y upgrade \

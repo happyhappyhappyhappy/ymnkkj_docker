@@ -4,12 +4,12 @@ FROM almalinux:9.1
 ARG USER_UID=1000
 ARG USER_GID=${USER_UID}
 ARG USERNAME=ayame
-
+ENV DEBIAN_FRONTEND=noninteractive
 # 第一ステージ:基本設定
 RUN yum update \
 	&& yum -y upgrade \
 	&& yum -y install sudo zsh \
-	&& dnf update \
+	&& dnf -y update \
 	&& dnf -y install util-linux-user \
 	&& groupadd --gid ${USER_GID} ${USERNAME} \
 	&& useradd --uid ${USER_UID} --gid ${USER_GID} --create-home --shell /usr/bin/zsh -G wheel,root ${USER_NAME} \
