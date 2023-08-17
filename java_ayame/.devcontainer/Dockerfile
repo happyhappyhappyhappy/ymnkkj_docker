@@ -1,4 +1,4 @@
-FROM almalinux:9.1
+FROM almalinux:latest
 
 # 変数設定
 ARG USER_UID=1000

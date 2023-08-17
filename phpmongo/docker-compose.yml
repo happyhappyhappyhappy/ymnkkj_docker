@@ -1,19 +1,19 @@
 version: "3.8"
 services:
 # サービス名はdevcontainer.jsonのファイル内と一致させる
-  java-ayame1:
+  mariko:
     build:
       context: .
       dockerfile: ./.devcontainer/Dockerfile
-    image: ayame1i
+    image: mariko1i
     init: true
-    container_name: ayame1c
-    hostname: ayame_java
+    container_name: mariko1c
+    hostname: mariko
     stdin_open: true
     tty: true
     environment:
       - DISPLAY=${DISPLAY}
     volumes:
       - /tmp/.X11-unix:/tmp/.X11-unix
-      - /home/sakura/unit_labo/javas:/wrk:cached
+      - /home/sakura/unit_labo/phpmongo:/wrk:cached
 

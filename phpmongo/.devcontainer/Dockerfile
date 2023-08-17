@@ -1,18 +1,20 @@
 FROM almalinux:latest
-# almalinuxでpython3環境を作ってみた
+# 作成 2023/04/23
+# almalinuxの事前設定した内容を全て反映させた物
+
 # 変数設定
 ARG USER_UID=1000
 ARG USER_GID=${USER_UID}
-ARG USERNAME=aria
+ARG USERNAME=mariko
 ENV DEBIAN_FRONTEND=noninteractive
 # 第一ステージ:基本設定
 RUN yum update -y \
 	&& yum upgrade -y \
-	&& yum -y install sudo zsh jq \
+	&& yum -y install sudo zsh \
 	&& dnf update \
 	&& dnf -y install util-linux-user \
-#	&& groupadd --gid ${USER_GID} ${USERNAME} \
-	&& useradd --uid ${USER_UID} --create-home --shell /usr/bin/zsh -G wheel,root ${USERNAME} \
+	&& groupadd --gid ${USER_GID} ${USERNAME} \
+	&& useradd --uid ${USER_UID} --create-home --shell /usr/bin/zsh -G wheel,root,${USERNAME} ${USERNAME} \
 	&& echo '%wheel ALL=(ALL) NOPASSWD:ALL' >> /etc/sudoers
 # 第二ステージ:開発環境を想定したアプリを全部インストールする
 # 自動実行でエラーが出るようなら手動で行うしか無い
