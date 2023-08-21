@@ -1,4 +1,4 @@
-FROM almalinux:latest
+FROM almalinux:9.2
 # 作成 2023/04/23
 # almalinuxの事前設定した内容を全て反映させた物
 
@@ -14,7 +14,7 @@ RUN yum update -y \
 	&& dnf update \
 	&& dnf -y install util-linux-user \
 	&& groupadd --gid ${USER_GID} ${USERNAME} \
-	&& useradd --uid ${USER_UID} --create-home --shell /usr/bin/zsh -G wheel,root,${USERNAME} ${USERNAME} \
+	&& useradd --uid ${USER_UID} --gid 1000 --create-home --shell /usr/bin/zsh -G wheel,root,${USERNAME} ${USERNAME} \
 	&& echo '%wheel ALL=(ALL) NOPASSWD:ALL' >> /etc/sudoers
 # 第二ステージ:開発環境を想定したアプリを全部インストールする
 # 自動実行でエラーが出るようなら手動で行うしか無い

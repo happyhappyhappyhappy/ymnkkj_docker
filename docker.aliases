@@ -21,4 +21,5 @@ alias dockccl='grep container_name docker-compose.yml'
 alias dockstatus='sudo service docker status'
 alias dockstart='sudo service docker start'
 alias dockstop='sudo service docker stop'
-
+alias dockcacherm='docker builder prune'
+alias dockdf='docker system df'
