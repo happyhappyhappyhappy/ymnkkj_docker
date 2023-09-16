@@ -1,16 +1,19 @@
 version: "3.8"
 services:
 # サービス名はdevcontainer.jsonのファイル内と一致させる
-  ruri_rust1:
+  ruriapp:
     build:
       context: .
       dockerfile: ./.devcontainer/Dockerfile
-    image: ruri_rust1i
+    image: ruri02i
     init: true
-    container_name: ruri_rust1c
-    hostname: ruri1
+    container_name: ruri02c
+    hostname: ruri02
     stdin_open: true
     tty: true
+    environment:
+      - DISPLAY=${DISPLAY}
     volumes:
-      - /home/yamanaka/unit_labo/ruri1_rust:/wrk:cached
+      - /tmp/.X11-unix:/tmp/.X11-unix
+      - /home/sakura/unit_labo/rust:/wrk:cached
 

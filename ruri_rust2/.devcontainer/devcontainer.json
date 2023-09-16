@@ -2,7 +2,7 @@
 // https://github.com/microsoft/vscode-dev-containers/tree/v0.191.1/containers/docker-existing-docker-compose
 // If you want to run as a non-root user in the container, see .devcontainer/docker-compose.yml.
 {
-	"name": "ruri_rust1",
+	"name": "rust環境2",
 
 	// Update the 'dockerComposeFile' list if you have more compose files or use different names.
 	// The .devcontainer/docker-compose.yml file contains any overrides you need/want to make.
@@ -12,20 +12,24 @@
 
 	// The 'service' property is the name of the service for the container that VS Code should
 	// use. Update this value and .devcontainer/docker-compose.yml to the real service name.
-	"service": "ruri_rust1",
+	"service": "ruriapp",
+
 
 	// The optional 'workspaceFolder' property is the path VS Code should open by default when
 	// connected. This is typically a file mount in .devcontainer/docker-compose.yml
-	"workspaceFolder": "/wrk",
+	"workspaceFolder": "/wrk/",
 
 	// Set *default* container specific settings.json values on container create.
-	"settings": {},
+	//	"settings": {},
 
 	// Add the IDs of extensions you want installed when the container is created.
-	"extensions": [
-	],
+	// "extensions": [
+	//	"ms-vscode.cpptools",
+	//	"ms-vscode.cmake-tools",
+	//	"ms-vscode.cpptools-extension-pack"
+	// ],
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
-	// "forwardPorts": [30511],
+    // "forwardPorts": [33011,33012,33013,33014,33015,33016,33017,33018,33019,33020],
 
 	// Uncomment the next line if you want start specific services in your Docker Compose config.
 	// "runServices": [],
