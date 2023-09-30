@@ -1,0 +1,19 @@
+version: "3.8"
+services:
+# サービス名はdevcontainer.jsonのファイル内と一致させる
+  kagami01:
+    build:
+      context: .
+      dockerfile: ./.devcontainer/Dockerfile
+    image: kagami01i
+    init: true
+    container_name: kagami01c
+    hostname: kagami01
+    stdin_open: true
+    tty: true
+    environment:
+      - DISPLAY=${DISPLAY}
+    volumes:
+      - /tmp/.X11-unix:/tmp/.X11-unix
+      - /home/sakura/unit_labo/cpplabo:/wrk:cached
+
