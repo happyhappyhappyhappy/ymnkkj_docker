@@ -1,0 +1,29 @@
+version: '3'
+services:
+  mongodb:
+    image: mongo:latest
+    container_name: my_mongodb
+    ports:
+      - "27017:27017"
+    volumes:
+      - /home/sakura/unit_labo/dbdev/mongo01:/data/db
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: examplepassword
+
+  your_app:
+    build:
+      dockerfile: .devcontainer/Dockerfile  # DevContainerのDockerfileを指定
+    depends_on:
+      - mongodb
+    volumes:
+      - /home/sakura/unit_labo/coupletest:/wrk  # ホストとコンテナ間でファイルの同期を行う
+
+# DevContainer用のサービスを追加することもできます
+# devcontainer:
+#   build:
+#     context: ./your_app_directory
+#     dockerfile: .devcontainer/Dockerfile
+#   volumes:
+#     - ./your_app_directory:/workspace
+
