@@ -1,6 +1,4 @@
 FROM almalinux:9.3
-# 修正 9.2->9.3
-# 修正日 2024/02/12
 # 修正 9.1->9.2
 # 作成 2023/04/23
 # almalinuxの事前設定した内容を全て反映させた物
@@ -8,7 +6,7 @@ FROM almalinux:9.3
 # 変数設定
 ARG USER_UID=1000
 ARG USER_GID=${USER_UID}
-ARG USERNAME=rei
+ARG USERNAME=fumie
 ENV DEBIAN_FRONTEND=noninteractive
 # 第一ステージ:基本設定
 RUN yum update -y \

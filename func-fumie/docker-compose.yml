@@ -1,0 +1,19 @@
+version: "3.8"
+services:
+# サービス名はdevcontainer.jsonのファイル内と一致させる
+  fumie01:
+    build:
+      context: .
+      dockerfile: ./.devcontainer/Dockerfile
+    image: fumie01i
+    init: true
+    container_name: fumie01c
+    hostname: fumie01
+    stdin_open: true
+    tty: true
+    environment:
+      - DISPLAY=${DISPLAY}
+    volumes:
+      - /tmp/.X11-unix:/tmp/.X11-unix
+      - /home/sakura/unit_labo/funcs:/wrk:cached
+
