@@ -1,0 +1,19 @@
+version: "3.8"
+services:
+# サービス名はdevcontainer.jsonのファイル内と一致させる
+  golang01:
+    build:
+      context: .
+      dockerfile: ./.devcontainer/Dockerfile
+    image: golang01i
+    init: true
+    container_name: golang01c
+    hostname: gomaki1
+    stdin_open: true
+    tty: true
+    environment:
+      - DISPLAY=${DISPLAY}
+    volumes:
+      - /tmp/.X11-unix:/tmp/.X11-unix
+      - /home/sakura/unit_labo/golang:/wrk:cached
+
