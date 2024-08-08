@@ -10,7 +10,7 @@ FROM almalinux:9.4
 # 変数設定
 ARG USER_UID=1000
 ARG USER_GID=${USER_UID}
-ARG USERNAME=ayami
+ARG USERNAME=rei
 ENV DEBIAN_FRONTEND=noninteractive
 # 第一ステージ:基本設定
 RUN yum update -y \
